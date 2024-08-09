@@ -1,0 +1,1358 @@
+[0,50.05] time;
+[17,23] x;
+[0,50.05] clock;
+
+// on_obs0
+{
+	 mode 1;
+	 invt:
+		 (and (x <= 22.0) (clock < 0.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @53(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 0.0 - 0.05) (clock < 0.0 + 0.05)) (and (x > 19.3 - 0.1) (x < 19.3 + 0.1))) ==> @2(and (x' = x) (clock' = clock));
+}
+// on_obs1
+{
+	 mode 2;
+	 invt:
+		 (and (x <= 22.0) (clock < 1.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @54(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 1.0 - 0.05) (clock < 1.0 + 0.05)) (and (x > 19.1 - 0.1) (x < 19.1 + 0.1))) ==> @3(and (x' = x) (clock' = clock));
+}
+// on_obs2
+{
+	 mode 3;
+	 invt:
+		 (and (x <= 22.0) (clock < 2.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @55(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 2.0 - 0.05) (clock < 2.0 + 0.05)) (and (x > 18.9 - 0.1) (x < 18.9 + 0.1))) ==> @4(and (x' = x) (clock' = clock));
+}
+// on_obs3
+{
+	 mode 4;
+	 invt:
+		 (and (x <= 22.0) (clock < 3.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @56(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 3.0 - 0.05) (clock < 3.0 + 0.05)) (and (x > 19.2 - 0.1) (x < 19.2 + 0.1))) ==> @5(and (x' = x) (clock' = clock));
+}
+// on_obs4
+{
+	 mode 5;
+	 invt:
+		 (and (x <= 22.0) (clock < 4.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @57(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 4.0 - 0.05) (clock < 4.0 + 0.05)) (and (x > 20.0 - 0.1) (x < 20.0 + 0.1))) ==> @6(and (x' = x) (clock' = clock));
+}
+// on_obs5
+{
+	 mode 6;
+	 invt:
+		 (and (x <= 22.0) (clock < 5.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @58(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 5.0 - 0.05) (clock < 5.0 + 0.05)) (and (x > 20.8 - 0.1) (x < 20.8 + 0.1))) ==> @7(and (x' = x) (clock' = clock));
+}
+// on_obs6
+{
+	 mode 7;
+	 invt:
+		 (and (x <= 22.0) (clock < 6.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @59(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 6.0 - 0.05) (clock < 6.0 + 0.05)) (and (x > 21.6 - 0.1) (x < 21.6 + 0.1))) ==> @8(and (x' = x) (clock' = clock));
+}
+// on_obs7
+{
+	 mode 8;
+	 invt:
+		 (and (x <= 22.0) (clock < 7.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @60(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 7.0 - 0.05) (clock < 7.0 + 0.05)) (and (x > 21.78 - 0.1) (x < 21.78 + 0.1))) ==> @9(and (x' = x) (clock' = clock));
+}
+// on_obs8
+{
+	 mode 9;
+	 invt:
+		 (and (x <= 22.0) (clock < 8.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @61(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 8.0 - 0.05) (clock < 8.0 + 0.05)) (and (x > 21.58 - 0.1) (x < 21.58 + 0.1))) ==> @10(and (x' = x) (clock' = clock));
+}
+// on_obs9
+{
+	 mode 10;
+	 invt:
+		 (and (x <= 22.0) (clock < 9.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @62(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 9.0 - 0.05) (clock < 9.0 + 0.05)) (and (x > 21.38 - 0.1) (x < 21.38 + 0.1))) ==> @11(and (x' = x) (clock' = clock));
+}
+// on_obs10
+{
+	 mode 11;
+	 invt:
+		 (and (x <= 22.0) (clock < 10.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @63(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 10.0 - 0.05) (clock < 10.0 + 0.05)) (and (x > 21.18 - 0.1) (x < 21.18 + 0.1))) ==> @12(and (x' = x) (clock' = clock));
+}
+// on_obs11
+{
+	 mode 12;
+	 invt:
+		 (and (x <= 22.0) (clock < 11.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @64(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 11.0 - 0.05) (clock < 11.0 + 0.05)) (and (x > 20.98 - 0.1) (x < 20.98 + 0.1))) ==> @13(and (x' = x) (clock' = clock));
+}
+// on_obs12
+{
+	 mode 13;
+	 invt:
+		 (and (x <= 22.0) (clock < 12.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @65(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 12.0 - 0.05) (clock < 12.0 + 0.05)) (and (x > 20.78 - 0.1) (x < 20.78 + 0.1))) ==> @14(and (x' = x) (clock' = clock));
+}
+// on_obs13
+{
+	 mode 14;
+	 invt:
+		 (and (x <= 22.0) (clock < 13.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @66(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 13.0 - 0.05) (clock < 13.0 + 0.05)) (and (x > 20.58 - 0.1) (x < 20.58 + 0.1))) ==> @15(and (x' = x) (clock' = clock));
+}
+// on_obs14
+{
+	 mode 15;
+	 invt:
+		 (and (x <= 22.0) (clock < 14.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @67(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 14.0 - 0.05) (clock < 14.0 + 0.05)) (and (x > 20.38 - 0.1) (x < 20.38 + 0.1))) ==> @16(and (x' = x) (clock' = clock));
+}
+// on_obs15
+{
+	 mode 16;
+	 invt:
+		 (and (x <= 22.0) (clock < 15.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @68(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 15.0 - 0.05) (clock < 15.0 + 0.05)) (and (x > 20.18 - 0.1) (x < 20.18 + 0.1))) ==> @17(and (x' = x) (clock' = clock));
+}
+// on_obs16
+{
+	 mode 17;
+	 invt:
+		 (and (x <= 22.0) (clock < 16.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @69(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 16.0 - 0.05) (clock < 16.0 + 0.05)) (and (x > 19.98 - 0.1) (x < 19.98 + 0.1))) ==> @18(and (x' = x) (clock' = clock));
+}
+// on_obs17
+{
+	 mode 18;
+	 invt:
+		 (and (x <= 22.0) (clock < 17.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @70(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 17.0 - 0.05) (clock < 17.0 + 0.05)) (and (x > 19.78 - 0.1) (x < 19.78 + 0.1))) ==> @19(and (x' = x) (clock' = clock));
+}
+// on_obs18
+{
+	 mode 19;
+	 invt:
+		 (and (x <= 22.0) (clock < 18.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @71(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 18.0 - 0.05) (clock < 18.0 + 0.05)) (and (x > 19.58 - 0.1) (x < 19.58 + 0.1))) ==> @20(and (x' = x) (clock' = clock));
+}
+// on_obs19
+{
+	 mode 20;
+	 invt:
+		 (and (x <= 22.0) (clock < 19.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @72(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 19.0 - 0.05) (clock < 19.0 + 0.05)) (and (x > 19.38 - 0.1) (x < 19.38 + 0.1))) ==> @21(and (x' = x) (clock' = clock));
+}
+// on_obs20
+{
+	 mode 21;
+	 invt:
+		 (and (x <= 22.0) (clock < 20.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @73(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 20.0 - 0.05) (clock < 20.0 + 0.05)) (and (x > 19.18 - 0.1) (x < 19.18 + 0.1))) ==> @22(and (x' = x) (clock' = clock));
+}
+// on_obs21
+{
+	 mode 22;
+	 invt:
+		 (and (x <= 22.0) (clock < 21.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @74(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 21.0 - 0.05) (clock < 21.0 + 0.05)) (and (x > 18.98 - 0.1) (x < 18.98 + 0.1))) ==> @23(and (x' = x) (clock' = clock));
+}
+// on_obs22
+{
+	 mode 23;
+	 invt:
+		 (and (x <= 22.0) (clock < 22.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @75(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 22.0 - 0.05) (clock < 22.0 + 0.05)) (and (x > 18.88 - 0.1) (x < 18.88 + 0.1))) ==> @24(and (x' = x) (clock' = clock));
+}
+// on_obs23
+{
+	 mode 24;
+	 invt:
+		 (and (x <= 22.0) (clock < 23.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @76(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 23.0 - 0.05) (clock < 23.0 + 0.05)) (and (x > 19.68 - 0.1) (x < 19.68 + 0.1))) ==> @25(and (x' = x) (clock' = clock));
+}
+// on_obs24
+{
+	 mode 25;
+	 invt:
+		 (and (x <= 22.0) (clock < 24.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @77(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 24.0 - 0.05) (clock < 24.0 + 0.05)) (and (x > 20.48 - 0.1) (x < 20.48 + 0.1))) ==> @26(and (x' = x) (clock' = clock));
+}
+// on_obs25
+{
+	 mode 26;
+	 invt:
+		 (and (x <= 22.0) (clock < 25.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @78(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 25.0 - 0.05) (clock < 25.0 + 0.05)) (and (x > 21.28 - 0.1) (x < 21.28 + 0.1))) ==> @27(and (x' = x) (clock' = clock));
+}
+// on_obs26
+{
+	 mode 27;
+	 invt:
+		 (and (x <= 22.0) (clock < 26.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @79(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 26.0 - 0.05) (clock < 26.0 + 0.05)) (and (x > 21.86 - 0.1) (x < 21.86 + 0.1))) ==> @28(and (x' = x) (clock' = clock));
+}
+// on_obs27
+{
+	 mode 28;
+	 invt:
+		 (and (x <= 22.0) (clock < 27.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @80(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 27.0 - 0.05) (clock < 27.0 + 0.05)) (and (x > 21.66 - 0.1) (x < 21.66 + 0.1))) ==> @29(and (x' = x) (clock' = clock));
+}
+// on_obs28
+{
+	 mode 29;
+	 invt:
+		 (and (x <= 22.0) (clock < 28.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @81(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 28.0 - 0.05) (clock < 28.0 + 0.05)) (and (x > 21.46 - 0.1) (x < 21.46 + 0.1))) ==> @30(and (x' = x) (clock' = clock));
+}
+// on_obs29
+{
+	 mode 30;
+	 invt:
+		 (and (x <= 22.0) (clock < 29.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @82(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 29.0 - 0.05) (clock < 29.0 + 0.05)) (and (x > 21.26 - 0.1) (x < 21.26 + 0.1))) ==> @31(and (x' = x) (clock' = clock));
+}
+// on_obs30
+{
+	 mode 31;
+	 invt:
+		 (and (x <= 22.0) (clock < 30.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @83(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 30.0 - 0.05) (clock < 30.0 + 0.05)) (and (x > 21.06 - 0.1) (x < 21.06 + 0.1))) ==> @32(and (x' = x) (clock' = clock));
+}
+// on_obs31
+{
+	 mode 32;
+	 invt:
+		 (and (x <= 22.0) (clock < 31.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @84(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 31.0 - 0.05) (clock < 31.0 + 0.05)) (and (x > 20.86 - 0.1) (x < 20.86 + 0.1))) ==> @33(and (x' = x) (clock' = clock));
+}
+// on_obs32
+{
+	 mode 33;
+	 invt:
+		 (and (x <= 22.0) (clock < 32.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @85(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 32.0 - 0.05) (clock < 32.0 + 0.05)) (and (x > 20.66 - 0.1) (x < 20.66 + 0.1))) ==> @34(and (x' = x) (clock' = clock));
+}
+// on_obs33
+{
+	 mode 34;
+	 invt:
+		 (and (x <= 22.0) (clock < 33.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @86(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 33.0 - 0.05) (clock < 33.0 + 0.05)) (and (x > 20.46 - 0.1) (x < 20.46 + 0.1))) ==> @35(and (x' = x) (clock' = clock));
+}
+// on_obs34
+{
+	 mode 35;
+	 invt:
+		 (and (x <= 22.0) (clock < 34.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @87(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 34.0 - 0.05) (clock < 34.0 + 0.05)) (and (x > 20.26 - 0.1) (x < 20.26 + 0.1))) ==> @36(and (x' = x) (clock' = clock));
+}
+// on_obs35
+{
+	 mode 36;
+	 invt:
+		 (and (x <= 22.0) (clock < 35.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @88(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 35.0 - 0.05) (clock < 35.0 + 0.05)) (and (x > 20.06 - 0.1) (x < 20.06 + 0.1))) ==> @37(and (x' = x) (clock' = clock));
+}
+// on_obs36
+{
+	 mode 37;
+	 invt:
+		 (and (x <= 22.0) (clock < 36.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @89(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 36.0 - 0.05) (clock < 36.0 + 0.05)) (and (x > 19.86 - 0.1) (x < 19.86 + 0.1))) ==> @38(and (x' = x) (clock' = clock));
+}
+// on_obs37
+{
+	 mode 38;
+	 invt:
+		 (and (x <= 22.0) (clock < 37.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @90(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 37.0 - 0.05) (clock < 37.0 + 0.05)) (and (x > 19.66 - 0.1) (x < 19.66 + 0.1))) ==> @39(and (x' = x) (clock' = clock));
+}
+// on_obs38
+{
+	 mode 39;
+	 invt:
+		 (and (x <= 22.0) (clock < 38.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @91(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 38.0 - 0.05) (clock < 38.0 + 0.05)) (and (x > 19.46 - 0.1) (x < 19.46 + 0.1))) ==> @40(and (x' = x) (clock' = clock));
+}
+// on_obs39
+{
+	 mode 40;
+	 invt:
+		 (and (x <= 22.0) (clock < 39.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @92(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 39.0 - 0.05) (clock < 39.0 + 0.05)) (and (x > 19.26 - 0.1) (x < 19.26 + 0.1))) ==> @41(and (x' = x) (clock' = clock));
+}
+// on_obs40
+{
+	 mode 41;
+	 invt:
+		 (and (x <= 22.0) (clock < 40.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @93(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 40.0 - 0.05) (clock < 40.0 + 0.05)) (and (x > 19.06 - 0.1) (x < 19.06 + 0.1))) ==> @42(and (x' = x) (clock' = clock));
+}
+// on_obs41
+{
+	 mode 42;
+	 invt:
+		 (and (x <= 22.0) (clock < 41.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @94(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 41.0 - 0.05) (clock < 41.0 + 0.05)) (and (x > 18.86 - 0.1) (x < 18.86 + 0.1))) ==> @43(and (x' = x) (clock' = clock));
+}
+// on_obs42
+{
+	 mode 43;
+	 invt:
+		 (and (x <= 22.0) (clock < 42.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @95(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 42.0 - 0.05) (clock < 42.0 + 0.05)) (and (x > 19.36 - 0.1) (x < 19.36 + 0.1))) ==> @44(and (x' = x) (clock' = clock));
+}
+// on_obs43
+{
+	 mode 44;
+	 invt:
+		 (and (x <= 22.0) (clock < 43.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @96(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 43.0 - 0.05) (clock < 43.0 + 0.05)) (and (x > 20.16 - 0.1) (x < 20.16 + 0.1))) ==> @45(and (x' = x) (clock' = clock));
+}
+// on_obs44
+{
+	 mode 45;
+	 invt:
+		 (and (x <= 22.0) (clock < 44.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @97(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 44.0 - 0.05) (clock < 44.0 + 0.05)) (and (x > 20.96 - 0.1) (x < 20.96 + 0.1))) ==> @46(and (x' = x) (clock' = clock));
+}
+// on_obs45
+{
+	 mode 46;
+	 invt:
+		 (and (x <= 22.0) (clock < 45.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @98(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 45.0 - 0.05) (clock < 45.0 + 0.05)) (and (x > 21.76 - 0.1) (x < 21.76 + 0.1))) ==> @47(and (x' = x) (clock' = clock));
+}
+// on_obs46
+{
+	 mode 47;
+	 invt:
+		 (and (x <= 22.0) (clock < 46.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @99(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 46.0 - 0.05) (clock < 46.0 + 0.05)) (and (x > 21.74 - 0.1) (x < 21.74 + 0.1))) ==> @48(and (x' = x) (clock' = clock));
+}
+// on_obs47
+{
+	 mode 48;
+	 invt:
+		 (and (x <= 22.0) (clock < 47.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @100(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 47.0 - 0.05) (clock < 47.0 + 0.05)) (and (x > 21.54 - 0.1) (x < 21.54 + 0.1))) ==> @49(and (x' = x) (clock' = clock));
+}
+// on_obs48
+{
+	 mode 49;
+	 invt:
+		 (and (x <= 22.0) (clock < 48.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @101(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 48.0 - 0.05) (clock < 48.0 + 0.05)) (and (x > 21.34 - 0.1) (x < 21.34 + 0.1))) ==> @50(and (x' = x) (clock' = clock));
+}
+// on_obs49
+{
+	 mode 50;
+	 invt:
+		 (and (x <= 22.0) (clock < 49.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @102(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 49.0 - 0.05) (clock < 49.0 + 0.05)) (and (x > 21.14 - 0.1) (x < 21.14 + 0.1))) ==> @51(and (x' = x) (clock' = clock));
+}
+// on_obs50
+{
+	 mode 51;
+	 invt:
+		 (and (x <= 22.0) (clock < 50.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @103(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 50.0 - 0.05) (clock < 50.0 + 0.05)) (and (x > 20.94 - 0.1) (x < 20.94 + 0.1))) ==> @52(and (x' = x) (clock' = clock));
+}
+// on_obs51
+{
+	 mode 52;
+	 invt:
+		 (and (x <= 22.0) (clock < 50.0 + 0.05));
+	 flow:
+		 d/dt[x] = 0.8;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x > 21.0) ==> @104(and (x' = x) (clock' = clock));
+}
+// off_obs0
+{
+	 mode 53;
+	 invt:
+		 (and (x >= 18.0) (clock < 0.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @1(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 0.0 - 0.05) (clock < 0.0 + 0.05)) (and (x > 19.3 - 0.1) (x < 19.3 + 0.1))) ==> @54(and (x' = x) (clock' = clock));
+}
+// off_obs1
+{
+	 mode 54;
+	 invt:
+		 (and (x >= 18.0) (clock < 1.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @2(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 1.0 - 0.05) (clock < 1.0 + 0.05)) (and (x > 19.1 - 0.1) (x < 19.1 + 0.1))) ==> @55(and (x' = x) (clock' = clock));
+}
+// off_obs2
+{
+	 mode 55;
+	 invt:
+		 (and (x >= 18.0) (clock < 2.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @3(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 2.0 - 0.05) (clock < 2.0 + 0.05)) (and (x > 18.9 - 0.1) (x < 18.9 + 0.1))) ==> @56(and (x' = x) (clock' = clock));
+}
+// off_obs3
+{
+	 mode 56;
+	 invt:
+		 (and (x >= 18.0) (clock < 3.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @4(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 3.0 - 0.05) (clock < 3.0 + 0.05)) (and (x > 19.2 - 0.1) (x < 19.2 + 0.1))) ==> @57(and (x' = x) (clock' = clock));
+}
+// off_obs4
+{
+	 mode 57;
+	 invt:
+		 (and (x >= 18.0) (clock < 4.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @5(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 4.0 - 0.05) (clock < 4.0 + 0.05)) (and (x > 20.0 - 0.1) (x < 20.0 + 0.1))) ==> @58(and (x' = x) (clock' = clock));
+}
+// off_obs5
+{
+	 mode 58;
+	 invt:
+		 (and (x >= 18.0) (clock < 5.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @6(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 5.0 - 0.05) (clock < 5.0 + 0.05)) (and (x > 20.8 - 0.1) (x < 20.8 + 0.1))) ==> @59(and (x' = x) (clock' = clock));
+}
+// off_obs6
+{
+	 mode 59;
+	 invt:
+		 (and (x >= 18.0) (clock < 6.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @7(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 6.0 - 0.05) (clock < 6.0 + 0.05)) (and (x > 21.6 - 0.1) (x < 21.6 + 0.1))) ==> @60(and (x' = x) (clock' = clock));
+}
+// off_obs7
+{
+	 mode 60;
+	 invt:
+		 (and (x >= 18.0) (clock < 7.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @8(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 7.0 - 0.05) (clock < 7.0 + 0.05)) (and (x > 21.78 - 0.1) (x < 21.78 + 0.1))) ==> @61(and (x' = x) (clock' = clock));
+}
+// off_obs8
+{
+	 mode 61;
+	 invt:
+		 (and (x >= 18.0) (clock < 8.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @9(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 8.0 - 0.05) (clock < 8.0 + 0.05)) (and (x > 21.58 - 0.1) (x < 21.58 + 0.1))) ==> @62(and (x' = x) (clock' = clock));
+}
+// off_obs9
+{
+	 mode 62;
+	 invt:
+		 (and (x >= 18.0) (clock < 9.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @10(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 9.0 - 0.05) (clock < 9.0 + 0.05)) (and (x > 21.38 - 0.1) (x < 21.38 + 0.1))) ==> @63(and (x' = x) (clock' = clock));
+}
+// off_obs10
+{
+	 mode 63;
+	 invt:
+		 (and (x >= 18.0) (clock < 10.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @11(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 10.0 - 0.05) (clock < 10.0 + 0.05)) (and (x > 21.18 - 0.1) (x < 21.18 + 0.1))) ==> @64(and (x' = x) (clock' = clock));
+}
+// off_obs11
+{
+	 mode 64;
+	 invt:
+		 (and (x >= 18.0) (clock < 11.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @12(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 11.0 - 0.05) (clock < 11.0 + 0.05)) (and (x > 20.98 - 0.1) (x < 20.98 + 0.1))) ==> @65(and (x' = x) (clock' = clock));
+}
+// off_obs12
+{
+	 mode 65;
+	 invt:
+		 (and (x >= 18.0) (clock < 12.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @13(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 12.0 - 0.05) (clock < 12.0 + 0.05)) (and (x > 20.78 - 0.1) (x < 20.78 + 0.1))) ==> @66(and (x' = x) (clock' = clock));
+}
+// off_obs13
+{
+	 mode 66;
+	 invt:
+		 (and (x >= 18.0) (clock < 13.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @14(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 13.0 - 0.05) (clock < 13.0 + 0.05)) (and (x > 20.58 - 0.1) (x < 20.58 + 0.1))) ==> @67(and (x' = x) (clock' = clock));
+}
+// off_obs14
+{
+	 mode 67;
+	 invt:
+		 (and (x >= 18.0) (clock < 14.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @15(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 14.0 - 0.05) (clock < 14.0 + 0.05)) (and (x > 20.38 - 0.1) (x < 20.38 + 0.1))) ==> @68(and (x' = x) (clock' = clock));
+}
+// off_obs15
+{
+	 mode 68;
+	 invt:
+		 (and (x >= 18.0) (clock < 15.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @16(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 15.0 - 0.05) (clock < 15.0 + 0.05)) (and (x > 20.18 - 0.1) (x < 20.18 + 0.1))) ==> @69(and (x' = x) (clock' = clock));
+}
+// off_obs16
+{
+	 mode 69;
+	 invt:
+		 (and (x >= 18.0) (clock < 16.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @17(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 16.0 - 0.05) (clock < 16.0 + 0.05)) (and (x > 19.98 - 0.1) (x < 19.98 + 0.1))) ==> @70(and (x' = x) (clock' = clock));
+}
+// off_obs17
+{
+	 mode 70;
+	 invt:
+		 (and (x >= 18.0) (clock < 17.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @18(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 17.0 - 0.05) (clock < 17.0 + 0.05)) (and (x > 19.78 - 0.1) (x < 19.78 + 0.1))) ==> @71(and (x' = x) (clock' = clock));
+}
+// off_obs18
+{
+	 mode 71;
+	 invt:
+		 (and (x >= 18.0) (clock < 18.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @19(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 18.0 - 0.05) (clock < 18.0 + 0.05)) (and (x > 19.58 - 0.1) (x < 19.58 + 0.1))) ==> @72(and (x' = x) (clock' = clock));
+}
+// off_obs19
+{
+	 mode 72;
+	 invt:
+		 (and (x >= 18.0) (clock < 19.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @20(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 19.0 - 0.05) (clock < 19.0 + 0.05)) (and (x > 19.38 - 0.1) (x < 19.38 + 0.1))) ==> @73(and (x' = x) (clock' = clock));
+}
+// off_obs20
+{
+	 mode 73;
+	 invt:
+		 (and (x >= 18.0) (clock < 20.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @21(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 20.0 - 0.05) (clock < 20.0 + 0.05)) (and (x > 19.18 - 0.1) (x < 19.18 + 0.1))) ==> @74(and (x' = x) (clock' = clock));
+}
+// off_obs21
+{
+	 mode 74;
+	 invt:
+		 (and (x >= 18.0) (clock < 21.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @22(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 21.0 - 0.05) (clock < 21.0 + 0.05)) (and (x > 18.98 - 0.1) (x < 18.98 + 0.1))) ==> @75(and (x' = x) (clock' = clock));
+}
+// off_obs22
+{
+	 mode 75;
+	 invt:
+		 (and (x >= 18.0) (clock < 22.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @23(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 22.0 - 0.05) (clock < 22.0 + 0.05)) (and (x > 18.88 - 0.1) (x < 18.88 + 0.1))) ==> @76(and (x' = x) (clock' = clock));
+}
+// off_obs23
+{
+	 mode 76;
+	 invt:
+		 (and (x >= 18.0) (clock < 23.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @24(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 23.0 - 0.05) (clock < 23.0 + 0.05)) (and (x > 19.68 - 0.1) (x < 19.68 + 0.1))) ==> @77(and (x' = x) (clock' = clock));
+}
+// off_obs24
+{
+	 mode 77;
+	 invt:
+		 (and (x >= 18.0) (clock < 24.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @25(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 24.0 - 0.05) (clock < 24.0 + 0.05)) (and (x > 20.48 - 0.1) (x < 20.48 + 0.1))) ==> @78(and (x' = x) (clock' = clock));
+}
+// off_obs25
+{
+	 mode 78;
+	 invt:
+		 (and (x >= 18.0) (clock < 25.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @26(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 25.0 - 0.05) (clock < 25.0 + 0.05)) (and (x > 21.28 - 0.1) (x < 21.28 + 0.1))) ==> @79(and (x' = x) (clock' = clock));
+}
+// off_obs26
+{
+	 mode 79;
+	 invt:
+		 (and (x >= 18.0) (clock < 26.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @27(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 26.0 - 0.05) (clock < 26.0 + 0.05)) (and (x > 21.86 - 0.1) (x < 21.86 + 0.1))) ==> @80(and (x' = x) (clock' = clock));
+}
+// off_obs27
+{
+	 mode 80;
+	 invt:
+		 (and (x >= 18.0) (clock < 27.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @28(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 27.0 - 0.05) (clock < 27.0 + 0.05)) (and (x > 21.66 - 0.1) (x < 21.66 + 0.1))) ==> @81(and (x' = x) (clock' = clock));
+}
+// off_obs28
+{
+	 mode 81;
+	 invt:
+		 (and (x >= 18.0) (clock < 28.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @29(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 28.0 - 0.05) (clock < 28.0 + 0.05)) (and (x > 21.46 - 0.1) (x < 21.46 + 0.1))) ==> @82(and (x' = x) (clock' = clock));
+}
+// off_obs29
+{
+	 mode 82;
+	 invt:
+		 (and (x >= 18.0) (clock < 29.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @30(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 29.0 - 0.05) (clock < 29.0 + 0.05)) (and (x > 21.26 - 0.1) (x < 21.26 + 0.1))) ==> @83(and (x' = x) (clock' = clock));
+}
+// off_obs30
+{
+	 mode 83;
+	 invt:
+		 (and (x >= 18.0) (clock < 30.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @31(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 30.0 - 0.05) (clock < 30.0 + 0.05)) (and (x > 21.06 - 0.1) (x < 21.06 + 0.1))) ==> @84(and (x' = x) (clock' = clock));
+}
+// off_obs31
+{
+	 mode 84;
+	 invt:
+		 (and (x >= 18.0) (clock < 31.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @32(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 31.0 - 0.05) (clock < 31.0 + 0.05)) (and (x > 20.86 - 0.1) (x < 20.86 + 0.1))) ==> @85(and (x' = x) (clock' = clock));
+}
+// off_obs32
+{
+	 mode 85;
+	 invt:
+		 (and (x >= 18.0) (clock < 32.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @33(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 32.0 - 0.05) (clock < 32.0 + 0.05)) (and (x > 20.66 - 0.1) (x < 20.66 + 0.1))) ==> @86(and (x' = x) (clock' = clock));
+}
+// off_obs33
+{
+	 mode 86;
+	 invt:
+		 (and (x >= 18.0) (clock < 33.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @34(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 33.0 - 0.05) (clock < 33.0 + 0.05)) (and (x > 20.46 - 0.1) (x < 20.46 + 0.1))) ==> @87(and (x' = x) (clock' = clock));
+}
+// off_obs34
+{
+	 mode 87;
+	 invt:
+		 (and (x >= 18.0) (clock < 34.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @35(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 34.0 - 0.05) (clock < 34.0 + 0.05)) (and (x > 20.26 - 0.1) (x < 20.26 + 0.1))) ==> @88(and (x' = x) (clock' = clock));
+}
+// off_obs35
+{
+	 mode 88;
+	 invt:
+		 (and (x >= 18.0) (clock < 35.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @36(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 35.0 - 0.05) (clock < 35.0 + 0.05)) (and (x > 20.06 - 0.1) (x < 20.06 + 0.1))) ==> @89(and (x' = x) (clock' = clock));
+}
+// off_obs36
+{
+	 mode 89;
+	 invt:
+		 (and (x >= 18.0) (clock < 36.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @37(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 36.0 - 0.05) (clock < 36.0 + 0.05)) (and (x > 19.86 - 0.1) (x < 19.86 + 0.1))) ==> @90(and (x' = x) (clock' = clock));
+}
+// off_obs37
+{
+	 mode 90;
+	 invt:
+		 (and (x >= 18.0) (clock < 37.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @38(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 37.0 - 0.05) (clock < 37.0 + 0.05)) (and (x > 19.66 - 0.1) (x < 19.66 + 0.1))) ==> @91(and (x' = x) (clock' = clock));
+}
+// off_obs38
+{
+	 mode 91;
+	 invt:
+		 (and (x >= 18.0) (clock < 38.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @39(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 38.0 - 0.05) (clock < 38.0 + 0.05)) (and (x > 19.46 - 0.1) (x < 19.46 + 0.1))) ==> @92(and (x' = x) (clock' = clock));
+}
+// off_obs39
+{
+	 mode 92;
+	 invt:
+		 (and (x >= 18.0) (clock < 39.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @40(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 39.0 - 0.05) (clock < 39.0 + 0.05)) (and (x > 19.26 - 0.1) (x < 19.26 + 0.1))) ==> @93(and (x' = x) (clock' = clock));
+}
+// off_obs40
+{
+	 mode 93;
+	 invt:
+		 (and (x >= 18.0) (clock < 40.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @41(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 40.0 - 0.05) (clock < 40.0 + 0.05)) (and (x > 19.06 - 0.1) (x < 19.06 + 0.1))) ==> @94(and (x' = x) (clock' = clock));
+}
+// off_obs41
+{
+	 mode 94;
+	 invt:
+		 (and (x >= 18.0) (clock < 41.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @42(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 41.0 - 0.05) (clock < 41.0 + 0.05)) (and (x > 18.86 - 0.1) (x < 18.86 + 0.1))) ==> @95(and (x' = x) (clock' = clock));
+}
+// off_obs42
+{
+	 mode 95;
+	 invt:
+		 (and (x >= 18.0) (clock < 42.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @43(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 42.0 - 0.05) (clock < 42.0 + 0.05)) (and (x > 19.36 - 0.1) (x < 19.36 + 0.1))) ==> @96(and (x' = x) (clock' = clock));
+}
+// off_obs43
+{
+	 mode 96;
+	 invt:
+		 (and (x >= 18.0) (clock < 43.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @44(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 43.0 - 0.05) (clock < 43.0 + 0.05)) (and (x > 20.16 - 0.1) (x < 20.16 + 0.1))) ==> @97(and (x' = x) (clock' = clock));
+}
+// off_obs44
+{
+	 mode 97;
+	 invt:
+		 (and (x >= 18.0) (clock < 44.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @45(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 44.0 - 0.05) (clock < 44.0 + 0.05)) (and (x > 20.96 - 0.1) (x < 20.96 + 0.1))) ==> @98(and (x' = x) (clock' = clock));
+}
+// off_obs45
+{
+	 mode 98;
+	 invt:
+		 (and (x >= 18.0) (clock < 45.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @46(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 45.0 - 0.05) (clock < 45.0 + 0.05)) (and (x > 21.76 - 0.1) (x < 21.76 + 0.1))) ==> @99(and (x' = x) (clock' = clock));
+}
+// off_obs46
+{
+	 mode 99;
+	 invt:
+		 (and (x >= 18.0) (clock < 46.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @47(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 46.0 - 0.05) (clock < 46.0 + 0.05)) (and (x > 21.74 - 0.1) (x < 21.74 + 0.1))) ==> @100(and (x' = x) (clock' = clock));
+}
+// off_obs47
+{
+	 mode 100;
+	 invt:
+		 (and (x >= 18.0) (clock < 47.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @48(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 47.0 - 0.05) (clock < 47.0 + 0.05)) (and (x > 21.54 - 0.1) (x < 21.54 + 0.1))) ==> @101(and (x' = x) (clock' = clock));
+}
+// off_obs48
+{
+	 mode 101;
+	 invt:
+		 (and (x >= 18.0) (clock < 48.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @49(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 48.0 - 0.05) (clock < 48.0 + 0.05)) (and (x > 21.34 - 0.1) (x < 21.34 + 0.1))) ==> @102(and (x' = x) (clock' = clock));
+}
+// off_obs49
+{
+	 mode 102;
+	 invt:
+		 (and (x >= 18.0) (clock < 49.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @50(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 49.0 - 0.05) (clock < 49.0 + 0.05)) (and (x > 21.14 - 0.1) (x < 21.14 + 0.1))) ==> @103(and (x' = x) (clock' = clock));
+}
+// off_obs50
+{
+	 mode 103;
+	 invt:
+		 (and (x >= 18.0) (clock < 50.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @51(and (x' = x) (clock' = clock));
+
+		 (and (and (clock > 50.0 - 0.05) (clock < 50.0 + 0.05)) (and (x > 20.94 - 0.1) (x < 20.94 + 0.1))) ==> @104(and (x' = x) (clock' = clock));
+}
+// off_obs51
+{
+	 mode 104;
+	 invt:
+		 (and (x >= 18.0) (clock < 50.0 + 0.05));
+	 flow:
+		 d/dt[x] = -0.2;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (x < 19.0) ==> @52(and (x' = x) (clock' = clock));
+}
+init:
+@53 (and (x = 19.3) (clock = 0.0));
+
+goal:
+@52 true;
+@104 true;

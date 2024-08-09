@@ -1,0 +1,56 @@
+MODULE main
+VAR thermo : thermostat;
+VAR observation : observation(thermo.x, 0.05, 0.1);
+
+INVARSPEC !(observation.location = obs4);
+
+MODULE thermostat
+VAR
+	location : {on, off};
+	x : continuous;
+
+EVENT turn_on, turn_off;
+
+INIT
+	location = on & x = 20.6;
+
+TRANS
+	EVENT = turn_on ->
+		(location = off & next(location) =  on & x < 19 & next(x) = x)
+
+TRANS
+	EVENT = turn_off ->
+		(location = on & next(location) =  off & x > 21 & next(x) = x)
+
+INVAR
+	(location = off -> x >= 18) &
+	 (location = on -> x <= 22)
+
+FLOW
+	(location = off -> der(x) = -0.2) &
+	(location = on -> der(x) = 0.8)
+
+MODULE observation(x, x_error, t_precision)
+VAR
+	location : {obs0, obs1, obs2, obs3, obs4};
+	t : continuous;
+
+EVENT observe1, observe2, observe3, observe4;
+INIT
+	location = obs0 & t = 0;
+
+TRANS
+	EVENT = observe1 ->
+		(location = obs0 & next(location) =  obs1 & x > 21.4 - x_error & x < 21.4 + x_error & t >= 1.0 - t_precision/2 & t < 1.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe2 ->
+		(location = obs1 & next(location) =  obs2 & x > 21.83 - x_error & x < 21.83 + x_error & t >= 2.0 - t_precision/2 & t < 2.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe3 ->
+		(location = obs2 & next(location) =  obs3 & x > 21.63 - x_error & x < 21.63 + x_error & t >= 3.0 - t_precision/2 & t < 3.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe4 ->
+		(location = obs3 & next(location) =  obs4 & x > 21.43 - x_error & x < 21.43 + x_error & t >= 4.0 - t_precision/2 & t < 4.0 + t_precision/2 & next(t) = t)
+
+FLOW
+	der(t) = 1;

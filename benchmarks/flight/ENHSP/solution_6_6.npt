@@ -1,0 +1,1206 @@
+(x1)=0.0 (x2)=0.0 (theta)=0.11216726154088974 (running_time)=0.0 (time)=0 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=0.21861748601820863 (x2)=0.024625084915149982 (theta)=0.11216726154088974 (running_time)=0.009999999776482582 (time)=0.01 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=0.43723497203641726 (x2)=0.049250169830299964 (theta)=0.11216726154088974 (running_time)=0.019999999552965164 (time)=0.02 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=0.6558524580546259 (x2)=0.07387525474544995 (theta)=0.11216726154088974 (running_time)=0.029999999329447746 (time)=0.03 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=0.8744699440728345 (x2)=0.09850033966059993 (theta)=0.11216726154088974 (running_time)=0.03999999910593033 (time)=0.04 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=1.0930874300910431 (x2)=0.1231254245757499 (theta)=0.11216726154088974 (running_time)=0.04999999888241291 (time)=0.05 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=1.3117049161092518 (x2)=0.14775050949089988 (theta)=0.11216726154088974 (running_time)=0.05999999865889549 (time)=0.06 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=1.5303224021274604 (x2)=0.17237559440604985 (theta)=0.11216726154088974 (running_time)=0.06999999843537807 (time)=0.07 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=1.748939888145669 (x2)=0.19700067932119983 (theta)=0.11216726154088974 (running_time)=0.07999999821186066 (time)=0.08 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=1.9675573741638777 (x2)=0.2216257642363498 (theta)=0.11216726154088974 (running_time)=0.08999999798834324 (time)=0.09 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=2.1861748601820863 (x2)=0.24625084915149978 (theta)=0.11216726154088974 (running_time)=0.09999999776482582 (time)=0.10 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=2.4047923462002947 (x2)=0.2708759340666498 (theta)=0.11216726154088974 (running_time)=0.1099999975413084 (time)=0.11 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=2.6234098322185035 (x2)=0.29550101898179976 (theta)=0.11216726154088974 (running_time)=0.11999999731779099 (time)=0.12 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=2.8420273182367124 (x2)=0.32012610389694973 (theta)=0.11216726154088974 (running_time)=0.12999999709427357 (time)=0.13 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.0606448042549212 (x2)=0.3447511888120997 (theta)=0.11216726154088974 (running_time)=0.13999999687075615 (time)=0.14 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.27926229027313 (x2)=0.3693762737272497 (theta)=0.11216726154088974 (running_time)=0.14999999664723873 (time)=0.15 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.497879776291339 (x2)=0.39400135864239966 (theta)=0.11216726154088974 (running_time)=0.1599999964237213 (time)=0.16 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.716497262309548 (x2)=0.41862644355754963 (theta)=0.11216726154088974 (running_time)=0.1699999962002039 (time)=0.17 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.9351147483277567 (x2)=0.4432515284726996 (theta)=0.11216726154088974 (running_time)=0.17999999597668648 (time)=0.18 
+(flying-straight)=true (adjusting-left)=false (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=3.9351147483277567 (x2)=0.4432515284726996 (theta)=0.11216726154088974 (running_time)=0.17999999597668648 (time)=0.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=4.1536537936524525 (x2)=0.4685632978413303 (theta)=0.11530885426327586 (running_time)=0.18999999575316906 (time)=0.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=4.372112241391391 (x2)=0.49456150184648573 (theta)=0.11845044698566198 (running_time)=0.19999999552965164 (time)=0.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=4.590487935447793 (x2)=0.5212458838963772 (theta)=0.1215920397080481 (running_time)=0.20999999530613422 (time)=0.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=4.8087787205416275 (x2)=0.5486161806269151 (theta)=0.12473363243043423 (running_time)=0.2199999950826168 (time)=0.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=5.026982442230877 (x2)=0.5766721219043088 (theta)=0.12787522515282035 (running_time)=0.2299999948590994 (time)=0.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=5.245096946932807 (x2)=0.6054134308277325 (theta)=0.13101681787520647 (running_time)=0.23999999463558197 (time)=0.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=5.463120081945219 (x2)=0.6348398237320578 (theta)=0.1341584105975926 (running_time)=0.24999999441206455 (time)=0.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=5.681049695467694 (x2)=0.6649510101906541 (theta)=0.13730000331997871 (running_time)=0.25999999418854713 (time)=0.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=5.898883636622836 (x2)=0.6957466930182543 (theta)=0.14044159604236484 (running_time)=0.2699999939650297 (time)=0.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=6.116619755477494 (x2)=0.7272265682738884 (theta)=0.14358318876475096 (running_time)=0.2799999937415123 (time)=0.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=6.334255903063984 (x2)=0.759390325263883 (theta)=0.14672478148713708 (running_time)=0.2899999935179949 (time)=0.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=6.5517899314012995 (x2)=0.7922376465449276 (theta)=0.1498663742095232 (running_time)=0.29999999329447746 (time)=0.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=6.769219693516308 (x2)=0.825768207927208 (theta)=0.15300796693190932 (running_time)=0.30999999307096004 (time)=0.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=6.986543043464944 (x2)=0.8599816784776058 (theta)=0.15614955965429544 (running_time)=0.3199999928474426 (time)=0.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=7.203757836353385 (x2)=0.8948777205229642 (theta)=0.15929115237668157 (running_time)=0.3299999926239252 (time)=0.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=7.420861928359226 (x2)=0.9304559896534215 (theta)=0.1624327450990677 (running_time)=0.3399999924004078 (time)=0.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=7.637853176752634 (x2)=0.9667161347258093 (theta)=0.1655743378214538 (running_time)=0.3499999921768904 (time)=0.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=7.854729439917494 (x2)=1.003657797867119 (theta)=0.16871593054383993 (running_time)=0.35999999195337296 (time)=0.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=8.071488577372554 (x2)=1.0412806144780336 (theta)=0.17185752326622605 (running_time)=0.36999999172985554 (time)=0.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=8.288128449792541 (x2)=1.0795842132365254 (theta)=0.17499911598861217 (running_time)=0.3799999915063381 (time)=0.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=8.504646919029284 (x2)=1.118568216101522 (theta)=0.1781407087109983 (running_time)=0.3899999912828207 (time)=0.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=8.721041848132808 (x2)=1.158232238316637 (theta)=0.18128230143338442 (running_time)=0.3999999910593033 (time)=0.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=8.937311101372432 (x2)=1.1985758884139668 (theta)=0.18442389415577054 (running_time)=0.40999999083578587 (time)=0.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=9.153452544257842 (x2)=1.2395987682179548 (theta)=0.18756548687815666 (running_time)=0.41999999061226845 (time)=0.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=9.369464043560168 (x2)=1.2813004728493214 (theta)=0.19070707960054278 (running_time)=0.42999999038875103 (time)=0.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=9.585343467333022 (x2)=1.3236805907290594 (theta)=0.1938486723229289 (running_time)=0.4399999901652336 (time)=0.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=9.801088684933553 (x2)=1.3667387035824967 (theta)=0.19699026504531503 (running_time)=0.4499999899417162 (time)=0.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=10.01669756704347 (x2)=1.410474386443424 (theta)=0.20013185776770115 (running_time)=0.4599999897181988 (time)=0.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=10.23216798569006 (x2)=1.4548872076582893 (theta)=0.20327345049008727 (running_time)=0.46999998949468136 (time)=0.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=10.447497814267184 (x2)=1.4999767288904582 (theta)=0.2064150432124734 (running_time)=0.47999998927116394 (time)=0.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=10.662684927556274 (x2)=1.5457425051245401 (theta)=0.20955663593485951 (running_time)=0.4899999890476465 (time)=0.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=10.877727201747305 (x2)=1.5921840846707802 (theta)=0.21269822865724564 (running_time)=0.4999999888241291 (time)=0.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=11.092622514459752 (x2)=1.6393010091695175 (theta)=0.21583982137963176 (running_time)=0.5099999886006117 (time)=0.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=11.307368744763542 (x2)=1.6870928135957086 (theta)=0.21898141410201788 (running_time)=0.5199999883770943 (time)=0.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=11.521963773199987 (x2)=1.7355590262635177 (theta)=0.222123006824404 (running_time)=0.5299999881535769 (time)=0.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=11.736405481802699 (x2)=1.7846991688309712 (theta)=0.22526459954679012 (running_time)=0.5399999879300594 (time)=0.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=11.950691754118495 (x2)=1.8345127563046795 (theta)=0.22840619226917624 (running_time)=0.549999987706542 (time)=0.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=12.164820475228284 (x2)=1.8849992970446232 (theta)=0.23154778499156237 (running_time)=0.5599999874830246 (time)=0.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=12.378789531767945 (x2)=1.9361582927690058 (theta)=0.2346893777139485 (running_time)=0.5699999872595072 (time)=0.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=12.592596811949178 (x2)=1.9879892385591709 (theta)=0.2378309704363346 (running_time)=0.5799999870359898 (time)=0.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=12.806240205580357 (x2)=2.040491622864586 (theta)=0.24097256315872073 (running_time)=0.5899999868124723 (time)=0.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=13.019717604087342 (x2)=2.093664927507892 (theta)=0.24411415588110685 (running_time)=0.5999999865889549 (time)=0.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=13.233026900534304 (x2)=2.1475086276900153 (theta)=0.24725574860349298 (running_time)=0.6099999863654375 (time)=0.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=13.44616598964451 (x2)=2.2020221919953498 (theta)=0.2503973413258791 (running_time)=0.6199999861419201 (time)=0.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=13.659132767821106 (x2)=2.2572050823970002 (theta)=0.2535389340482652 (running_time)=0.6299999859184027 (time)=0.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=13.871925133167878 (x2)=2.313056754262093 (theta)=0.25668052677065134 (running_time)=0.6399999856948853 (time)=0.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=14.084540985509996 (x2)=2.36957665635715 (theta)=0.25982211949303746 (running_time)=0.6499999854713678 (time)=0.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=14.29697822641474 (x2)=2.4267642308535318 (theta)=0.2629637122154236 (running_time)=0.6599999852478504 (time)=0.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=14.509234759212218 (x2)=2.484618913332941 (theta)=0.2661053049378097 (running_time)=0.669999985024333 (time)=0.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=14.72130848901605 (x2)=2.5431401327929932 (theta)=0.2692468976601958 (running_time)=0.6799999848008156 (time)=0.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=14.933197322744046 (x2)=2.602327311652853 (theta)=0.27238849038258195 (running_time)=0.6899999845772982 (time)=0.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=15.144899169138872 (x2)=2.6621798657589344 (theta)=0.27553008310496807 (running_time)=0.6999999843537807 (time)=0.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=15.35641193878868 (x2)=2.722697204390666 (theta)=0.2786716758273542 (running_time)=0.7099999841302633 (time)=0.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=15.567733544147732 (x2)=2.783878730266321 (theta)=0.2818132685497403 (running_time)=0.7199999839067459 (time)=0.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=15.778861899557004 (x2)=2.845723839548912 (theta)=0.28495486127212644 (running_time)=0.7299999836832285 (time)=0.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=15.989794921264776 (x2)=2.908231921852153 (theta)=0.28809645399451256 (running_time)=0.7399999834597111 (time)=0.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=16.20053052744719 (x2)=2.971402360246479 (theta)=0.2912380467168987 (running_time)=0.7499999832361937 (time)=0.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=16.411066638228796 (x2)=3.0352345312651394 (theta)=0.2943796394392848 (running_time)=0.7599999830126762 (time)=0.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=16.621401175703088 (x2)=3.099727804910348 (theta)=0.2975212321616709 (running_time)=0.7699999827891588 (time)=0.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=16.831532063953006 (x2)=3.164881544659503 (theta)=0.30066282488405704 (running_time)=0.7799999825656414 (time)=0.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=17.041457229071426 (x2)=3.2306951074714694 (theta)=0.30380441760644317 (running_time)=0.789999982342124 (time)=0.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=17.251174599181624 (x2)=3.297167843792923 (theta)=0.3069460103288293 (running_time)=0.7999999821186066 (time)=0.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=17.46068210445774 (x2)=3.364299097564764 (theta)=0.3100876030512154 (running_time)=0.8099999818950891 (time)=0.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=17.66997767714518 (x2)=3.4320882062285913 (theta)=0.31322919577360153 (running_time)=0.8199999816715717 (time)=0.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=17.87905925158105 (x2)=3.50053450073324 (theta)=0.31637078849598765 (running_time)=0.8299999814480543 (time)=0.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=18.087924764214534 (x2)=3.569637305541386 (theta)=0.3195123812183738 (running_time)=0.8399999812245369 (time)=0.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=18.29657215362725 (x2)=3.639395938636215 (theta)=0.3226539739407599 (running_time)=0.8499999810010195 (time)=0.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=18.504999360553608 (x2)=3.7098097115281505 (theta)=0.325795566663146 (running_time)=0.8599999807775021 (time)=0.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=18.71320432790113 (x2)=3.780877929261651 (theta)=0.32893715938553214 (running_time)=0.8699999805539846 (time)=0.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=18.92118500077076 (x2)=3.8525998904220677 (theta)=0.33207875210791826 (running_time)=0.8799999803304672 (time)=0.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=19.128939326477127 (x2)=3.9249748871425685 (theta)=0.3352203448303044 (running_time)=0.8899999801069498 (time)=0.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=19.33646525456882 (x2)=3.9980022051111233 (theta)=0.3383619375526905 (running_time)=0.8999999798834324 (time)=0.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=19.543760736848625 (x2)=4.071681123577555 (theta)=0.3415035302750766 (running_time)=0.909999979659915 (time)=0.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=19.75082372739373 (x2)=4.146010915360652 (theta)=0.34464512299746275 (running_time)=0.9199999794363976 (time)=0.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=19.95765218257592 (x2)=4.220990846855344 (theta)=0.34778671571984887 (running_time)=0.9299999792128801 (time)=0.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=20.164244061081757 (x2)=4.296620178039946 (theta)=0.350928308442235 (running_time)=0.9399999789893627 (time)=0.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=20.37059732393271 (x2)=4.372898162483461 (theta)=0.3540699011646211 (running_time)=0.9499999787658453 (time)=0.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=20.5767099345053 (x2)=4.449824047352942 (theta)=0.35721149388700724 (running_time)=0.9599999785423279 (time)=0.96 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=20.782579858551177 (x2)=4.527397073420929 (theta)=0.36035308660939336 (running_time)=0.9699999783188105 (time)=0.97 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=20.98820506421722 (x2)=4.605616475072939 (theta)=0.3634946793317795 (running_time)=0.979999978095293 (time)=0.98 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=21.19358352206557 (x2)=4.684481480315022 (theta)=0.3666362720541656 (running_time)=0.9899999778717756 (time)=0.99 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=21.398713205093674 (x2)=4.763991310781382 (theta)=0.3697778647765517 (running_time)=0.9999999776482582 (time)=1.00 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=21.60359208875429 (x2)=4.844145181742056 (theta)=0.37291945749893785 (running_time)=1.0099999774247408 (time)=1.01 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=21.808218150975456 (x2)=4.924942302110664 (theta)=0.37606105022132397 (running_time)=1.0199999772012234 (time)=1.02 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.012589372180464 (x2)=5.006381874452211 (theta)=0.3792026429437101 (running_time)=1.029999976977706 (time)=1.03 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.216703735307778 (x2)=5.088463094990962 (theta)=0.3823442356660962 (running_time)=1.0399999767541885 (time)=1.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=true (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.216703735307778 (x2)=5.088463094990962 (theta)=0.3823442356660962 (running_time)=1.0399999767541885 (time)=1.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.42055922583095 (x2)=5.171185153618372 (theta)=0.38548582838848233 (running_time)=1.0499999765306711 (time)=1.05 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.6241538317785 (x2)=5.254547233901082 (theta)=0.38862742111086845 (running_time)=1.0599999763071537 (time)=1.06 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=22.827485543753777 (x2)=5.33854851308898 (theta)=0.3917690138332546 (running_time)=1.0699999760836363 (time)=1.07 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=23.030552354954782 (x2)=5.423188162123315 (theta)=0.3949106065556407 (running_time)=1.0799999758601189 (time)=1.08 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=23.233352261193982 (x2)=5.508465345644886 (theta)=0.3980521992780268 (running_time)=1.0899999756366014 (time)=1.09 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=23.43588326091809 (x2)=5.594379222002282 (theta)=0.40119379200041294 (running_time)=1.099999975413084 (time)=1.10 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=23.63814335522781 (x2)=5.6809289432601915 (theta)=0.40433538472279906 (running_time)=1.1099999751895666 (time)=1.11 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=23.840130547897587 (x2)=5.768113655207769 (theta)=0.4074769774451852 (running_time)=1.1199999749660492 (time)=1.12 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=24.041842845395287 (x2)=5.8559324973670694 (theta)=0.4106185701675713 (running_time)=1.1299999747425318 (time)=1.13 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=24.243278256901878 (x2)=5.944384603001535 (theta)=0.41376016288995743 (running_time)=1.1399999745190144 (time)=1.14 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=24.444434794331084 (x2)=6.033469099124555 (theta)=0.41690175561234355 (running_time)=1.149999974295497 (time)=1.15 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=24.645310472349006 (x2)=6.123185106508079 (theta)=0.42004334833472967 (running_time)=1.1599999740719795 (time)=1.16 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=24.84590330839371 (x2)=6.2135317396912955 (theta)=0.4231849410571158 (running_time)=1.169999973848462 (time)=1.17 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=25.0462113226948 (x2)=6.30450810698937 (theta)=0.4263265337795019 (running_time)=1.1799999736249447 (time)=1.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=25.246232538292954 (x2)=6.396113310502246 (theta)=0.42946812650188804 (running_time)=1.1899999734014273 (time)=1.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=25.445964981059447 (x2)=6.488346446123509 (theta)=0.43260971922427416 (running_time)=1.1999999731779099 (time)=1.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=25.645406679715613 (x2)=6.5812066035493055 (theta)=0.4357513119466603 (running_time)=1.2099999729543924 (time)=1.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=25.844555665852315 (x2)=6.674692866287332 (theta)=0.4388929046690464 (running_time)=1.219999972730875 (time)=1.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=26.043409973949377 (x2)=6.768804311665876 (theta)=0.4420344973914325 (running_time)=1.2299999725073576 (time)=1.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=26.24196764139497 (x2)=6.863540010842924 (theta)=0.44517609011381865 (running_time)=1.2399999722838402 (time)=1.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=26.440226708504998 (x2)=6.958899028815333 (theta)=0.44831768283620477 (running_time)=1.2499999720603228 (time)=1.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=26.638185218542418 (x2)=7.054880424428051 (theta)=0.4514592755585909 (running_time)=1.2599999718368053 (time)=1.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=26.83584121773657 (x2)=7.151483250383411 (theta)=0.454600868280977 (running_time)=1.269999971613288 (time)=1.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=27.03319275530245 (x2)=7.248706553250479 (theta)=0.45774246100336313 (running_time)=1.2799999713897705 (time)=1.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=27.23023788345998 (x2)=7.346549373474464 (theta)=0.46088405372574925 (running_time)=1.289999971166253 (time)=1.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=27.426974657453204 (x2)=7.445010745386191 (theta)=0.4640256464481354 (running_time)=1.2999999709427357 (time)=1.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=27.623401135569505 (x2)=7.544089697211625 (theta)=0.4671672391705215 (running_time)=1.3099999707192183 (time)=1.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=27.81951537915876 (x2)=7.64378525108147 (theta)=0.4703088318929076 (running_time)=1.3199999704957008 (time)=1.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.01531545265247 (x2)=7.744096423040813 (theta)=0.47345042461529374 (running_time)=1.3299999702721834 (time)=1.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.210799423582877 (x2)=7.845022223058842 (theta)=0.47659201733767986 (running_time)=1.339999970048666 (time)=1.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.405965362602025 (x2)=7.946561655038613 (theta)=0.479733610060066 (running_time)=1.3499999698251486 (time)=1.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.6008113435008 (x2)=8.04871371682688 (theta)=0.4828752027824521 (running_time)=1.3599999696016312 (time)=1.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.795335443227952 (x2)=8.15147740022399 (theta)=0.48601679550483823 (running_time)=1.3699999693781137 (time)=1.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=28.989535741909062 (x2)=8.254851690993833 (theta)=0.48915838822722435 (running_time)=1.3799999691545963 (time)=1.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=29.1834103228655 (x2)=8.358835568873845 (theta)=0.49229998094961047 (running_time)=1.389999968931079 (time)=1.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=29.37695727263334 (x2)=8.463428007585089 (theta)=0.4954415736719966 (running_time)=1.3999999687075615 (time)=1.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=29.57017468098224 (x2)=8.568627974842373 (theta)=0.4985831663943827 (running_time)=1.409999968484044 (time)=1.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=29.763060640934306 (x2)=8.674434432364448 (theta)=0.5017247591167688 (running_time)=1.4199999682605267 (time)=1.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=29.955613248782896 (x2)=8.780846335884247 (theta)=0.504866351839155 (running_time)=1.4299999680370092 (time)=1.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=30.147830604111427 (x2)=8.887862635159197 (theta)=0.5080079445615411 (running_time)=1.4399999678134918 (time)=1.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=30.339710809812118 (x2)=8.995482273981581 (theta)=0.5111495372839272 (running_time)=1.4499999675899744 (time)=1.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=30.531251972104723 (x2)=9.103704190188967 (theta)=0.5142911300063133 (running_time)=1.459999967366457 (time)=1.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=30.722452200555214 (x2)=9.212527315674684 (theta)=0.5174327227286994 (running_time)=1.4699999671429396 (time)=1.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=30.913309608094444 (x2)=9.321950576398372 (theta)=0.5205743154510856 (running_time)=1.4799999669194221 (time)=1.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=31.103822311036772 (x2)=9.431972892396574 (theta)=0.5237159081734717 (running_time)=1.4899999666959047 (time)=1.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=31.29398842909865 (x2)=9.542593177793405 (theta)=0.5268575008958578 (running_time)=1.4999999664723873 (time)=1.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=31.483806085417182 (x2)=9.653810340811257 (theta)=0.5299990936182439 (running_time)=1.50999996624887 (time)=1.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=31.673273406568654 (x2)=9.765623283781583 (theta)=0.53314068634063 (running_time)=1.5199999660253525 (time)=1.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=31.86238852258701 (x2)=9.878030903155729 (theta)=0.5362822790630162 (running_time)=1.529999965801835 (time)=1.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.05114956698233 (x2)=9.991032089515823 (theta)=0.5394238717854023 (running_time)=1.5399999655783176 (time)=1.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.23955467675923 (x2)=10.104625727585729 (theta)=0.5425654645077884 (running_time)=1.5499999653548002 (time)=1.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.42760199243524 (x2)=10.218810696242048 (theta)=0.5457070572301745 (running_time)=1.5599999651312828 (time)=1.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.61528965805921 (x2)=10.333585868525189 (theta)=0.5488486499525607 (running_time)=1.5699999649077654 (time)=1.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.802615821229566 (x2)=10.44895011165049 (theta)=0.5519902426749468 (running_time)=1.579999964684248 (time)=1.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=32.98957863311262 (x2)=10.564902287019393 (theta)=0.5551318353973329 (running_time)=1.5899999644607306 (time)=1.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=33.17617624846083 (x2)=10.68144125023069 (theta)=0.558273428119719 (running_time)=1.5999999642372131 (time)=1.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=33.36240682563096 (x2)=10.798565851091814 (theta)=0.5614150208421052 (running_time)=1.6099999640136957 (time)=1.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=33.54826852660234 (x2)=10.916274933630188 (theta)=0.5645566135644913 (running_time)=1.6199999637901783 (time)=1.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=33.73375951699493 (x2)=11.034567336104637 (theta)=0.5676982062868774 (running_time)=1.6299999635666609 (time)=1.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=33.91887796608746 (x2)=11.153441891016854 (theta)=0.5708397990092635 (running_time)=1.6399999633431435 (time)=1.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=34.10362204683548 (x2)=11.272897425122922 (theta)=0.5739813917316496 (running_time)=1.649999963119626 (time)=1.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=34.28798993588944 (x2)=11.392932759444895 (theta)=0.5771229844540358 (running_time)=1.6599999628961086 (time)=1.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=34.47197981361261 (x2)=11.51354670928243 (theta)=0.5802645771764219 (running_time)=1.6699999626725912 (time)=1.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=34.65558986409911 (x2)=11.634738084224486 (theta)=0.583406169898808 (running_time)=1.6799999624490738 (time)=1.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=34.838818275191784 (x2)=11.756505688161065 (theta)=0.5865477626211941 (running_time)=1.6899999622255564 (time)=1.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.0216632385001 (x2)=11.878848319295024 (theta)=0.5896893553435802 (running_time)=1.699999962002039 (time)=1.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.20412294941802 (x2)=12.001764770153931 (theta)=0.5928309480659664 (running_time)=1.7099999617785215 (time)=1.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.38619560714177 (x2)=12.12525382760199 (theta)=0.5959725407883525 (running_time)=1.7199999615550041 (time)=1.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.56787941468765 (x2)=12.249314272852 (theta)=0.5991141335107386 (running_time)=1.7299999613314867 (time)=1.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.74917257890976 (x2)=12.373944881477403 (theta)=0.6022557262331247 (running_time)=1.7399999611079693 (time)=1.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=35.93007331051766 (x2)=12.499144423424351 (theta)=0.6053973189555109 (running_time)=1.7499999608844519 (time)=1.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=36.1105798240941 (x2)=12.624911663023855 (theta)=0.608538911677897 (running_time)=1.7599999606609344 (time)=1.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=36.29069033811258 (x2)=12.751245359003983 (theta)=0.6116805044002831 (running_time)=1.769999960437417 (time)=1.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=36.470403074954966 (x2)=12.878144264502101 (theta)=0.6148220971226692 (running_time)=1.7799999602138996 (time)=1.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=36.64971626092902 (x2)=13.00560712707719 (theta)=0.6179636898450553 (running_time)=1.7899999599903822 (time)=1.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=36.828628126285906 (x2)=13.133632688722198 (theta)=0.6211052825674415 (running_time)=1.7999999597668648 (time)=1.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.007136905237665 (x2)=13.262219685876463 (theta)=0.6242468752898276 (running_time)=1.8099999595433474 (time)=1.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.185240835974646 (x2)=13.391366849438182 (theta)=0.6273884680122137 (running_time)=1.81999995931983 (time)=1.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.36293816068287 (x2)=13.521072904776933 (theta)=0.6305300607345998 (running_time)=1.8299999590963125 (time)=1.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.540227125561415 (x2)=13.651336571746256 (theta)=0.633671653456986 (running_time)=1.839999958872795 (time)=1.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.71710598083969 (x2)=13.782156564696294 (theta)=0.6368132461793721 (running_time)=1.8499999586492777 (time)=1.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=37.89357298079472 (x2)=13.913531592486473 (theta)=0.6399548389017582 (running_time)=1.8599999584257603 (time)=1.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.069626383768394 (x2)=14.04546035849825 (theta)=0.6430964316241443 (running_time)=1.8699999582022429 (time)=1.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.245264452184614 (x2)=14.17794156064791 (theta)=0.6462380243465304 (running_time)=1.8799999579787254 (time)=1.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.42048545256648 (x2)=14.310973891399414 (theta)=0.6493796170689166 (running_time)=1.889999957755208 (time)=1.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.595287655553385 (x2)=14.444556037777309 (theta)=0.6525212097913027 (running_time)=1.8999999575316906 (time)=1.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.769669335918074 (x2)=14.578686681379681 (theta)=0.6556628025136888 (running_time)=1.9099999573081732 (time)=1.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=38.94362877258369 (x2)=14.71336449839117 (theta)=0.6588043952360749 (running_time)=1.9199999570846558 (time)=1.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.117164248640755 (x2)=14.848588159596035 (theta)=0.661945987958461 (running_time)=1.9299999568611383 (time)=1.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.2902740513641 (x2)=14.984356330391275 (theta)=0.6650875806808472 (running_time)=1.939999956637621 (time)=1.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.462956472229784 (x2)=15.120667670799797 (theta)=0.6682291734032333 (running_time)=1.9499999564141035 (time)=1.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.63520980693195 (x2)=15.257520835483643 (theta)=0.6713707661256194 (running_time)=1.959999956190586 (time)=1.96 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.80703235539965 (x2)=15.394914473757268 (theta)=0.6745123588480055 (running_time)=1.9699999559670687 (time)=1.97 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=39.97842242181363 (x2)=15.532847229600872 (theta)=0.6776539515703917 (running_time)=1.9799999557435513 (time)=1.98 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.14937831462306 (x2)=15.671317741673779 (theta)=0.6807955442927778 (running_time)=1.9899999555200338 (time)=1.99 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.319898346562205 (x2)=15.81032464332788 (theta)=0.6839371370151639 (running_time)=1.9999999552965164 (time)=2.00 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.48998083466713 (x2)=15.949866562621112 (theta)=0.68707872973755 (running_time)=2.009999955072999 (time)=2.01 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.65962410029226 (x2)=16.08994212233101 (theta)=0.6902203224599361 (running_time)=2.0199999548494816 (time)=2.02 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.82882646912699 (x2)=16.230549939968288 (theta)=0.6933619151823223 (running_time)=2.029999954625964 (time)=2.03 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.99758627121216 (x2)=16.37168862779049 (theta)=0.6965035079047084 (running_time)=2.0399999544024467 (time)=2.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=true (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=40.99758627121216 (x2)=16.37168862779049 (theta)=0.6965035079047084 (running_time)=2.0399999544024467 (time)=2.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=41.16590184095659 (x2)=16.51335679281569 (theta)=0.6996451006270945 (running_time)=2.0499999541789293 (time)=2.05 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=41.333771517153494 (x2)=16.655553036836228 (theta)=0.7027866933494806 (running_time)=2.059999953955412 (time)=2.06 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=41.50119364299685 (x2)=16.798275956432523 (theta)=0.7059282860718668 (running_time)=2.0699999537318945 (time)=2.07 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=41.66816656609781 (x2)=16.941524142986914 (theta)=0.7090698787942529 (running_time)=2.079999953508377 (time)=2.08 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=41.83468863850095 (x2)=17.085296182697572 (theta)=0.712211471516639 (running_time)=2.0899999532848597 (time)=2.09 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.000758216700575 (x2)=17.229590656592446 (theta)=0.7153530642390251 (running_time)=2.0999999530613422 (time)=2.10 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.16637366165693 (x2)=17.374406140543268 (theta)=0.7184946569614112 (running_time)=2.109999952837825 (time)=2.11 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.33153333881234 (x2)=17.519741205279615 (theta)=0.7216362496837974 (running_time)=2.1199999526143074 (time)=2.12 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.49623561810742 (x2)=17.665594416403007 (theta)=0.7247778424061835 (running_time)=2.12999995239079 (time)=2.13 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.660478873997086 (x2)=17.811964334401072 (theta)=0.7279194351285696 (running_time)=2.1399999521672726 (time)=2.14 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.82426148546664 (x2)=17.95884951466175 (theta)=0.7310610278509557 (running_time)=2.149999951943755 (time)=2.15 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=42.98758183604777 (x2)=18.106248507487546 (theta)=0.7342026205733418 (running_time)=2.1599999517202377 (time)=2.16 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.15043831383446 (x2)=18.254159858109844 (theta)=0.737344213295728 (running_time)=2.1699999514967203 (time)=2.17 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.31282931149896 (x2)=18.402582106703267 (theta)=0.7404858060181141 (running_time)=2.179999951273203 (time)=2.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.47475322630761 (x2)=18.551513788400076 (theta)=0.7436273987405002 (running_time)=2.1899999510496855 (time)=2.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.636208460136686 (x2)=18.700953433304633 (theta)=0.7467689914628863 (running_time)=2.199999950826168 (time)=2.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.797193419488124 (x2)=18.85089956650791 (theta)=0.7499105841852725 (running_time)=2.2099999506026506 (time)=2.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=43.95770651550531 (x2)=19.00135070810204 (theta)=0.7530521769076586 (running_time)=2.2199999503791332 (time)=2.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.11774616398871 (x2)=19.152305373194938 (theta)=0.7561937696300447 (running_time)=2.229999950155616 (time)=2.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.277310785411544 (x2)=19.303762071924933 (theta)=0.7593353623524308 (running_time)=2.2399999499320984 (time)=2.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.436398804935344 (x2)=19.455719309475487 (theta)=0.7624769550748169 (running_time)=2.249999949708581 (time)=2.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.59500865242551 (x2)=19.60817558608995 (theta)=0.7656185477972031 (running_time)=2.2599999494850636 (time)=2.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.753138762466826 (x2)=19.76112939708635 (theta)=0.7687601405195892 (running_time)=2.269999949261546 (time)=2.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=44.91078757437886 (x2)=19.914579232872264 (theta)=0.7719017332419753 (running_time)=2.2799999490380287 (time)=2.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.06795353223142 (x2)=20.06852357895969 (theta)=0.7750433259643614 (running_time)=2.2899999488145113 (time)=2.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.2246350848599 (x2)=20.22296091598002 (theta)=0.7781849186867476 (running_time)=2.299999948590994 (time)=2.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.38083068588055 (x2)=20.377889719699017 (theta)=0.7813265114091337 (running_time)=2.3099999483674765 (time)=2.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.53653879370577 (x2)=20.53330846103187 (theta)=0.7844681041315198 (running_time)=2.319999948143959 (time)=2.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.691757871559346 (x2)=20.689215606058276 (theta)=0.7876096968539059 (running_time)=2.3299999479204416 (time)=2.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=45.846486387491574 (x2)=20.845609616037596 (theta)=0.790751289576292 (running_time)=2.339999947696924 (time)=2.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.00072281439439 (x2)=21.002488947424016 (theta)=0.7938928822986782 (running_time)=2.349999947473407 (time)=2.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.15446563001648 (x2)=21.159852051881806 (theta)=0.7970344750210643 (running_time)=2.3599999472498894 (time)=2.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.307713316978244 (x2)=21.317697376300586 (theta)=0.8001760677434504 (running_time)=2.369999947026372 (time)=2.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.460464362786816 (x2)=21.476023362810658 (theta)=0.8033176604658365 (running_time)=2.3799999468028545 (time)=2.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.612717259850974 (x2)=21.634828448798388 (theta)=0.8064592531882226 (running_time)=2.389999946579337 (time)=2.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.76447050549603 (x2)=21.79411106692162 (theta)=0.8096008459106088 (running_time)=2.3999999463558197 (time)=2.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=46.91572260197864 (x2)=21.95386964512515 (theta)=0.8127424386329949 (running_time)=2.4099999461323023 (time)=2.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.066472056501624 (x2)=22.11410260665624 (theta)=0.815884031355381 (running_time)=2.419999945908785 (time)=2.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.21671738122865 (x2)=22.274808370080176 (theta)=0.8190256240777671 (running_time)=2.4299999456852674 (time)=2.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.366457093298955 (x2)=22.435985349295887 (theta)=0.8221672168001533 (running_time)=2.43999994546175 (time)=2.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.51568971484197 (x2)=22.597631953551588 (theta)=0.8253088095225394 (running_time)=2.4499999452382326 (time)=2.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.66441377299191 (x2)=22.75974658746048 (theta)=0.8284504022449255 (running_time)=2.459999945014715 (time)=2.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.81262779990229 (x2)=22.92232765101651 (theta)=0.8315919949673116 (running_time)=2.4699999447911978 (time)=2.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=47.960330332760435 (x2)=23.085373539610142 (theta)=0.8347335876896977 (running_time)=2.4799999445676804 (time)=2.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.10751991380192 (x2)=23.248882644044212 (theta)=0.8378751804120839 (running_time)=2.489999944344163 (time)=2.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.25419509032494 (x2)=23.4128533505498 (theta)=0.84101677313447 (running_time)=2.4999999441206455 (time)=2.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.40035441470465 (x2)=23.57728404080216 (theta)=0.8441583658568561 (running_time)=2.509999943897128 (time)=2.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.54599644440746 (x2)=23.74217309193669 (theta)=0.8472999585792422 (running_time)=2.5199999436736107 (time)=2.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.69111974200527 (x2)=23.907518876564954 (theta)=0.8504415513016284 (running_time)=2.5299999434500933 (time)=2.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.83572287518967 (x2)=24.07331976279074 (theta)=0.8535831440240145 (running_time)=2.539999943226576 (time)=2.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=48.97980441678604 (x2)=24.239574114226162 (theta)=0.8567247367464006 (running_time)=2.5499999430030584 (time)=2.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.12336294476768 (x2)=24.40628029000782 (theta)=0.8598663294687867 (running_time)=2.559999942779541 (time)=2.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.2663970422698 (x2)=24.573436644812993 (theta)=0.8630079221911728 (running_time)=2.5699999425560236 (time)=2.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.40890529760355 (x2)=24.74104152887587 (theta)=0.866149514913559 (running_time)=2.579999942332506 (time)=2.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.55088630426993 (x2)=24.90909328800383 (theta)=0.8692911076359451 (running_time)=2.5899999421089888 (time)=2.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.69233866097365 (x2)=25.07759026359379 (theta)=0.8724327003583312 (running_time)=2.5999999418854713 (time)=2.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.833260971636996 (x2)=25.246530792648553 (theta)=0.8755742930807173 (running_time)=2.609999941661954 (time)=2.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=49.9736518454136 (x2)=25.415913207793224 (theta)=0.8787158858031034 (running_time)=2.6199999414384365 (time)=2.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.11350989670215 (x2)=25.58573583729168 (theta)=0.8818574785254896 (running_time)=2.629999941214919 (time)=2.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.25283374516008 (x2)=25.75599700506305 (theta)=0.8849990712478757 (running_time)=2.6399999409914017 (time)=2.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.3916220157172 (x2)=25.926695030698276 (theta)=0.8881406639702618 (running_time)=2.6499999407678843 (time)=2.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.52987333858925 (x2)=26.097828229476683 (theta)=0.8912822566926479 (running_time)=2.659999940544367 (time)=2.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.66758634929142 (x2)=26.269394912382612 (theta)=0.8944238494150341 (running_time)=2.6699999403208494 (time)=2.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.804759688651835 (x2)=26.441393386122094 (theta)=0.8975654421374202 (running_time)=2.679999940097332 (time)=2.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=50.94139200282496 (x2)=26.61382195313956 (theta)=0.9007070348598063 (running_time)=2.6899999398738146 (time)=2.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.07748194330495 (x2)=26.78667891163459 (theta)=0.9038486275821924 (running_time)=2.699999939650297 (time)=2.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.21302816693898 (x2)=26.95996255557871 (theta)=0.9069902203045785 (running_time)=2.7099999394267797 (time)=2.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.34802933594049 (x2)=27.133671174732243 (theta)=0.9101318130269647 (running_time)=2.7199999392032623 (time)=2.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.482484117902374 (x2)=27.307803054661168 (theta)=0.9132734057493508 (running_time)=2.729999938979745 (time)=2.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.616391185810166 (x2)=27.482356476754056 (theta)=0.9164149984717369 (running_time)=2.7399999387562275 (time)=2.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.74974921805511 (x2)=27.657329718239026 (theta)=0.919556591194123 (running_time)=2.74999993853271 (time)=2.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=51.8825568984472 (x2)=27.83272105220075 (theta)=0.9226981839165092 (running_time)=2.7599999383091927 (time)=2.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.014812916228195 (x2)=28.00852874759749 (theta)=0.9258397766388953 (running_time)=2.7699999380856752 (time)=2.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.146515966084536 (x2)=28.184751069278196 (theta)=0.9289813693612814 (running_time)=2.779999937862158 (time)=2.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.277664748160234 (x2)=28.36138627799962 (theta)=0.9321229620836675 (running_time)=2.7899999376386404 (time)=2.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.4082579680697 (x2)=28.538432630443488 (theta)=0.9352645548060536 (running_time)=2.799999937415123 (time)=2.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.53829433691052 (x2)=28.715888379233697 (theta)=0.9384061475284398 (running_time)=2.8099999371916056 (time)=2.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.667772571276174 (x2)=28.89375177295357 (theta)=0.9415477402508259 (running_time)=2.819999936968088 (time)=2.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.79669139326871 (x2)=29.07202105616315 (theta)=0.944689332973212 (running_time)=2.8299999367445707 (time)=2.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=52.925049530511345 (x2)=29.250694469416494 (theta)=0.9478309256955981 (running_time)=2.8399999365210533 (time)=2.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.05284571616102 (x2)=29.429770249279077 (theta)=0.9509725184179842 (running_time)=2.849999936297536 (time)=2.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.180078688920936 (x2)=29.60924662834517 (theta)=0.9541141111403704 (running_time)=2.8599999360740185 (time)=2.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.30674719305295 (x2)=29.789121835255287 (theta)=0.9572557038627565 (running_time)=2.869999935850501 (time)=2.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.43284997839002 (x2)=29.969394094713678 (theta)=0.9603972965851426 (running_time)=2.8799999356269836 (time)=2.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.558385800348496 (x2)=30.150061627505846 (theta)=0.9635388893075287 (running_time)=2.8899999354034662 (time)=2.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.68335341994045 (x2)=30.3311226505161 (theta)=0.9666804820299149 (running_time)=2.899999935179949 (time)=2.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.80775160378588 (x2)=30.51257537674516 (theta)=0.969822074752301 (running_time)=2.9099999349564314 (time)=2.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=53.93157912412487 (x2)=30.694418015327802 (theta)=0.9729636674746871 (running_time)=2.919999934732914 (time)=2.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.05483475882974 (x2)=30.87664877155051 (theta)=0.9761052601970732 (running_time)=2.9299999345093966 (time)=2.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.177517291417075 (x2)=31.059265846869213 (theta)=0.9792468529194593 (running_time)=2.939999934285879 (time)=2.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.29962551105976 (x2)=31.242267438927026 (theta)=0.9823884456418455 (running_time)=2.9499999340623617 (time)=2.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.421158212598904 (x2)=31.425651741572036 (theta)=0.9855300383642316 (running_time)=2.9599999338388443 (time)=2.96 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.542114196555765 (x2)=31.609416944875132 (theta)=0.9886716310866177 (running_time)=2.969999933615327 (time)=2.97 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.662492269143556 (x2)=31.793561235147866 (theta)=0.9918132238090038 (running_time)=2.9799999333918095 (time)=2.98 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.78229124227924 (x2)=31.978082794960358 (theta)=0.99495481653139 (running_time)=2.989999933168292 (time)=2.99 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=54.90150993359528 (x2)=32.162979803159224 (theta)=0.9980964092537761 (running_time)=2.9999999329447746 (time)=3.00 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.02014716645126 (x2)=32.348250434885564 (theta)=1.0012380019761622 (running_time)=3.009999932721257 (time)=3.01 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.13820176994554 (x2)=32.53389286159295 (theta)=1.0043795946985483 (running_time)=3.01999993249774 (time)=3.02 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.25567257892679 (x2)=32.71990525106551 (theta)=1.0075211874209344 (running_time)=3.0299999322742224 (time)=3.03 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.372558434005505 (x2)=32.90628576743597 (theta)=1.0106627801433206 (running_time)=3.039999932050705 (time)=3.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=true (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.372558434005505 (x2)=32.90628576743597 (theta)=1.0106627801433206 (running_time)=3.039999932050705 (time)=3.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.488858181565426 (x2)=33.09303257120379 (theta)=1.0138043728657067 (running_time)=3.0499999318271875 (time)=3.05 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.60457067377495 (x2)=33.28014381925334 (theta)=1.0169459655880928 (running_time)=3.05999993160367 (time)=3.06 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.71969476859845 (x2)=33.46761766487205 (theta)=1.020087558310479 (running_time)=3.0699999313801527 (time)=3.07 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.834229329807535 (x2)=33.65545225776868 (theta)=1.023229151032865 (running_time)=3.0799999311566353 (time)=3.08 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=55.948173226992274 (x2)=33.843645744091546 (theta)=1.0263707437552512 (running_time)=3.089999930933118 (time)=3.09 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.06152533557235 (x2)=34.03219626644683 (theta)=1.0295123364776373 (running_time)=3.0999999307096004 (time)=3.10 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.174284536808166 (x2)=34.22110196391692 (theta)=1.0326539292000234 (running_time)=3.109999930486083 (time)=3.11 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.286449717811884 (x2)=34.41036097207876 (theta)=1.0357955219224095 (running_time)=3.1199999302625656 (time)=3.12 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.3980197715584 (x2)=34.59997142302227 (theta)=1.0389371146447957 (running_time)=3.129999930039048 (time)=3.13 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.50899359689628 (x2)=34.78993144536876 (theta)=1.0420787073671818 (running_time)=3.1399999298155308 (time)=3.14 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.61937009855862 (x2)=34.980239164289415 (theta)=1.045220300089568 (running_time)=3.1499999295920134 (time)=3.15 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.729148187173855 (x2)=35.170892701523805 (theta)=1.048361892811954 (running_time)=3.159999929368496 (time)=3.16 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.83832677927653 (x2)=35.3618901753984 (theta)=1.0515034855343401 (running_time)=3.1699999291449785 (time)=3.17 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=56.94690479731797 (x2)=35.553229700845165 (theta)=1.0546450782567263 (running_time)=3.179999928921461 (time)=3.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.054881169676925 (x2)=35.744909389420144 (theta)=1.0577866709791124 (running_time)=3.1899999286979437 (time)=3.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.16225483067014 (x2)=35.93692734932211 (theta)=1.0609282637014985 (running_time)=3.1999999284744263 (time)=3.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.26902472056289 (x2)=36.12928168541124 (theta)=1.0640698564238846 (running_time)=3.209999928250909 (time)=3.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.375189785579416 (x2)=36.32197049922781 (theta)=1.0672114491462708 (running_time)=3.2199999280273914 (time)=3.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.48074897791334 (x2)=36.514991889010936 (theta)=1.0703530418686569 (running_time)=3.229999927803874 (time)=3.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.58570125573801 (x2)=36.70834394971734 (theta)=1.073494634591043 (running_time)=3.2399999275803566 (time)=3.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.690045583216765 (x2)=36.90202477304016 (theta)=1.0766362273134291 (running_time)=3.249999927356839 (time)=3.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.79378093051317 (x2)=37.09603244742778 (theta)=1.0797778200358152 (running_time)=3.2599999271333218 (time)=3.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.89690627380119 (x2)=37.290365058102694 (theta)=1.0829194127582014 (running_time)=3.2699999269098043 (time)=3.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=57.999420595275275 (x2)=37.48502068708041 (theta)=1.0860610054805875 (running_time)=3.279999926686287 (time)=3.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.10132288316041 (x2)=37.67999741318836 (theta)=1.0892025982029736 (running_time)=3.2899999264627695 (time)=3.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.202612131722105 (x2)=37.8752933120849 (theta)=1.0923441909253597 (running_time)=3.299999926239252 (time)=3.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.30328734127633 (x2)=38.07090645627826 (theta)=1.0954857836477458 (running_time)=3.3099999260157347 (time)=3.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.40334751819937 (x2)=38.266834915145594 (theta)=1.098627376370132 (running_time)=3.3199999257922173 (time)=3.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.502791674937626 (x2)=38.463076754952034 (theta)=1.101768969092518 (running_time)=3.3299999255687 (time)=3.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.60161883001738 (x2)=38.659630038869764 (theta)=1.1049105618149042 (running_time)=3.3399999253451824 (time)=3.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.69982800805446 (x2)=38.85649282699713 (theta)=1.1080521545372903 (running_time)=3.349999925121665 (time)=3.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.79741823976389 (x2)=39.05366317637781 (theta)=1.1111937472596765 (running_time)=3.3599999248981476 (time)=3.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.89438856196944 (x2)=39.25113914101997 (theta)=1.1143353399820626 (running_time)=3.36999992467463 (time)=3.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=58.99073801761314 (x2)=39.44891877191547 (theta)=1.1174769327044487 (running_time)=3.3799999244511127 (time)=3.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.08646565576471 (x2)=39.64700011705913 (theta)=1.1206185254268348 (running_time)=3.3899999242275953 (time)=3.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.181570531630975 (x2)=39.845381221467946 (theta)=1.123760118149221 (running_time)=3.399999924004078 (time)=3.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.27605170656516 (x2)=40.044060127200424 (theta)=1.126901710871607 (running_time)=3.4099999237805605 (time)=3.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.36990824807618 (x2)=40.24303487337589 (theta)=1.1300433035939932 (running_time)=3.419999923557043 (time)=3.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.46313922983781 (x2)=40.442303496193844 (theta)=1.1331848963163793 (running_time)=3.4299999233335257 (time)=3.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.55574373169786 (x2)=40.641864028953336 (theta)=1.1363264890387654 (running_time)=3.4399999231100082 (time)=3.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.647720839687246 (x2)=40.841714502072385 (theta)=1.1394680817611516 (running_time)=3.449999922886491 (time)=3.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.739069646029 (x2)=41.04185294310743 (theta)=1.1426096744835377 (running_time)=3.4599999226629734 (time)=3.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.82978924914725 (x2)=41.242277376772755 (theta)=1.1457512672059238 (running_time)=3.469999922439456 (time)=3.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=59.91987875367609 (x2)=41.44298582496004 (theta)=1.14889285992831 (running_time)=3.4799999222159386 (time)=3.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.00933727046845 (x2)=41.643976306757835 (theta)=1.152034452650696 (running_time)=3.489999921992421 (time)=3.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.09816391660485 (x2)=41.84524683847115 (theta)=1.1551760453730822 (running_time)=3.4999999217689037 (time)=3.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.186357815402104 (x2)=42.046795433640995 (theta)=1.1583176380954683 (running_time)=3.5099999215453863 (time)=3.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.273918096422 (x2)=42.24862010306403 (theta)=1.1614592308178544 (running_time)=3.519999921321869 (time)=3.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.36084389547988 (x2)=42.450718854812145 (theta)=1.1646008235402405 (running_time)=3.5299999210983515 (time)=3.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.447134354653166 (x2)=42.65308969425218 (theta)=1.1677424162626266 (running_time)=3.539999920874834 (time)=3.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.53278862228982 (x2)=42.85573062406555 (theta)=1.1708840089850128 (running_time)=3.5499999206513166 (time)=3.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.61780585301677 (x2)=43.058639644268005 (theta)=1.174025601707399 (running_time)=3.5599999204277992 (time)=3.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.70218520774822 (x2)=43.26181475222935 (theta)=1.177167194429785 (running_time)=3.569999920204282 (time)=3.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.78592585369399 (x2)=43.465253942693195 (theta)=1.1803087871521711 (running_time)=3.5799999199807644 (time)=3.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.869026964367656 (x2)=43.668955207796785 (theta)=1.1834503798745573 (running_time)=3.589999919757247 (time)=3.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=60.95148771959478 (x2)=43.87291653709078 (theta)=1.1865919725969434 (running_time)=3.5999999195337296 (time)=3.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.03330730552096 (x2)=44.07713591755911 (theta)=1.1897335653193295 (running_time)=3.609999919310212 (time)=3.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.11448491461987 (x2)=44.28161133363886 (theta)=1.1928751580417156 (running_time)=3.6199999190866947 (time)=3.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.19501974570126 (x2)=44.486340767240115 (theta)=1.1960167507641017 (running_time)=3.6299999188631773 (time)=3.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.27491100391882 (x2)=44.69132219776594 (theta)=1.1991583434864879 (running_time)=3.63999991863966 (time)=3.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.35415790077805 (x2)=44.896553602132286 (theta)=1.202299936208874 (running_time)=3.6499999184161425 (time)=3.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.432759654144036 (x2)=45.10203295478795 (theta)=1.20544152893126 (running_time)=3.659999918192625 (time)=3.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.510715488249176 (x2)=45.307758227734595 (theta)=1.2085831216536462 (running_time)=3.6699999179691076 (time)=3.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.58802463370082 (x2)=45.51372739054674 (theta)=1.2117247143760324 (running_time)=3.67999991774559 (time)=3.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.66468632748888 (x2)=45.71993841039181 (theta)=1.2148663070984185 (running_time)=3.689999917522073 (time)=3.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.74069981299336 (x2)=45.92638925205021 (theta)=1.2180078998208046 (running_time)=3.6999999172985554 (time)=3.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.81606433999181 (x2)=46.13307787793538 (theta)=1.2211494925431907 (running_time)=3.709999917075038 (time)=3.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.890779164666746 (x2)=46.34000224811394 (theta)=1.2242910852655768 (running_time)=3.7199999168515205 (time)=3.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=61.96484354961297 (x2)=46.54716032032581 (theta)=1.227432677987963 (running_time)=3.729999916628003 (time)=3.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.038256763844885 (x2)=46.754550050004354 (theta)=1.230574270710349 (running_time)=3.7399999164044857 (time)=3.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.11101808280366 (x2)=46.96216939029658 (theta)=1.2337158634327352 (running_time)=3.7499999161809683 (time)=3.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.183126788364426 (x2)=47.17001629208333 (theta)=1.2368574561551213 (running_time)=3.759999915957451 (time)=3.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.25458216884334 (x2)=47.3780887039995 (theta)=1.2399990488775074 (running_time)=3.7699999157339334 (time)=3.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.32538351900462 (x2)=47.58638457245431 (theta)=1.2431406415998936 (running_time)=3.779999915510416 (time)=3.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.39553014006748 (x2)=47.79490184165152 (theta)=1.2462822343222797 (running_time)=3.7899999152868986 (time)=3.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.46502133971306 (x2)=48.003638453609796 (theta)=1.2494238270446658 (running_time)=3.799999915063381 (time)=3.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.533856432091255 (x2)=48.212592348182945 (theta)=1.252565419767052 (running_time)=3.8099999148398638 (time)=3.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.60203473782745 (x2)=48.421761463080294 (theta)=1.255707012489438 (running_time)=3.8199999146163464 (time)=3.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.669555584029276 (x2)=48.63114373388704 (theta)=1.2588486052118242 (running_time)=3.829999914392829 (time)=3.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.7364183042932 (x2)=48.84073709408461 (theta)=1.2619901979342103 (running_time)=3.8399999141693115 (time)=3.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.802622238711145 (x2)=49.05053947507106 (theta)=1.2651317906565964 (running_time)=3.849999913945794 (time)=3.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.868166733876976 (x2)=49.260548806181504 (theta)=1.2682733833789825 (running_time)=3.8599999137222767 (time)=3.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.93305114289296 (x2)=49.47076301470854 (theta)=1.2714149761013687 (running_time)=3.8699999134987593 (time)=3.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=62.99727482537614 (x2)=49.6811800259227 (theta)=1.2745565688237548 (running_time)=3.879999913275242 (time)=3.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.060837147464675 (x2)=49.891797763092946 (theta)=1.277698161546141 (running_time)=3.8899999130517244 (time)=3.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.12373748182408 (x2)=50.10261414750715 (theta)=1.280839754268527 (running_time)=3.899999912828207 (time)=3.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.18597520765342 (x2)=50.3136270984926 (theta)=1.2839813469909132 (running_time)=3.9099999126046896 (time)=3.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.247549710691445 (x2)=50.5248345334366 (theta)=1.2871229397132993 (running_time)=3.919999912381172 (time)=3.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.30846038322264 (x2)=50.736234367806915 (theta)=1.2902645324356854 (running_time)=3.9299999121576548 (time)=3.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.368706624083224 (x2)=50.94782451517245 (theta)=1.2934061251580715 (running_time)=3.9399999119341373 (time)=3.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.4282878386671 (x2)=51.15960288722378 (theta)=1.2965477178804576 (running_time)=3.94999991171062 (time)=3.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.487203438931715 (x2)=51.37156739379377 (theta)=1.2996893106028438 (running_time)=3.9599999114871025 (time)=3.96 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.54545284340385 (x2)=51.58371594287823 (theta)=1.3028309033252299 (running_time)=3.969999911263585 (time)=3.97 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.60303547718537 (x2)=51.79604644065653 (theta)=1.305972496047616 (running_time)=3.9799999110400677 (time)=3.98 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.65995077195891 (x2)=52.0085567915123 (theta)=1.3091140887700021 (running_time)=3.9899999108165503 (time)=3.99 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.716198165993454 (x2)=52.22124489805407 (theta)=1.3122556814923882 (running_time)=3.999999910593033 (time)=4.00 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.77177710414991 (x2)=52.434108661136 (theta)=1.3153972742147744 (running_time)=4.009999910369515 (time)=4.01 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.82668703788658 (x2)=52.6471459798786 (theta)=1.3185388669371605 (running_time)=4.019999910145998 (time)=4.02 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.88092742526455 (x2)=52.86035475168944 (theta)=1.3216804596595466 (running_time)=4.029999909922481 (time)=4.03 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.93449773095308 (x2)=53.073732872283934 (theta)=1.3248220523819327 (running_time)=4.039999909698963 (time)=4.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=true (monitor_4)=false (monitor_5)=false (monitor_6)=false 
+(x1)=63.93449773095308 (x2)=53.073732872283934 (theta)=1.3248220523819327 (running_time)=4.039999909698963 (time)=4.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=63.98739742623486 (x2)=53.287278235706076 (theta)=1.3279636451043189 (running_time)=4.049999909475446 (time)=4.05 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.03962598901121 (x2)=53.50098873434926 (theta)=1.331105237826705 (running_time)=4.059999909251928 (time)=4.06 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.09118290380731 (x2)=53.714862258977035 (theta)=1.334246830549091 (running_time)=4.069999909028411 (time)=4.07 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.14206766177718 (x2)=53.928896698743976 (theta)=1.3373884232714772 (running_time)=4.0799999088048935 (time)=4.08 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.19227976070879 (x2)=54.14308994121647 (theta)=1.3405300159938633 (running_time)=4.089999908581376 (time)=4.09 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.24181870502896 (x2)=54.35743987239361 (theta)=1.3436716087162495 (running_time)=4.099999908357859 (time)=4.10 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.2906840058083 (x2)=54.571944376728005 (theta)=1.3468132014386356 (running_time)=4.109999908134341 (time)=4.11 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.338875180766 (x2)=54.786601337146706 (theta)=1.3499547941610217 (running_time)=4.119999907910824 (time)=4.12 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.38639175427458 (x2)=55.00140863507209 (theta)=1.3530963868834078 (running_time)=4.129999907687306 (time)=4.13 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.43323325736465 (x2)=55.21636415044274 (theta)=1.356237979605794 (running_time)=4.139999907463789 (time)=4.14 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.47939922772944 (x2)=55.43146576173442 (theta)=1.35937957232818 (running_time)=4.149999907240272 (time)=4.15 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.52488920972947 (x2)=55.646711345980975 (theta)=1.3625211650505662 (running_time)=4.159999907016754 (time)=4.16 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.56970275439693 (x2)=55.862098778795286 (theta)=1.3656627577729523 (running_time)=4.169999906793237 (time)=4.17 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.61383941944021 (x2)=56.07762593439025 (theta)=1.3688043504953384 (running_time)=4.179999906569719 (time)=4.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.65729876924824 (x2)=56.293290685599764 (theta)=1.3719459432177246 (running_time)=4.189999906346202 (time)=4.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.70008037489477 (x2)=56.50909090389971 (theta)=1.3750875359401107 (running_time)=4.1999999061226845 (time)=4.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.74218381414259 (x2)=56.725024459428965 (theta)=1.3782291286624968 (running_time)=4.209999905899167 (time)=4.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.78360867144774 (x2)=56.941089221010415 (theta)=1.381370721384883 (running_time)=4.21999990567565 (time)=4.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.82435453796359 (x2)=57.157283056172 (theta)=1.384512314107269 (running_time)=4.229999905452132 (time)=4.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.86442101154485 (x2)=57.37360383116775 (theta)=1.3876539068296552 (running_time)=4.239999905228615 (time)=4.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.9038076967516 (x2)=57.59004941099886 (theta)=1.3907954995520413 (running_time)=4.249999905005097 (time)=4.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.94251420485314 (x2)=57.806617659434735 (theta)=1.3939370922744274 (running_time)=4.25999990478158 (time)=4.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=64.98054015383184 (x2)=58.023306439034116 (theta)=1.3970786849968135 (running_time)=4.2699999045580626 (time)=4.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.01788516838693 (x2)=58.24011361116613 (theta)=1.4002202777191997 (running_time)=4.279999904334545 (time)=4.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.05454887993817 (x2)=58.45703703603142 (theta)=1.4033618704415858 (running_time)=4.289999904111028 (time)=4.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.09053092662951 (x2)=58.674074572683274 (theta)=1.406503463163972 (running_time)=4.29999990388751 (time)=4.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.12583095333267 (x2)=58.89122407904872 (theta)=1.409645055886358 (running_time)=4.309999903663993 (time)=4.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.16044861165061 (x2)=59.108483411949706 (theta)=1.4127866486087441 (running_time)=4.3199999034404755 (time)=4.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.19438355992101 (x2)=59.32585042712424 (theta)=1.4159282413311303 (running_time)=4.329999903216958 (time)=4.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.2276354632196 (x2)=59.543322979247534 (theta)=1.4190698340535164 (running_time)=4.339999902993441 (time)=4.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.26020399336352 (x2)=59.76089892195321 (theta)=1.4222114267759025 (running_time)=4.349999902769923 (time)=4.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.29208882891452 (x2)=59.97857610785446 (theta)=1.4253530194982886 (running_time)=4.359999902546406 (time)=4.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.32328965518211 (x2)=60.19635238856524 (theta)=1.4284946122206748 (running_time)=4.369999902322888 (time)=4.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.35380616422674 (x2)=60.41422561472148 (theta)=1.4316362049430609 (running_time)=4.379999902099371 (time)=4.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.38363805486276 (x2)=60.63219363600231 (theta)=1.434777797665447 (running_time)=4.3899999018758535 (time)=4.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.41278503266143 (x2)=60.85025430115127 (theta)=1.4379193903878331 (running_time)=4.399999901652336 (time)=4.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.44124680995385 (x2)=61.068405457997514 (theta)=1.4410609831102192 (running_time)=4.409999901428819 (time)=4.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.46902310583376 (x2)=61.286644953477115 (theta)=1.4442025758326054 (running_time)=4.419999901205301 (time)=4.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.49611364616031 (x2)=61.50497063365427 (theta)=1.4473441685549915 (running_time)=4.429999900981784 (time)=4.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.5225181635608 (x2)=61.72338034374255 (theta)=1.4504857612773776 (running_time)=4.4399999007582664 (time)=4.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.54823639743329 (x2)=61.941871928126204 (theta)=1.4536273539997637 (running_time)=4.449999900534749 (time)=4.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.57326809394917 (x2)=62.16044323038141 (theta)=1.4567689467221498 (running_time)=4.459999900311232 (time)=4.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.59761300605571 (x2)=62.37909209329756 (theta)=1.459910539444536 (running_time)=4.469999900087714 (time)=4.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.62127089347844 (x2)=62.59781635889855 (theta)=1.463052132166922 (running_time)=4.479999899864197 (time)=4.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.64424152272353 (x2)=62.81661386846409 (theta)=1.4661937248893082 (running_time)=4.489999899640679 (time)=4.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.66652466708017 (x2)=63.035482462551 (theta)=1.4693353176116943 (running_time)=4.499999899417162 (time)=4.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.68812010662268 (x2)=63.25441998101453 (theta)=1.4724769103340805 (running_time)=4.5099998991936445 (time)=4.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.7090276282128 (x2)=63.47342426302965 (theta)=1.4756185030564666 (running_time)=4.519999898970127 (time)=4.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.7292470255017 (x2)=63.69249314711242 (theta)=1.4787600957788527 (running_time)=4.52999989874661 (time)=4.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.74877809893212 (x2)=63.911624471141316 (theta)=1.4819016885012388 (running_time)=4.539999898523092 (time)=4.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.76762065574022 (x2)=64.13081607237854 (theta)=1.485043281223625 (running_time)=4.549999898299575 (time)=4.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.78577450995756 (x2)=64.35006578749136 (theta)=1.488184873946011 (running_time)=4.559999898076057 (time)=4.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.80323948241293 (x2)=64.56937145257353 (theta)=1.4913264666683972 (running_time)=4.56999989785254 (time)=4.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.82001540073409 (x2)=64.78873090316658 (theta)=1.4944680593907833 (running_time)=4.579999897629023 (time)=4.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.83610209934949 (x2)=65.00814197428119 (theta)=1.4976096521131694 (running_time)=4.589999897405505 (time)=4.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.85149941948991 (x2)=65.22760250041856 (theta)=1.5007512448355556 (running_time)=4.599999897181988 (time)=4.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.86620720919001 (x2)=65.44711031559181 (theta)=1.5038928375579417 (running_time)=4.60999989695847 (time)=4.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.88022532328982 (x2)=65.66666325334735 (theta)=1.5070344302803278 (running_time)=4.619999896734953 (time)=4.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.89355362343622 (x2)=65.8862591467862 (theta)=1.510176023002714 (running_time)=4.6299998965114355 (time)=4.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.90619197808427 (x2)=66.10589582858546 (theta)=1.5133176157251 (running_time)=4.639999896287918 (time)=4.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.91814026249848 (x2)=66.32557113101966 (theta)=1.5164592084474862 (running_time)=4.649999896064401 (time)=4.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.92939835875413 (x2)=66.54528288598215 (theta)=1.5196008011698723 (running_time)=4.659999895840883 (time)=4.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.93996615573833 (x2)=66.76502892500652 (theta)=1.5227423938922584 (running_time)=4.669999895617366 (time)=4.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.9498435491512 (x2)=66.98480707928799 (theta)=1.5258839866146445 (running_time)=4.679999895393848 (time)=4.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.95903044150684 (x2)=67.2046151797048 (theta)=1.5290255793370306 (running_time)=4.689999895170331 (time)=4.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.96752674213434 (x2)=67.42445105683964 (theta)=1.5321671720594168 (running_time)=4.699999894946814 (time)=4.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.97533236717862 (x2)=67.64431254100107 (theta)=1.535308764781803 (running_time)=4.709999894723296 (time)=4.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.98244723960133 (x2)=67.8641974622449 (theta)=1.538450357504189 (running_time)=4.719999894499779 (time)=4.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.98887128918153 (x2)=68.08410365039565 (theta)=1.5415919502265751 (running_time)=4.729999894276261 (time)=4.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.99460445251646 (x2)=68.3040289350679 (theta)=1.5447335429489613 (running_time)=4.739999894052744 (time)=4.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.9996466730221 (x2)=68.52397114568781 (theta)=1.5478751356713474 (running_time)=4.7499998938292265 (time)=4.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.00399790093377 (x2)=68.74392811151445 (theta)=1.5510167283937335 (running_time)=4.759999893605709 (time)=4.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.0076580933066 (x2)=68.96389766166126 (theta)=1.5541583211161196 (running_time)=4.769999893382192 (time)=4.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01062721401597 (x2)=69.18387762511752 (theta)=1.5572999138385057 (running_time)=4.779999893158674 (time)=4.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01290523375785 (x2)=69.40386583076967 (theta)=1.5604415065608919 (running_time)=4.789999892935157 (time)=4.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.0144921300491 (x2)=69.62386010742287 (theta)=1.563583099283278 (running_time)=4.799999892711639 (time)=4.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01538788722772 (x2)=69.8438582838223 (theta)=1.566724692005664 (running_time)=4.809999892488122 (time)=4.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01559249645292 (x2)=70.0638581886747 (theta)=1.5698662847280502 (running_time)=4.819999892264605 (time)=4.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01510595570531 (x2)=70.28385765066973 (theta)=1.5730078774504364 (running_time)=4.829999892041087 (time)=4.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.01392826978685 (x2)=70.50385449850141 (theta)=1.5761494701728225 (running_time)=4.83999989181757 (time)=4.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.0120594503208 (x2)=70.72384656088958 (theta)=1.5792910628952086 (running_time)=4.849999891594052 (time)=4.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.00949951575168 (x2)=70.94383166660131 (theta)=1.5824326556175947 (running_time)=4.859999891370535 (time)=4.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.006248491345 (x2)=71.16380764447233 (theta)=1.5855742483399808 (running_time)=4.8699998911470175 (time)=4.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=66.00230640918707 (x2)=71.38377232342843 (theta)=1.588715841062367 (running_time)=4.8799998909235 (time)=4.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.99767330818464 (x2)=71.60372353250695 (theta)=1.591857433784753 (running_time)=4.889999890699983 (time)=4.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.99234923406456 (x2)=71.82365910087815 (theta)=1.5949990265071392 (running_time)=4.899999890476465 (time)=4.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.98633423937328 (x2)=72.04357685786667 (theta)=1.5981406192295253 (running_time)=4.909999890252948 (time)=4.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.97962838347638 (x2)=72.26347463297294 (theta)=1.6012822119519114 (running_time)=4.91999989002943 (time)=4.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.97223173255794 (x2)=72.4833502558946 (theta)=1.6044238046742976 (running_time)=4.929999889805913 (time)=4.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.96414435961995 (x2)=72.70320155654794 (theta)=1.6075653973966837 (running_time)=4.9399998895823956 (time)=4.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.95536634448149 (x2)=72.92302636508926 (theta)=1.6107069901190698 (running_time)=4.949999889358878 (time)=4.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.94589777377804 (x2)=73.14282251193636 (theta)=1.613848582841456 (running_time)=4.959999889135361 (time)=4.96 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.93573874096059 (x2)=73.36258782778992 (theta)=1.616990175563842 (running_time)=4.969999888911843 (time)=4.97 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.92488934629468 (x2)=73.5823201436549 (theta)=1.6201317682862282 (running_time)=4.979999888688326 (time)=4.98 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.91334969685946 (x2)=73.80201729086194 (theta)=1.6232733610086143 (running_time)=4.9899998884648085 (time)=4.99 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.90111990654661 (x2)=74.02167710108881 (theta)=1.6264149537310004 (running_time)=4.999999888241291 (time)=5.00 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.88820009605925 (x2)=74.24129740638176 (theta)=1.6295565464533865 (running_time)=5.009999888017774 (time)=5.01 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.87459039291069 (x2)=74.46087603917695 (theta)=1.6326981391757727 (running_time)=5.019999887794256 (time)=5.02 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.86029093142321 (x2)=74.68041083232184 (theta)=1.6358397318981588 (running_time)=5.029999887570739 (time)=5.03 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.84530185272672 (x2)=74.89989961909654 (theta)=1.638981324620545 (running_time)=5.039999887347221 (time)=5.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=true (monitor_5)=false (monitor_6)=false 
+(x1)=65.84530185272672 (x2)=74.89989961909654 (theta)=1.638981324620545 (running_time)=5.039999887347221 (time)=5.04 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.82962330475739 (x2)=75.11934023323525 (theta)=1.642122917342931 (running_time)=5.049999887123704 (time)=5.05 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.81325544225616 (x2)=75.3387305089476 (theta)=1.6452645100653172 (running_time)=5.0599998869001865 (time)=5.06 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.79619842676725 (x2)=75.55806828094005 (theta)=1.6484061027877033 (running_time)=5.069999886676669 (time)=5.07 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.7784524266365 (x2)=75.77735138443724 (theta)=1.6515476955100894 (running_time)=5.079999886453152 (time)=5.08 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.7600176170098 (x2)=75.99657765520337 (theta)=1.6546892882324755 (running_time)=5.089999886229634 (time)=5.09 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.74089417983124 (x2)=76.21574492956357 (theta)=1.6578308809548616 (running_time)=5.099999886006117 (time)=5.10 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.72108230384148 (x2)=76.43485104442522 (theta)=1.6609724736772478 (running_time)=5.1099998857825994 (time)=5.11 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.70058218457574 (x2)=76.65389383729932 (theta)=1.6641140663996339 (running_time)=5.119999885559082 (time)=5.12 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.67939402436191 (x2)=76.87287114632186 (theta)=1.66725565912202 (running_time)=5.129999885335565 (time)=5.13 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.6575180323186 (x2)=77.0917808102751 (theta)=1.6703972518444061 (running_time)=5.139999885112047 (time)=5.14 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.63495442435303 (x2)=77.31062066860893 (theta)=1.6735388445667922 (running_time)=5.14999988488853 (time)=5.15 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.6117034231589 (x2)=77.52938856146223 (theta)=1.6766804372891784 (running_time)=5.159999884665012 (time)=5.16 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.58776525821422 (x2)=77.7480823296841 (theta)=1.6798220300115645 (running_time)=5.169999884441495 (time)=5.17 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.56314016577903 (x2)=77.96669981485525 (theta)=1.6829636227339506 (running_time)=5.1799998842179775 (time)=5.18 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.53782838889306 (x2)=78.18523885930927 (theta)=1.6861052154563367 (running_time)=5.18999988399446 (time)=5.19 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.51183017737334 (x2)=78.40369730615392 (theta)=1.6892468081787229 (running_time)=5.199999883770943 (time)=5.20 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.48514578781173 (x2)=78.62207299929243 (theta)=1.692388400901109 (running_time)=5.209999883547425 (time)=5.21 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.45777548357239 (x2)=78.84036378344477 (theta)=1.695529993623495 (running_time)=5.219999883323908 (time)=5.22 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.42971953478919 (x2)=79.05856750416895 (theta)=1.6986715863458812 (running_time)=5.22999988310039 (time)=5.23 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.40097821836302 (x2)=79.27668200788223 (theta)=1.7018131790682673 (running_time)=5.239999882876873 (time)=5.24 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.3715518179591 (x2)=79.49470514188242 (theta)=1.7049547717906535 (running_time)=5.249999882653356 (time)=5.25 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.34144062400412 (x2)=79.71263475436912 (theta)=1.7080963645130396 (running_time)=5.259999882429838 (time)=5.26 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.31064493368343 (x2)=79.93046869446495 (theta)=1.7112379572354257 (running_time)=5.269999882206321 (time)=5.27 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.27916505093808 (x2)=80.14820481223676 (theta)=1.7143795499578118 (running_time)=5.279999881982803 (time)=5.28 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.2470012864618 (x2)=80.36584095871687 (theta)=1.717521142680198 (running_time)=5.289999881759286 (time)=5.29 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.21415395769797 (x2)=80.5833749859243 (theta)=1.720662735402584 (running_time)=5.2999998815357685 (time)=5.30 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.18062338883651 (x2)=80.80080474688592 (theta)=1.7238043281249702 (running_time)=5.309999881312251 (time)=5.31 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.14640991081059 (x2)=81.01812809565767 (theta)=1.7269459208473563 (running_time)=5.319999881088734 (time)=5.32 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.11151386129345 (x2)=81.23534288734575 (theta)=1.7300875135697424 (running_time)=5.329999880865216 (time)=5.33 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.075935584695 (x2)=81.45244697812777 (theta)=1.7332291062921286 (running_time)=5.339999880641699 (time)=5.34 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.03967543215852 (x2)=81.6694382252739 (theta)=1.7363706990145147 (running_time)=5.349999880418181 (time)=5.35 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=65.00273376155707 (x2)=81.88631448716802 (theta)=1.7395122917369008 (running_time)=5.359999880194664 (time)=5.36 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.96511093749004 (x2)=82.10307362332892 (theta)=1.742653884459287 (running_time)=5.369999879971147 (time)=5.37 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.92680733127953 (x2)=82.31971349443134 (theta)=1.745795477181673 (running_time)=5.379999879747629 (time)=5.38 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.8878233209667 (x2)=82.53623196232711 (theta)=1.7489370699040592 (running_time)=5.389999879524112 (time)=5.39 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.848159291308 (x2)=82.75262689006627 (theta)=1.7520786626264453 (running_time)=5.399999879300594 (time)=5.40 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.8078156337714 (x2)=82.96889614191814 (theta)=1.7552202553488314 (running_time)=5.409999879077077 (time)=5.41 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.76679274653254 (x2)=83.18503758339244 (theta)=1.7583618480712175 (running_time)=5.4199998788535595 (time)=5.42 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.72509103447078 (x2)=83.40104908126031 (theta)=1.7615034407936037 (running_time)=5.429999878630042 (time)=5.43 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.68271090916518 (x2)=83.61692850357537 (theta)=1.7646450335159898 (running_time)=5.439999878406525 (time)=5.44 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.6396527888905 (x2)=83.83267371969478 (theta)=1.767786626238376 (running_time)=5.449999878183007 (time)=5.45 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.59591709861303 (x2)=84.04828260030027 (theta)=1.770928218960762 (running_time)=5.45999987795949 (time)=5.46 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.55150426998638 (x2)=84.26375301741913 (theta)=1.7740698116831481 (running_time)=5.469999877735972 (time)=5.47 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.50641474134726 (x2)=84.47908284444526 (theta)=1.7772114044055343 (running_time)=5.479999877512455 (time)=5.48 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.46064895771113 (x2)=84.69426995616008 (theta)=1.7803529971279204 (running_time)=5.489999877288938 (time)=5.49 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.41420737076783 (x2)=84.9093122287536 (theta)=1.7834945898503065 (running_time)=5.49999987706542 (time)=5.50 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.36709043887709 (x2)=85.12420753984532 (theta)=1.7866361825726926 (running_time)=5.509999876841903 (time)=5.51 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.31929862706401 (x2)=85.33895376850515 (theta)=1.7897777752950788 (running_time)=5.519999876618385 (time)=5.52 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.27083240701452 (x2)=85.55354879527445 (theta)=1.7929193680174649 (running_time)=5.529999876394868 (time)=5.53 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.22169225707067 (x2)=85.76799050218683 (theta)=1.796060960739851 (running_time)=5.5399998761713505 (time)=5.54 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.17187866222591 (x2)=85.98227677278913 (theta)=1.7992025534622371 (running_time)=5.549999875947833 (time)=5.55 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.12139211412033 (x2)=86.19640549216228 (theta)=1.8023441461846232 (running_time)=5.559999875724316 (time)=5.56 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.0702331110358 (x2)=86.41037454694217 (theta)=1.8054857389070094 (running_time)=5.569999875500798 (time)=5.57 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=64.01840215789106 (x2)=86.62418182534051 (theta)=1.8086273316293955 (running_time)=5.579999875277281 (time)=5.58 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.9658997662367 (x2)=86.8378252171657 (theta)=1.8117689243517816 (running_time)=5.589999875053763 (time)=5.59 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.91272645425017 (x2)=87.05130261384362 (theta)=1.8149105170741677 (running_time)=5.599999874830246 (time)=5.60 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.8588827467306 (x2)=87.26461190843845 (theta)=1.8180521097965539 (running_time)=5.6099998746067286 (time)=5.61 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.804369175093676 (x2)=87.47775099567349 (theta)=1.82119370251894 (running_time)=5.619999874383211 (time)=5.62 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.74918627736636 (x2)=87.6907177719519 (theta)=1.824335295241326 (running_time)=5.629999874159694 (time)=5.63 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.6933345981816 (x2)=87.90351013537747 (theta)=1.8274768879637122 (running_time)=5.639999873936176 (time)=5.64 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.63681468877295 (x2)=88.11612598577541 (theta)=1.8306184806860983 (running_time)=5.649999873712659 (time)=5.65 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.57962710696912 (x2)=88.32856322471301 (theta)=1.8337600734084845 (running_time)=5.6599998734891415 (time)=5.66 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.52177241718847 (x2)=88.54081975552039 (theta)=1.8369016661308706 (running_time)=5.669999873265624 (time)=5.67 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.463251190433475 (x2)=88.7528934833112 (theta)=1.8400432588532567 (running_time)=5.679999873042107 (time)=5.68 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.404064004285026 (x2)=88.96478231500326 (theta)=1.8431848515756428 (running_time)=5.689999872818589 (time)=5.69 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.34421144289679 (x2)=89.17648415933927 (theta)=1.846326444298029 (running_time)=5.699999872595072 (time)=5.70 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.28369409698941 (x2)=89.38799692690739 (theta)=1.849468037020415 (running_time)=5.709999872371554 (time)=5.71 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.222512563844674 (x2)=89.59931853016191 (theta)=1.8526096297428012 (running_time)=5.719999872148037 (time)=5.72 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.16066744729965 (x2)=89.81044688344383 (theta)=1.8557512224651873 (running_time)=5.7299998719245195 (time)=5.73 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.098159357740705 (x2)=90.02137990300145 (theta)=1.8588928151875734 (running_time)=5.739999871701002 (time)=5.74 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=63.03498891209746 (x2)=90.23211550701092 (theta)=1.8620344079099596 (running_time)=5.749999871477485 (time)=5.75 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.97115673383674 (x2)=90.44265161559682 (theta)=1.8651760006323457 (running_time)=5.759999871253967 (time)=5.76 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.906663452956415 (x2)=90.65298615085266 (theta)=1.8683175933547318 (running_time)=5.76999987103045 (time)=5.77 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.84150970597914 (x2)=90.8631170368614 (theta)=1.871459186077118 (running_time)=5.7799998708069324 (time)=5.78 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.775696135946134 (x2)=91.07304219971594 (theta)=1.874600778799504 (running_time)=5.789999870583415 (time)=5.79 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.709223392410784 (x2)=91.2827595675396 (theta)=1.8777423715218902 (running_time)=5.799999870359898 (time)=5.80 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.64209213143227 (x2)=91.49226707050651 (theta)=1.8808839642442763 (running_time)=5.80999987013638 (time)=5.81 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.57430301556906 (x2)=91.70156264086214 (theta)=1.8840255569666624 (running_time)=5.819999869912863 (time)=5.82 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.50585671387239 (x2)=91.91064421294358 (theta)=1.8871671496890485 (running_time)=5.829999869689345 (time)=5.83 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.436753901879655 (x2)=92.11950972320005 (theta)=1.8903087424114347 (running_time)=5.839999869465828 (time)=5.84 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.36699526160774 (x2)=92.3281571102132 (theta)=1.8934503351338208 (running_time)=5.8499998692423105 (time)=5.85 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.29658148154629 (x2)=92.53658431471744 (theta)=1.896591927856207 (running_time)=5.859999869018793 (time)=5.86 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.22551325665092 (x2)=92.74478927962035 (theta)=1.899733520578593 (running_time)=5.869999868795276 (time)=5.87 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.15379128833635 (x2)=92.95276995002287 (theta)=1.9028751133009791 (running_time)=5.879999868571758 (time)=5.88 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.08141628446948 (x2)=93.16052427323967 (theta)=1.9060167060233653 (running_time)=5.889999868348241 (time)=5.89 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=62.00838895936242 (x2)=93.36805019881936 (theta)=1.9091582987457514 (running_time)=5.899999868124723 (time)=5.90 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.934710033765406 (x2)=93.57534567856474 (theta)=1.9122998914681375 (running_time)=5.909999867901206 (time)=5.91 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.860380234859726 (x2)=93.78240866655304 (theta)=1.9154414841905236 (running_time)=5.919999867677689 (time)=5.92 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.785400296250515 (x2)=93.98923711915606 (theta)=1.9185830769129097 (running_time)=5.929999867454171 (time)=5.93 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.70977095795953 (x2)=94.19582899506038 (theta)=1.9217246696352959 (running_time)=5.939999867230654 (time)=5.94 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.63349296641784 (x2)=94.40218225528751 (theta)=1.924866262357682 (running_time)=5.949999867007136 (time)=5.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=true (monitor_6)=false 
+(x1)=61.63349296641784 (x2)=94.40218225528751 (theta)=1.924866262357682 (running_time)=5.949999867007136 (time)=5.95 
+(flying-straight)=false (adjusting-left)=true (adjusting-right)=false (monitor_0)=false (monitor_1)=false (monitor_2)=false (monitor_3)=false (monitor_4)=false (monitor_5)=false (monitor_6)=true 

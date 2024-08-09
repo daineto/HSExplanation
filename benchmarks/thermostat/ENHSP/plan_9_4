@@ -1,0 +1,7 @@
+0: (turn-on)
+1.04: (validate_1)
+2.04: (validate_2)
+3.04: (validate_3)
+3.60: (turn-off)
+3.95: (validate_4)
+3.95: @PlanEND 

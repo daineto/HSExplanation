@@ -1,0 +1,284 @@
+MODULE main
+VAR thermo : thermostat;
+VAR observation : observation(thermo.x, 0.05, 0.1);
+
+INVARSPEC !(observation.location = obs80);
+
+MODULE thermostat
+VAR
+	location : {on, off};
+	x : continuous;
+
+EVENT turn_on, turn_off;
+
+INIT
+	location = off & x = 18.2;
+
+TRANS
+	EVENT = turn_on ->
+		(location = off & next(location) =  on & x < 19 & next(x) = x)
+
+TRANS
+	EVENT = turn_off ->
+		(location = on & next(location) =  off & x > 21 & next(x) = x)
+
+INVAR
+	(location = off -> x >= 18) &
+	 (location = on -> x <= 22)
+
+FLOW
+	(location = off -> der(x) = -0.2) &
+	(location = on -> der(x) = 0.8)
+
+MODULE observation(x, x_error, t_precision)
+VAR
+	location : {obs0, obs1, obs2, obs3, obs4, obs5, obs6, obs7, obs8, obs9, obs10, obs11, obs12, obs13, obs14, obs15, obs16, obs17, obs18, obs19, obs20, obs21, obs22, obs23, obs24, obs25, obs26, obs27, obs28, obs29, obs30, obs31, obs32, obs33, obs34, obs35, obs36, obs37, obs38, obs39, obs40, obs41, obs42, obs43, obs44, obs45, obs46, obs47, obs48, obs49, obs50, obs51, obs52, obs53, obs54, obs55, obs56, obs57, obs58, obs59, obs60, obs61, obs62, obs63, obs64, obs65, obs66, obs67, obs68, obs69, obs70, obs71, obs72, obs73, obs74, obs75, obs76, obs77, obs78, obs79, obs80};
+	t : continuous;
+
+EVENT observe1, observe2, observe3, observe4, observe5, observe6, observe7, observe8, observe9, observe10, observe11, observe12, observe13, observe14, observe15, observe16, observe17, observe18, observe19, observe20, observe21, observe22, observe23, observe24, observe25, observe26, observe27, observe28, observe29, observe30, observe31, observe32, observe33, observe34, observe35, observe36, observe37, observe38, observe39, observe40, observe41, observe42, observe43, observe44, observe45, observe46, observe47, observe48, observe49, observe50, observe51, observe52, observe53, observe54, observe55, observe56, observe57, observe58, observe59, observe60, observe61, observe62, observe63, observe64, observe65, observe66, observe67, observe68, observe69, observe70, observe71, observe72, observe73, observe74, observe75, observe76, observe77, observe78, observe79, observe80;
+INIT
+	location = obs0 & t = 0;
+
+TRANS
+	EVENT = observe1 ->
+		(location = obs0 & next(location) =  obs1 & x > 19.0 - x_error & x < 19.0 + x_error & t >= 1.0 - t_precision/2 & t < 1.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe2 ->
+		(location = obs1 & next(location) =  obs2 & x > 19.8 - x_error & x < 19.8 + x_error & t >= 2.0 - t_precision/2 & t < 2.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe3 ->
+		(location = obs2 & next(location) =  obs3 & x > 20.6 - x_error & x < 20.6 + x_error & t >= 3.0 - t_precision/2 & t < 3.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe4 ->
+		(location = obs3 & next(location) =  obs4 & x > 21.03 - x_error & x < 21.03 + x_error & t >= 4.0 - t_precision/2 & t < 4.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe5 ->
+		(location = obs4 & next(location) =  obs5 & x > 20.83 - x_error & x < 20.83 + x_error & t >= 5.0 - t_precision/2 & t < 5.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe6 ->
+		(location = obs5 & next(location) =  obs6 & x > 20.63 - x_error & x < 20.63 + x_error & t >= 6.0 - t_precision/2 & t < 6.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe7 ->
+		(location = obs6 & next(location) =  obs7 & x > 20.43 - x_error & x < 20.43 + x_error & t >= 7.0 - t_precision/2 & t < 7.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe8 ->
+		(location = obs7 & next(location) =  obs8 & x > 20.23 - x_error & x < 20.23 + x_error & t >= 8.0 - t_precision/2 & t < 8.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe9 ->
+		(location = obs8 & next(location) =  obs9 & x > 20.03 - x_error & x < 20.03 + x_error & t >= 9.0 - t_precision/2 & t < 9.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe10 ->
+		(location = obs9 & next(location) =  obs10 & x > 19.83 - x_error & x < 19.83 + x_error & t >= 10.0 - t_precision/2 & t < 10.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe11 ->
+		(location = obs10 & next(location) =  obs11 & x > 19.63 - x_error & x < 19.63 + x_error & t >= 11.0 - t_precision/2 & t < 11.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe12 ->
+		(location = obs11 & next(location) =  obs12 & x > 19.43 - x_error & x < 19.43 + x_error & t >= 12.0 - t_precision/2 & t < 12.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe13 ->
+		(location = obs12 & next(location) =  obs13 & x > 19.23 - x_error & x < 19.23 + x_error & t >= 13.0 - t_precision/2 & t < 13.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe14 ->
+		(location = obs13 & next(location) =  obs14 & x > 19.03 - x_error & x < 19.03 + x_error & t >= 14.0 - t_precision/2 & t < 14.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe15 ->
+		(location = obs14 & next(location) =  obs15 & x > 18.83 - x_error & x < 18.83 + x_error & t >= 15.0 - t_precision/2 & t < 15.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe16 ->
+		(location = obs15 & next(location) =  obs16 & x > 18.63 - x_error & x < 18.63 + x_error & t >= 16.0 - t_precision/2 & t < 16.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe17 ->
+		(location = obs16 & next(location) =  obs17 & x > 18.43 - x_error & x < 18.43 + x_error & t >= 17.0 - t_precision/2 & t < 17.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe18 ->
+		(location = obs17 & next(location) =  obs18 & x > 19.07 - x_error & x < 19.07 + x_error & t >= 18.0 - t_precision/2 & t < 18.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe19 ->
+		(location = obs18 & next(location) =  obs19 & x > 19.87 - x_error & x < 19.87 + x_error & t >= 19.0 - t_precision/2 & t < 19.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe20 ->
+		(location = obs19 & next(location) =  obs20 & x > 20.67 - x_error & x < 20.67 + x_error & t >= 20.0 - t_precision/2 & t < 20.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe21 ->
+		(location = obs20 & next(location) =  obs21 & x > 21.01 - x_error & x < 21.01 + x_error & t >= 21.0 - t_precision/2 & t < 21.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe22 ->
+		(location = obs21 & next(location) =  obs22 & x > 20.81 - x_error & x < 20.81 + x_error & t >= 22.0 - t_precision/2 & t < 22.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe23 ->
+		(location = obs22 & next(location) =  obs23 & x > 20.61 - x_error & x < 20.61 + x_error & t >= 23.0 - t_precision/2 & t < 23.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe24 ->
+		(location = obs23 & next(location) =  obs24 & x > 20.41 - x_error & x < 20.41 + x_error & t >= 24.0 - t_precision/2 & t < 24.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe25 ->
+		(location = obs24 & next(location) =  obs25 & x > 20.21 - x_error & x < 20.21 + x_error & t >= 25.0 - t_precision/2 & t < 25.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe26 ->
+		(location = obs25 & next(location) =  obs26 & x > 20.01 - x_error & x < 20.01 + x_error & t >= 26.0 - t_precision/2 & t < 26.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe27 ->
+		(location = obs26 & next(location) =  obs27 & x > 19.81 - x_error & x < 19.81 + x_error & t >= 27.0 - t_precision/2 & t < 27.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe28 ->
+		(location = obs27 & next(location) =  obs28 & x > 19.61 - x_error & x < 19.61 + x_error & t >= 28.0 - t_precision/2 & t < 28.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe29 ->
+		(location = obs28 & next(location) =  obs29 & x > 19.41 - x_error & x < 19.41 + x_error & t >= 29.0 - t_precision/2 & t < 29.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe30 ->
+		(location = obs29 & next(location) =  obs30 & x > 19.21 - x_error & x < 19.21 + x_error & t >= 30.0 - t_precision/2 & t < 30.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe31 ->
+		(location = obs30 & next(location) =  obs31 & x > 19.01 - x_error & x < 19.01 + x_error & t >= 31.0 - t_precision/2 & t < 31.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe32 ->
+		(location = obs31 & next(location) =  obs32 & x > 18.81 - x_error & x < 18.81 + x_error & t >= 32.0 - t_precision/2 & t < 32.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe33 ->
+		(location = obs32 & next(location) =  obs33 & x > 18.61 - x_error & x < 18.61 + x_error & t >= 33.0 - t_precision/2 & t < 33.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe34 ->
+		(location = obs33 & next(location) =  obs34 & x > 18.41 - x_error & x < 18.41 + x_error & t >= 34.0 - t_precision/2 & t < 34.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe35 ->
+		(location = obs34 & next(location) =  obs35 & x > 19.15 - x_error & x < 19.15 + x_error & t >= 35.0 - t_precision/2 & t < 35.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe36 ->
+		(location = obs35 & next(location) =  obs36 & x > 19.95 - x_error & x < 19.95 + x_error & t >= 36.0 - t_precision/2 & t < 36.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe37 ->
+		(location = obs36 & next(location) =  obs37 & x > 20.75 - x_error & x < 20.75 + x_error & t >= 37.0 - t_precision/2 & t < 37.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe38 ->
+		(location = obs37 & next(location) =  obs38 & x > 20.99 - x_error & x < 20.99 + x_error & t >= 38.0 - t_precision/2 & t < 38.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe39 ->
+		(location = obs38 & next(location) =  obs39 & x > 20.79 - x_error & x < 20.79 + x_error & t >= 39.0 - t_precision/2 & t < 39.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe40 ->
+		(location = obs39 & next(location) =  obs40 & x > 20.59 - x_error & x < 20.59 + x_error & t >= 40.0 - t_precision/2 & t < 40.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe41 ->
+		(location = obs40 & next(location) =  obs41 & x > 20.39 - x_error & x < 20.39 + x_error & t >= 41.0 - t_precision/2 & t < 41.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe42 ->
+		(location = obs41 & next(location) =  obs42 & x > 20.19 - x_error & x < 20.19 + x_error & t >= 42.0 - t_precision/2 & t < 42.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe43 ->
+		(location = obs42 & next(location) =  obs43 & x > 19.99 - x_error & x < 19.99 + x_error & t >= 43.0 - t_precision/2 & t < 43.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe44 ->
+		(location = obs43 & next(location) =  obs44 & x > 19.79 - x_error & x < 19.79 + x_error & t >= 44.0 - t_precision/2 & t < 44.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe45 ->
+		(location = obs44 & next(location) =  obs45 & x > 19.59 - x_error & x < 19.59 + x_error & t >= 45.0 - t_precision/2 & t < 45.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe46 ->
+		(location = obs45 & next(location) =  obs46 & x > 19.39 - x_error & x < 19.39 + x_error & t >= 46.0 - t_precision/2 & t < 46.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe47 ->
+		(location = obs46 & next(location) =  obs47 & x > 19.19 - x_error & x < 19.19 + x_error & t >= 47.0 - t_precision/2 & t < 47.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe48 ->
+		(location = obs47 & next(location) =  obs48 & x > 18.99 - x_error & x < 18.99 + x_error & t >= 48.0 - t_precision/2 & t < 48.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe49 ->
+		(location = obs48 & next(location) =  obs49 & x > 18.79 - x_error & x < 18.79 + x_error & t >= 49.0 - t_precision/2 & t < 49.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe50 ->
+		(location = obs49 & next(location) =  obs50 & x > 18.59 - x_error & x < 18.59 + x_error & t >= 50.0 - t_precision/2 & t < 50.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe51 ->
+		(location = obs50 & next(location) =  obs51 & x > 18.43 - x_error & x < 18.43 + x_error & t >= 51.0 - t_precision/2 & t < 51.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe52 ->
+		(location = obs51 & next(location) =  obs52 & x > 19.23 - x_error & x < 19.23 + x_error & t >= 52.0 - t_precision/2 & t < 52.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe53 ->
+		(location = obs52 & next(location) =  obs53 & x > 20.03 - x_error & x < 20.03 + x_error & t >= 53.0 - t_precision/2 & t < 53.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe54 ->
+		(location = obs53 & next(location) =  obs54 & x > 20.83 - x_error & x < 20.83 + x_error & t >= 54.0 - t_precision/2 & t < 54.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe55 ->
+		(location = obs54 & next(location) =  obs55 & x > 20.97 - x_error & x < 20.97 + x_error & t >= 55.0 - t_precision/2 & t < 55.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe56 ->
+		(location = obs55 & next(location) =  obs56 & x > 20.77 - x_error & x < 20.77 + x_error & t >= 56.0 - t_precision/2 & t < 56.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe57 ->
+		(location = obs56 & next(location) =  obs57 & x > 20.57 - x_error & x < 20.57 + x_error & t >= 57.0 - t_precision/2 & t < 57.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe58 ->
+		(location = obs57 & next(location) =  obs58 & x > 20.37 - x_error & x < 20.37 + x_error & t >= 58.0 - t_precision/2 & t < 58.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe59 ->
+		(location = obs58 & next(location) =  obs59 & x > 20.17 - x_error & x < 20.17 + x_error & t >= 59.0 - t_precision/2 & t < 59.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe60 ->
+		(location = obs59 & next(location) =  obs60 & x > 19.97 - x_error & x < 19.97 + x_error & t >= 60.0 - t_precision/2 & t < 60.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe61 ->
+		(location = obs60 & next(location) =  obs61 & x > 19.77 - x_error & x < 19.77 + x_error & t >= 61.0 - t_precision/2 & t < 61.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe62 ->
+		(location = obs61 & next(location) =  obs62 & x > 19.57 - x_error & x < 19.57 + x_error & t >= 62.0 - t_precision/2 & t < 62.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe63 ->
+		(location = obs62 & next(location) =  obs63 & x > 19.37 - x_error & x < 19.37 + x_error & t >= 63.0 - t_precision/2 & t < 63.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe64 ->
+		(location = obs63 & next(location) =  obs64 & x > 19.17 - x_error & x < 19.17 + x_error & t >= 64.0 - t_precision/2 & t < 64.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe65 ->
+		(location = obs64 & next(location) =  obs65 & x > 18.97 - x_error & x < 18.97 + x_error & t >= 65.0 - t_precision/2 & t < 65.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe66 ->
+		(location = obs65 & next(location) =  obs66 & x > 18.77 - x_error & x < 18.77 + x_error & t >= 66.0 - t_precision/2 & t < 66.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe67 ->
+		(location = obs66 & next(location) =  obs67 & x > 18.57 - x_error & x < 18.57 + x_error & t >= 67.0 - t_precision/2 & t < 67.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe68 ->
+		(location = obs67 & next(location) =  obs68 & x > 18.51 - x_error & x < 18.51 + x_error & t >= 68.0 - t_precision/2 & t < 68.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe69 ->
+		(location = obs68 & next(location) =  obs69 & x > 19.31 - x_error & x < 19.31 + x_error & t >= 69.0 - t_precision/2 & t < 69.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe70 ->
+		(location = obs69 & next(location) =  obs70 & x > 20.11 - x_error & x < 20.11 + x_error & t >= 70.0 - t_precision/2 & t < 70.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe71 ->
+		(location = obs70 & next(location) =  obs71 & x > 20.91 - x_error & x < 20.91 + x_error & t >= 71.0 - t_precision/2 & t < 71.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe72 ->
+		(location = obs71 & next(location) =  obs72 & x > 20.95 - x_error & x < 20.95 + x_error & t >= 72.0 - t_precision/2 & t < 72.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe73 ->
+		(location = obs72 & next(location) =  obs73 & x > 20.75 - x_error & x < 20.75 + x_error & t >= 73.0 - t_precision/2 & t < 73.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe74 ->
+		(location = obs73 & next(location) =  obs74 & x > 20.55 - x_error & x < 20.55 + x_error & t >= 74.0 - t_precision/2 & t < 74.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe75 ->
+		(location = obs74 & next(location) =  obs75 & x > 20.35 - x_error & x < 20.35 + x_error & t >= 75.0 - t_precision/2 & t < 75.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe76 ->
+		(location = obs75 & next(location) =  obs76 & x > 20.15 - x_error & x < 20.15 + x_error & t >= 76.0 - t_precision/2 & t < 76.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe77 ->
+		(location = obs76 & next(location) =  obs77 & x > 19.95 - x_error & x < 19.95 + x_error & t >= 77.0 - t_precision/2 & t < 77.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe78 ->
+		(location = obs77 & next(location) =  obs78 & x > 19.75 - x_error & x < 19.75 + x_error & t >= 78.0 - t_precision/2 & t < 78.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe79 ->
+		(location = obs78 & next(location) =  obs79 & x > 19.55 - x_error & x < 19.55 + x_error & t >= 79.0 - t_precision/2 & t < 79.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe80 ->
+		(location = obs79 & next(location) =  obs80 & x > 19.35 - x_error & x < 19.35 + x_error & t >= 80.0 - t_precision/2 & t < 80.0 + t_precision/2 & next(t) = t)
+
+FLOW
+	der(t) = 1;

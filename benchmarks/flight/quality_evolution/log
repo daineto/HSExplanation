@@ -1,0 +1,1678 @@
+Starting evaluation on size 2 problems:
+
+Solving domain_0_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 63.3852 using 0.3973655700683594 seconds
+Iteration 1 (max-roughness = 63.3852): Found solution with roghness = 20.477700000000002 using 0.2424159049987793 seconds
+Iteration 2 (max-roughness = 20.477700000000002): Found solution with roghness = 0.0171 using 0.22565245628356934 seconds
+Iteration 3 (max-roughness = 0.0171): No solution found
+
+Solving domain_1_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 91.2645 using 0.2491776943206787 seconds
+Iteration 1 (max-roughness = 91.2645): Found solution with roghness = 29.482200000000002 using 0.22351622581481934 seconds
+Iteration 2 (max-roughness = 29.482200000000002): Found solution with roghness = 0.0252 using 0.2049245834350586 seconds
+Iteration 3 (max-roughness = 0.0252): No solution found
+
+Solving domain_2_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 76.6935 using 0.2210392951965332 seconds
+Iteration 1 (max-roughness = 76.6935): Found solution with roghness = 24.777 using 0.2319624423980713 seconds
+Iteration 2 (max-roughness = 24.777): Found solution with roghness = 0.0207 using 0.1993570327758789 seconds
+Iteration 3 (max-roughness = 0.0207): No solution found
+
+Solving domain_3_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 76.69080000000001 using 0.23684334754943848 seconds
+Iteration 1 (max-roughness = 76.69080000000001): Found solution with roghness = 24.775199999999998 using 0.22551941871643066 seconds
+Iteration 2 (max-roughness = 24.775199999999998): Found solution with roghness = 0.0207 using 0.26500797271728516 seconds
+Iteration 3 (max-roughness = 0.0207): No solution found
+
+Solving domain_4_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 91.2753 using 0.28188014030456543 seconds
+Iteration 1 (max-roughness = 91.2753): Found solution with roghness = 29.488500000000002 using 0.2337493896484375 seconds
+Iteration 2 (max-roughness = 29.488500000000002): Found solution with roghness = 0.0252 using 0.2523362636566162 seconds
+Iteration 3 (max-roughness = 0.0252): No solution found
+
+Solving domain_5_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 63.38700000000001 using 0.2371833324432373 seconds
+Iteration 1 (max-roughness = 63.38700000000001): Found solution with roghness = 20.4786 using 0.22509527206420898 seconds
+Iteration 2 (max-roughness = 20.4786): Found solution with roghness = 0.0171 using 0.2498016357421875 seconds
+Iteration 3 (max-roughness = 0.0171): No solution found
+
+Solving domain_6_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 76.69890000000001 using 0.23997926712036133 seconds
+Iteration 1 (max-roughness = 76.69890000000001): Found solution with roghness = 24.779700000000002 using 0.2523229122161865 seconds
+Iteration 2 (max-roughness = 24.779700000000002): Found solution with roghness = 0.0207 using 0.20851540565490723 seconds
+Iteration 3 (max-roughness = 0.0207): No solution found
+
+Solving domain_7_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 76.69080000000001 using 0.21756482124328613 seconds
+Iteration 1 (max-roughness = 76.69080000000001): Found solution with roghness = 24.7761 using 0.22978472709655762 seconds
+Iteration 2 (max-roughness = 24.7761): Found solution with roghness = 0.0207 using 0.2253262996673584 seconds
+Iteration 3 (max-roughness = 0.0207): No solution found
+
+Solving domain_8_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 83.8314 using 0.21808648109436035 seconds
+Iteration 1 (max-roughness = 83.8314): Found solution with roghness = 27.084600000000002 using 0.20341014862060547 seconds
+Iteration 2 (max-roughness = 27.084600000000002): Found solution with roghness = 0.022500000000000003 using 0.2500112056732178 seconds
+Iteration 3 (max-roughness = 0.022500000000000003): No solution found
+
+Solving domain_9_2.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 40.428000000000004 using 0.21979522705078125 seconds
+Iteration 1 (max-roughness = 40.428000000000004): Found solution with roghness = 35.9379 using 0.2028031349182129 seconds
+Iteration 2 (max-roughness = 35.9379): Found solution with roghness = 24.4494 using 0.2576007843017578 seconds
+Iteration 3 (max-roughness = 24.4494): Found solution with roghness = 10.827 using 0.24692249298095703 seconds
+Iteration 4 (max-roughness = 10.827): Found solution with roghness = 1.9845000000000002 using 0.20969939231872559 seconds
+Iteration 5 (max-roughness = 1.9845000000000002): Found solution with roghness = 0.3078 using 0.20111942291259766 seconds
+Iteration 6 (max-roughness = 0.3078): Found solution with roghness = 0.028800000000000003 using 0.27214527130126953 seconds
+Iteration 7 (max-roughness = 0.028800000000000003): No solution found
+
+Starting evaluation on size 4 problems:
+
+Solving domain_0_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 129.3102 using 0.2596137523651123 seconds
+Iteration 1 (max-roughness = 129.3102): Found solution with roghness = 0.0972 using 0.27622485160827637 seconds
+Iteration 2 (max-roughness = 0.0972): No solution found
+
+Solving domain_1_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.1395 using 0.28359389305114746 seconds
+Iteration 1 (max-roughness = 0.1395): No solution found
+
+Solving domain_2_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 156.47310000000002 using 0.291766881942749 seconds
+Iteration 1 (max-roughness = 156.47310000000002): Found solution with roghness = 0.117 using 0.2965991497039795 seconds
+Iteration 2 (max-roughness = 0.117): No solution found
+
+Solving domain_3_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 156.4668 using 0.23681378364562988 seconds
+Iteration 1 (max-roughness = 156.4668): Found solution with roghness = 0.117 using 0.2908957004547119 seconds
+Iteration 2 (max-roughness = 0.117): No solution found
+
+Solving domain_4_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 165.8835 using 0.26160740852355957 seconds
+Iteration 1 (max-roughness = 165.8835): Found solution with roghness = 2.3697 using 0.31401991844177246 seconds
+Iteration 2 (max-roughness = 2.3697): Found solution with roghness = 0.9495 using 0.26664209365844727 seconds
+Iteration 3 (max-roughness = 0.9495): Found solution with roghness = 0.20070000000000002 using 0.24596524238586426 seconds
+Iteration 4 (max-roughness = 0.20070000000000002): Found solution with roghness = 0.12060000000000001 using 0.272186279296875 seconds
+Iteration 5 (max-roughness = 0.12060000000000001): No solution found
+
+Solving domain_5_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 68.89320000000001 using 0.2803215980529785 seconds
+Iteration 1 (max-roughness = 68.89320000000001): Found solution with roghness = 33.7752 using 0.285585880279541 seconds
+Iteration 2 (max-roughness = 33.7752): Found solution with roghness = 28.5039 using 0.24732303619384766 seconds
+Iteration 3 (max-roughness = 28.5039): Found solution with roghness = 23.6241 using 0.27907419204711914 seconds
+Iteration 4 (max-roughness = 23.6241): Found solution with roghness = 15.4206 using 0.2942929267883301 seconds
+Iteration 5 (max-roughness = 15.4206): Found solution with roghness = 4.206600000000001 using 0.2741117477416992 seconds
+Iteration 6 (max-roughness = 4.206600000000001): Found solution with roghness = 2.4831 using 0.26666855812072754 seconds
+Iteration 7 (max-roughness = 2.4831): Found solution with roghness = 1.2681 using 0.24566102027893066 seconds
+Iteration 8 (max-roughness = 1.2681): Found solution with roghness = 0.9837 using 0.28002214431762695 seconds
+Iteration 9 (max-roughness = 0.9837): Found solution with roghness = 0.3366 using 0.27533984184265137 seconds
+Iteration 10 (max-roughness = 0.3366): Found solution with roghness = 0.2718 using 0.2765021324157715 seconds
+Iteration 11 (max-roughness = 0.2718): Found solution with roghness = 0.24120000000000003 using 0.2551538944244385 seconds
+Iteration 12 (max-roughness = 0.24120000000000003): Found solution with roghness = 0.1377 using 0.23255515098571777 seconds
+Iteration 13 (max-roughness = 0.1377): No solution found
+
+Solving domain_6_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 156.4641 using 0.26844143867492676 seconds
+Iteration 1 (max-roughness = 156.4641): Found solution with roghness = 0.117 using 0.287431001663208 seconds
+Iteration 2 (max-roughness = 0.117): No solution found
+
+Solving domain_7_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 156.4758 using 0.27560997009277344 seconds
+Iteration 1 (max-roughness = 156.4758): Found solution with roghness = 0.117 using 0.2585313320159912 seconds
+Iteration 2 (max-roughness = 0.117): No solution found
+
+Solving domain_8_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.1278 using 0.24172759056091309 seconds
+Iteration 1 (max-roughness = 0.1278): No solution found
+
+Solving domain_9_4.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 180.2511 using 0.24681329727172852 seconds
+Iteration 1 (max-roughness = 180.2511): Found solution with roghness = 115.2261 using 0.21881794929504395 seconds
+Iteration 2 (max-roughness = 115.2261): Found solution with roghness = 57.1959 using 0.24912524223327637 seconds
+Iteration 3 (max-roughness = 57.1959): Found solution with roghness = 43.2927 using 0.22768497467041016 seconds
+Iteration 4 (max-roughness = 43.2927): Found solution with roghness = 33.2937 using 0.25574469566345215 seconds
+Iteration 5 (max-roughness = 33.2937): Found solution with roghness = 8.405100000000001 using 0.2572214603424072 seconds
+Iteration 6 (max-roughness = 8.405100000000001): Found solution with roghness = 6.5232 using 0.25111818313598633 seconds
+Iteration 7 (max-roughness = 6.5232): Found solution with roghness = 5.8347 using 0.25927066802978516 seconds
+Iteration 8 (max-roughness = 5.8347): Found solution with roghness = 5.0553 using 0.24930930137634277 seconds
+Iteration 9 (max-roughness = 5.0553): Found solution with roghness = 4.3902 using 0.2689197063446045 seconds
+Iteration 10 (max-roughness = 4.3902): Found solution with roghness = 3.5433 using 0.2526381015777588 seconds
+Iteration 11 (max-roughness = 3.5433): Found solution with roghness = 2.8683 using 0.22455620765686035 seconds
+Iteration 12 (max-roughness = 2.8683): Found solution with roghness = 2.5713000000000004 using 0.2757084369659424 seconds
+Iteration 13 (max-roughness = 2.5713000000000004): Found solution with roghness = 0.0504 using 0.2312026023864746 seconds
+Iteration 14 (max-roughness = 0.0504): No solution found
+
+Starting evaluation on size 6 problems:
+
+Solving domain_0_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.2628 using 0.3198235034942627 seconds
+Iteration 1 (max-roughness = 0.2628): No solution found
+
+Solving domain_1_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.3789 using 0.34018683433532715 seconds
+Iteration 1 (max-roughness = 0.3789): No solution found
+
+Solving domain_2_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.3186 using 0.26578474044799805 seconds
+Iteration 1 (max-roughness = 0.3186): No solution found
+
+Solving domain_3_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.3186 using 0.30525922775268555 seconds
+Iteration 1 (max-roughness = 0.3186): No solution found
+
+Solving domain_4_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 291.6558 using 0.25977563858032227 seconds
+Iteration 1 (max-roughness = 291.6558): Found solution with roghness = 259.23420000000004 using 0.2668795585632324 seconds
+Iteration 2 (max-roughness = 259.23420000000004): Found solution with roghness = 232.6806 using 0.25800323486328125 seconds
+Iteration 3 (max-roughness = 232.6806): Found solution with roghness = 70.76610000000001 using 0.3286271095275879 seconds
+Iteration 4 (max-roughness = 70.76610000000001): Found solution with roghness = 33.443999999999996 using 0.263141393661499 seconds
+Iteration 5 (max-roughness = 33.443999999999996): Found solution with roghness = 14.6592 using 0.24310898780822754 seconds
+Iteration 6 (max-roughness = 14.6592): Found solution with roghness = 11.5731 using 0.26223111152648926 seconds
+Iteration 7 (max-roughness = 11.5731): Found solution with roghness = 6.4908 using 0.26053428649902344 seconds
+Iteration 8 (max-roughness = 6.4908): Found solution with roghness = 5.6439 using 0.2727079391479492 seconds
+Iteration 9 (max-roughness = 5.6439): Found solution with roghness = 4.7600999999999996 using 0.26187825202941895 seconds
+Iteration 10 (max-roughness = 4.7600999999999996): Found solution with roghness = 2.1132 using 0.2866978645324707 seconds
+Iteration 11 (max-roughness = 2.1132): Found solution with roghness = 1.0512 using 0.26575636863708496 seconds
+Iteration 12 (max-roughness = 1.0512): Found solution with roghness = 0.7479 using 0.24466586112976074 seconds
+Iteration 13 (max-roughness = 0.7479): Found solution with roghness = 0.5481 using 0.2975294589996338 seconds
+Iteration 14 (max-roughness = 0.5481): Found solution with roghness = 0.24570000000000003 using 0.2546701431274414 seconds
+Iteration 15 (max-roughness = 0.24570000000000003): Found solution with roghness = 0.1656 using 0.2962169647216797 seconds
+Iteration 16 (max-roughness = 0.1656): Found solution with roghness = 0.13319999999999999 using 0.27884364128112793 seconds
+Iteration 17 (max-roughness = 0.13319999999999999): No solution found
+
+Solving domain_5_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 107.15220000000001 using 0.28247714042663574 seconds
+Iteration 1 (max-roughness = 107.15220000000001): Found solution with roghness = 92.3472 using 0.26503705978393555 seconds
+Iteration 2 (max-roughness = 92.3472): Found solution with roghness = 52.6257 using 0.31624937057495117 seconds
+Iteration 3 (max-roughness = 52.6257): Found solution with roghness = 38.6973 using 0.2624697685241699 seconds
+Iteration 4 (max-roughness = 38.6973): Found solution with roghness = 34.171200000000006 using 0.29026007652282715 seconds
+Iteration 5 (max-roughness = 34.171200000000006): Found solution with roghness = 27.5076 using 0.28867077827453613 seconds
+Iteration 6 (max-roughness = 27.5076): Found solution with roghness = 8.865 using 0.281466007232666 seconds
+Iteration 7 (max-roughness = 8.865): Found solution with roghness = 7.009200000000001 using 0.25257062911987305 seconds
+Iteration 8 (max-roughness = 7.009200000000001): Found solution with roghness = 4.333500000000001 using 0.26482558250427246 seconds
+Iteration 9 (max-roughness = 4.333500000000001): Found solution with roghness = 3.4596 using 0.2679712772369385 seconds
+Iteration 10 (max-roughness = 3.4596): Found solution with roghness = 2.5812 using 0.2604939937591553 seconds
+Iteration 11 (max-roughness = 2.5812): Found solution with roghness = 2.2068 using 0.2730720043182373 seconds
+Iteration 12 (max-roughness = 2.2068): Found solution with roghness = 0.5355 using 0.28115415573120117 seconds
+Iteration 13 (max-roughness = 0.5355): Found solution with roghness = 0.3681 using 0.28636860847473145 seconds
+Iteration 14 (max-roughness = 0.3681): Found solution with roghness = 0.2628 using 0.2608349323272705 seconds
+Iteration 15 (max-roughness = 0.2628): Found solution with roghness = 0.2232 using 0.2906787395477295 seconds
+Iteration 16 (max-roughness = 0.2232): Found solution with roghness = 0.1953 using 0.2777407169342041 seconds
+Iteration 17 (max-roughness = 0.1953): No solution found
+
+Solving domain_6_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.3177 using 0.30194640159606934 seconds
+Iteration 1 (max-roughness = 0.3177): No solution found
+
+Solving domain_7_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.3177 using 0.27370238304138184 seconds
+Iteration 1 (max-roughness = 0.3177): No solution found
+
+Solving domain_8_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.34740000000000004 using 0.301220178604126 seconds
+Iteration 1 (max-roughness = 0.34740000000000004): No solution found
+
+Solving domain_9_6.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 280.0134 using 0.23301339149475098 seconds
+Iteration 1 (max-roughness = 280.0134): Found solution with roghness = 208.4292 using 0.2689945697784424 seconds
+Iteration 2 (max-roughness = 208.4292): Found solution with roghness = 170.0505 using 0.2780263423919678 seconds
+Iteration 3 (max-roughness = 170.0505): Found solution with roghness = 151.6716 using 0.2692861557006836 seconds
+Iteration 4 (max-roughness = 151.6716): Found solution with roghness = 135.69660000000002 using 0.23143935203552246 seconds
+Iteration 5 (max-roughness = 135.69660000000002): Found solution with roghness = 102.5334 using 0.2910428047180176 seconds
+Iteration 6 (max-roughness = 102.5334): Found solution with roghness = 39.8943 using 0.2777860164642334 seconds
+Iteration 7 (max-roughness = 39.8943): Found solution with roghness = 35.853300000000004 using 0.2691993713378906 seconds
+Iteration 8 (max-roughness = 35.853300000000004): Found solution with roghness = 26.498700000000003 using 0.2819855213165283 seconds
+Iteration 9 (max-roughness = 26.498700000000003): Found solution with roghness = 19.1295 using 0.24318456649780273 seconds
+Iteration 10 (max-roughness = 19.1295): Found solution with roghness = 16.7544 using 0.278961181640625 seconds
+Iteration 11 (max-roughness = 16.7544): Found solution with roghness = 13.617 using 0.29035115242004395 seconds
+Iteration 12 (max-roughness = 13.617): Found solution with roghness = 10.827900000000001 using 0.2760159969329834 seconds
+Iteration 13 (max-roughness = 10.827900000000001): Found solution with roghness = 9.1359 using 0.2479991912841797 seconds
+Iteration 14 (max-roughness = 9.1359): Found solution with roghness = 7.6185 using 0.2681872844696045 seconds
+Iteration 15 (max-roughness = 7.6185): Found solution with roghness = 6.7239 using 0.274045467376709 seconds
+Iteration 16 (max-roughness = 6.7239): Found solution with roghness = 5.5197 using 0.27474212646484375 seconds
+Iteration 17 (max-roughness = 5.5197): Found solution with roghness = 1.4400000000000002 using 0.2892611026763916 seconds
+Iteration 18 (max-roughness = 1.4400000000000002): Found solution with roghness = 0.7551 using 0.2503335475921631 seconds
+Iteration 19 (max-roughness = 0.7551): Found solution with roghness = 0.5193 using 0.27550840377807617 seconds
+Iteration 20 (max-roughness = 0.5193): Found solution with roghness = 0.2997 using 0.2556016445159912 seconds
+Iteration 21 (max-roughness = 0.2997): Found solution with roghness = 0.2106 using 0.2740778923034668 seconds
+Iteration 22 (max-roughness = 0.2106): Found solution with roghness = 0.1395 using 0.24658679962158203 seconds
+Iteration 23 (max-roughness = 0.1395): Found solution with roghness = 0.09090000000000001 using 0.28568196296691895 seconds
+Iteration 24 (max-roughness = 0.09090000000000001): No solution found
+
+Starting evaluation on size 8 problems:
+
+Solving domain_0_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.5075999999999999 using 0.29161763191223145 seconds
+Iteration 1 (max-roughness = 0.5075999999999999): No solution found
+
+Solving domain_1_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.7299000000000001 using 0.2914152145385742 seconds
+Iteration 1 (max-roughness = 0.7299000000000001): No solution found
+
+Solving domain_2_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 7.3809000000000005 using 0.2789649963378906 seconds
+Iteration 1 (max-roughness = 7.3809000000000005): Found solution with roghness = 4.9167000000000005 using 0.26815152168273926 seconds
+Iteration 2 (max-roughness = 4.9167000000000005): Found solution with roghness = 0.8388000000000001 using 0.2663254737854004 seconds
+Iteration 3 (max-roughness = 0.8388000000000001): Found solution with roghness = 0.5616 using 0.279996395111084 seconds
+Iteration 4 (max-roughness = 0.5616): Found solution with roghness = 0.49140000000000006 using 0.23734259605407715 seconds
+Iteration 5 (max-roughness = 0.49140000000000006): No solution found
+
+Solving domain_3_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.6138 using 0.3188154697418213 seconds
+Iteration 1 (max-roughness = 0.6138): No solution found
+
+Solving domain_4_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 377.0532 using 0.3005640506744385 seconds
+Iteration 1 (max-roughness = 377.0532): Found solution with roghness = 337.63320000000004 using 0.28464674949645996 seconds
+Iteration 2 (max-roughness = 337.63320000000004): Found solution with roghness = 292.80060000000003 using 0.27431321144104004 seconds
+Iteration 3 (max-roughness = 292.80060000000003): Found solution with roghness = 168.471 using 0.4390547275543213 seconds
+Iteration 4 (max-roughness = 168.471): Found solution with roghness = 89.9748 using 0.3079829216003418 seconds
+Iteration 5 (max-roughness = 89.9748): Found solution with roghness = 76.3524 using 0.2941782474517822 seconds
+Iteration 6 (max-roughness = 76.3524): Found solution with roghness = 45.3537 using 0.283031702041626 seconds
+Iteration 7 (max-roughness = 45.3537): Found solution with roghness = 40.509 using 0.2871847152709961 seconds
+Iteration 8 (max-roughness = 40.509): Found solution with roghness = 31.1625 using 0.3126668930053711 seconds
+Iteration 9 (max-roughness = 31.1625): Found solution with roghness = 25.4115 using 0.28446459770202637 seconds
+Iteration 10 (max-roughness = 25.4115): Found solution with roghness = 17.6139 using 0.3045642375946045 seconds
+Iteration 11 (max-roughness = 17.6139): Found solution with roghness = 12.4578 using 0.2869877815246582 seconds
+Iteration 12 (max-roughness = 12.4578): Found solution with roghness = 10.0692 using 0.30287599563598633 seconds
+Iteration 13 (max-roughness = 10.0692): Found solution with roghness = 7.571700000000001 using 0.2736504077911377 seconds
+Iteration 14 (max-roughness = 7.571700000000001): Found solution with roghness = 6.7284 using 0.3180546760559082 seconds
+Iteration 15 (max-roughness = 6.7284): Found solution with roghness = 5.752800000000001 using 0.2843208312988281 seconds
+Iteration 16 (max-roughness = 5.752800000000001): Found solution with roghness = 4.4037 using 0.2917330265045166 seconds
+Iteration 17 (max-roughness = 4.4037): Found solution with roghness = 3.8133000000000004 using 0.2963285446166992 seconds
+Iteration 18 (max-roughness = 3.8133000000000004): Found solution with roghness = 2.0169 using 0.2811257839202881 seconds
+Iteration 19 (max-roughness = 2.0169): Found solution with roghness = 1.4328 using 0.27347564697265625 seconds
+Iteration 20 (max-roughness = 1.4328): Found solution with roghness = 1.2087 using 0.29236674308776855 seconds
+Iteration 21 (max-roughness = 1.2087): Found solution with roghness = 0.9306000000000001 using 0.29316020011901855 seconds
+Iteration 22 (max-roughness = 0.9306000000000001): Found solution with roghness = 0.7083 using 0.32176852226257324 seconds
+Iteration 23 (max-roughness = 0.7083): Found solution with roghness = 0.6138 using 0.2661864757537842 seconds
+Iteration 24 (max-roughness = 0.6138): Found solution with roghness = 0.396 using 0.3343963623046875 seconds
+Iteration 25 (max-roughness = 0.396): Found solution with roghness = 0.33840000000000003 using 0.3166162967681885 seconds
+Iteration 26 (max-roughness = 0.33840000000000003): Found solution with roghness = 0.2403 using 0.3389251232147217 seconds
+Iteration 27 (max-roughness = 0.2403): No solution found
+
+Solving domain_5_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 150.4368 using 0.31991052627563477 seconds
+Iteration 1 (max-roughness = 150.4368): Found solution with roghness = 106.3143 using 0.3128323554992676 seconds
+Iteration 2 (max-roughness = 106.3143): Found solution with roghness = 53.4141 using 0.4980342388153076 seconds
+Iteration 3 (max-roughness = 53.4141): Found solution with roghness = 38.0007 using 0.32186126708984375 seconds
+Iteration 4 (max-roughness = 38.0007): Found solution with roghness = 7.1784 using 0.29746365547180176 seconds
+Iteration 5 (max-roughness = 7.1784): Found solution with roghness = 5.9274000000000004 using 0.28163719177246094 seconds
+Iteration 6 (max-roughness = 5.9274000000000004): Found solution with roghness = 5.1435 using 0.27189016342163086 seconds
+Iteration 7 (max-roughness = 5.1435): Found solution with roghness = 4.0131 using 0.28391456604003906 seconds
+Iteration 8 (max-roughness = 4.0131): Found solution with roghness = 3.3948 using 0.27840733528137207 seconds
+Iteration 9 (max-roughness = 3.3948): Found solution with roghness = 3.0285 using 0.2824544906616211 seconds
+Iteration 10 (max-roughness = 3.0285): Found solution with roghness = 1.9620000000000002 using 0.3098030090332031 seconds
+Iteration 11 (max-roughness = 1.9620000000000002): Found solution with roghness = 1.1781 using 0.3379991054534912 seconds
+Iteration 12 (max-roughness = 1.1781): Found solution with roghness = 1.0188 using 0.2981240749359131 seconds
+Iteration 13 (max-roughness = 1.0188): Found solution with roghness = 0.8739 using 0.3238029479980469 seconds
+Iteration 14 (max-roughness = 0.8739): Found solution with roghness = 0.7704 using 0.36223912239074707 seconds
+Iteration 15 (max-roughness = 0.7704): Found solution with roghness = 0.6354 using 0.4496150016784668 seconds
+Iteration 16 (max-roughness = 0.6354): No solution found
+
+Solving domain_6_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 24.5457 using 0.3311738967895508 seconds
+Iteration 1 (max-roughness = 24.5457): Found solution with roghness = 19.717200000000002 using 0.2901484966278076 seconds
+Iteration 2 (max-roughness = 19.717200000000002): Found solution with roghness = 15.376500000000002 using 0.2868766784667969 seconds
+Iteration 3 (max-roughness = 15.376500000000002): Found solution with roghness = 8.508600000000001 using 0.29645800590515137 seconds
+Iteration 4 (max-roughness = 8.508600000000001): Found solution with roghness = 1.0962 using 0.26278185844421387 seconds
+Iteration 5 (max-roughness = 1.0962): Found solution with roghness = 0.6057 using 0.27349853515625 seconds
+Iteration 6 (max-roughness = 0.6057): No solution found
+
+Solving domain_7_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.6138 using 0.30185651779174805 seconds
+Iteration 1 (max-roughness = 0.6138): No solution found
+
+Solving domain_8_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.6714 using 0.31591057777404785 seconds
+Iteration 1 (max-roughness = 0.6714): No solution found
+
+Solving domain_9_8.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 361.3662 using 0.2595071792602539 seconds
+Iteration 1 (max-roughness = 361.3662): Found solution with roghness = 310.2201 using 0.28146815299987793 seconds
+Iteration 2 (max-roughness = 310.2201): Found solution with roghness = 262.6083 using 0.2576000690460205 seconds
+Iteration 3 (max-roughness = 262.6083): Found solution with roghness = 235.6299 using 0.2666208744049072 seconds
+Iteration 4 (max-roughness = 235.6299): Found solution with roghness = 196.7454 using 0.3569214344024658 seconds
+Iteration 5 (max-roughness = 196.7454): Found solution with roghness = 154.0242 using 0.297196626663208 seconds
+Iteration 6 (max-roughness = 154.0242): Found solution with roghness = 136.1943 using 0.30838966369628906 seconds
+Iteration 7 (max-roughness = 136.1943): Found solution with roghness = 62.570699999999995 using 0.30302977561950684 seconds
+Iteration 8 (max-roughness = 62.570699999999995): Found solution with roghness = 51.2154 using 0.27773451805114746 seconds
+Iteration 9 (max-roughness = 51.2154): Found solution with roghness = 45.7704 using 0.28286051750183105 seconds
+Iteration 10 (max-roughness = 45.7704): Found solution with roghness = 40.995 using 0.27937817573547363 seconds
+Iteration 11 (max-roughness = 40.995): Found solution with roghness = 36.818999999999996 using 0.306896448135376 seconds
+Iteration 12 (max-roughness = 36.818999999999996): Found solution with roghness = 30.110400000000002 using 0.26970434188842773 seconds
+Iteration 13 (max-roughness = 30.110400000000002): Found solution with roghness = 26.3673 using 0.29848670959472656 seconds
+Iteration 14 (max-roughness = 26.3673): Found solution with roghness = 23.727600000000002 using 0.24167108535766602 seconds
+Iteration 15 (max-roughness = 23.727600000000002): Found solution with roghness = 20.8098 using 0.2714378833770752 seconds
+Iteration 16 (max-roughness = 20.8098): Found solution with roghness = 15.1785 using 0.2979261875152588 seconds
+Iteration 17 (max-roughness = 15.1785): Found solution with roghness = 13.1985 using 0.31895995140075684 seconds
+Iteration 18 (max-roughness = 13.1985): Found solution with roghness = 11.356200000000001 using 0.286590576171875 seconds
+Iteration 19 (max-roughness = 11.356200000000001): Found solution with roghness = 9.8352 using 0.2947516441345215 seconds
+Iteration 20 (max-roughness = 9.8352): Found solution with roghness = 8.2314 using 0.3069493770599365 seconds
+Iteration 21 (max-roughness = 8.2314): Found solution with roghness = 7.3827 using 0.30826568603515625 seconds
+Iteration 22 (max-roughness = 7.3827): Found solution with roghness = 6.1794 using 0.34157490730285645 seconds
+Iteration 23 (max-roughness = 6.1794): Found solution with roghness = 5.2407 using 0.3183481693267822 seconds
+Iteration 24 (max-roughness = 5.2407): Found solution with roghness = 4.7133 using 0.3163325786590576 seconds
+Iteration 25 (max-roughness = 4.7133): Found solution with roghness = 4.0662 using 0.3086402416229248 seconds
+Iteration 26 (max-roughness = 4.0662): Found solution with roghness = 3.4569 using 0.26767826080322266 seconds
+Iteration 27 (max-roughness = 3.4569): Found solution with roghness = 2.7765 using 0.30628323554992676 seconds
+Iteration 28 (max-roughness = 2.7765): Found solution with roghness = 1.8189 using 0.26540064811706543 seconds
+Iteration 29 (max-roughness = 1.8189): Found solution with roghness = 1.5876000000000001 using 0.2767050266265869 seconds
+Iteration 30 (max-roughness = 1.5876000000000001): Found solution with roghness = 1.026 using 0.2519559860229492 seconds
+Iteration 31 (max-roughness = 1.026): Found solution with roghness = 0.5742 using 0.27005600929260254 seconds
+Iteration 32 (max-roughness = 0.5742): Found solution with roghness = 0.4635 using 0.25914525985717773 seconds
+Iteration 33 (max-roughness = 0.4635): Found solution with roghness = 0.31229999999999997 using 0.308516263961792 seconds
+Iteration 34 (max-roughness = 0.31229999999999997): Found solution with roghness = 0.25020000000000003 using 0.34148478507995605 seconds
+Iteration 35 (max-roughness = 0.25020000000000003): Found solution with roghness = 0.216 using 0.336944580078125 seconds
+Iteration 36 (max-roughness = 0.216): Found solution with roghness = 0.17550000000000002 using 0.35092830657958984 seconds
+Iteration 37 (max-roughness = 0.17550000000000002): No solution found
+
+Starting evaluation on size 10 problems:
+
+Solving domain_0_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.792 using 0.3547382354736328 seconds
+Iteration 1 (max-roughness = 0.792): No solution found
+
+Solving domain_1_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1.1402999999999999 using 0.32259035110473633 seconds
+Iteration 1 (max-roughness = 1.1402999999999999): No solution found
+
+Solving domain_2_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 157.4469 using 0.3413517475128174 seconds
+Iteration 1 (max-roughness = 157.4469): Found solution with roghness = 87.8355 using 0.32152509689331055 seconds
+Iteration 2 (max-roughness = 87.8355): Found solution with roghness = 68.0697 using 0.3465273380279541 seconds
+Iteration 3 (max-roughness = 68.0697): Found solution with roghness = 41.7735 using 0.31699228286743164 seconds
+Iteration 4 (max-roughness = 41.7735): Found solution with roghness = 33.1911 using 0.2802920341491699 seconds
+Iteration 5 (max-roughness = 33.1911): Found solution with roghness = 20.699099999999998 using 0.2751319408416748 seconds
+Iteration 6 (max-roughness = 20.699099999999998): Found solution with roghness = 3.8331000000000004 using 0.31152868270874023 seconds
+Iteration 7 (max-roughness = 3.8331000000000004): Found solution with roghness = 2.6397 using 0.24759173393249512 seconds
+Iteration 8 (max-roughness = 2.6397): Found solution with roghness = 1.9610999999999998 using 0.2834041118621826 seconds
+Iteration 9 (max-roughness = 1.9610999999999998): Found solution with roghness = 1.026 using 0.2952229976654053 seconds
+Iteration 10 (max-roughness = 1.026): Found solution with roghness = 0.8631 using 0.31615185737609863 seconds
+Iteration 11 (max-roughness = 0.8631): Found solution with roghness = 0.5886 using 0.28705430030822754 seconds
+Iteration 12 (max-roughness = 0.5886): No solution found
+
+Solving domain_3_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 0.9585 using 0.3240201473236084 seconds
+Iteration 1 (max-roughness = 0.9585): No solution found
+
+Solving domain_4_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 515.6865 using 0.31308412551879883 seconds
+Iteration 1 (max-roughness = 515.6865): Found solution with roghness = 463.5774 using 0.34020519256591797 seconds
+Iteration 2 (max-roughness = 463.5774): Found solution with roghness = 405.6381 using 0.3358895778656006 seconds
+Iteration 3 (max-roughness = 405.6381): Found solution with roghness = 361.19340000000005 using 0.36761045455932617 seconds
+Iteration 4 (max-roughness = 361.19340000000005): Found solution with roghness = 240.3396 using 2.4064273834228516 seconds
+Iteration 5 (max-roughness = 240.3396): Found solution with roghness = 205.5789 using 0.34486937522888184 seconds
+Iteration 6 (max-roughness = 205.5789): Found solution with roghness = 183.0636 using 0.3629932403564453 seconds
+Iteration 7 (max-roughness = 183.0636): Found solution with roghness = 130.608 using 0.3437206745147705 seconds
+Iteration 8 (max-roughness = 130.608): Found solution with roghness = 111.95100000000001 using 0.3431415557861328 seconds
+Iteration 9 (max-roughness = 111.95100000000001): Found solution with roghness = 82.2051 using 0.3519306182861328 seconds
+Iteration 10 (max-roughness = 82.2051): Found solution with roghness = 59.7024 using 0.32987093925476074 seconds
+Iteration 11 (max-roughness = 59.7024): Found solution with roghness = 53.6823 using 0.33124804496765137 seconds
+Iteration 12 (max-roughness = 53.6823): Found solution with roghness = 45.52290000000001 using 0.34348130226135254 seconds
+Iteration 13 (max-roughness = 45.52290000000001): Found solution with roghness = 38.4471 using 0.33200812339782715 seconds
+Iteration 14 (max-roughness = 38.4471): Found solution with roghness = 27.1305 using 0.3506431579589844 seconds
+Iteration 15 (max-roughness = 27.1305): Found solution with roghness = 21.956400000000002 using 0.30959582328796387 seconds
+Iteration 16 (max-roughness = 21.956400000000002): Found solution with roghness = 18.8964 using 0.293179988861084 seconds
+Iteration 17 (max-roughness = 18.8964): Found solution with roghness = 14.1057 using 0.3148922920227051 seconds
+Iteration 18 (max-roughness = 14.1057): Found solution with roghness = 11.6181 using 0.3134632110595703 seconds
+Iteration 19 (max-roughness = 11.6181): Found solution with roghness = 10.2339 using 0.27435898780822754 seconds
+Iteration 20 (max-roughness = 10.2339): Found solution with roghness = 7.4529000000000005 using 0.3157796859741211 seconds
+Iteration 21 (max-roughness = 7.4529000000000005): Found solution with roghness = 5.7015 using 0.358325719833374 seconds
+Iteration 22 (max-roughness = 5.7015): Found solution with roghness = 3.087 using 0.31847095489501953 seconds
+Iteration 23 (max-roughness = 3.087): Found solution with roghness = 1.5426 using 0.31716489791870117 seconds
+Iteration 24 (max-roughness = 1.5426): Found solution with roghness = 1.0395 using 0.345599889755249 seconds
+Iteration 25 (max-roughness = 1.0395): Found solution with roghness = 0.8181 using 0.3699784278869629 seconds
+Iteration 26 (max-roughness = 0.8181): Found solution with roghness = 0.7236 using 0.36696434020996094 seconds
+Iteration 27 (max-roughness = 0.7236): Found solution with roghness = 0.5058 using 0.3762381076812744 seconds
+Iteration 28 (max-roughness = 0.5058): Found solution with roghness = 0.4536 using 0.373065710067749 seconds
+Iteration 29 (max-roughness = 0.4536): Found solution with roghness = 0.3726 using 0.395155668258667 seconds
+Iteration 30 (max-roughness = 0.3726): No solution found
+
+Solving domain_5_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 268.86150000000004 using 0.34299325942993164 seconds
+Iteration 1 (max-roughness = 268.86150000000004): Found solution with roghness = 226.242 using 0.4235351085662842 seconds
+Iteration 2 (max-roughness = 226.242): Found solution with roghness = 168.74730000000002 using 0.39124369621276855 seconds
+Iteration 3 (max-roughness = 168.74730000000002): Found solution with roghness = 141.3432 using 0.4039766788482666 seconds
+Iteration 4 (max-roughness = 141.3432): Found solution with roghness = 122.43960000000001 using 0.3542020320892334 seconds
+Iteration 5 (max-roughness = 122.43960000000001): Found solution with roghness = 109.36710000000001 using 0.4799976348876953 seconds
+Iteration 6 (max-roughness = 109.36710000000001): Found solution with roghness = 77.9724 using 0.6537742614746094 seconds
+Iteration 7 (max-roughness = 77.9724): Found solution with roghness = 22.145400000000002 using 0.38733649253845215 seconds
+Iteration 8 (max-roughness = 22.145400000000002): Found solution with roghness = 19.717200000000002 using 0.3164799213409424 seconds
+Iteration 9 (max-roughness = 19.717200000000002): Found solution with roghness = 17.6553 using 0.33632326126098633 seconds
+Iteration 10 (max-roughness = 17.6553): Found solution with roghness = 14.911200000000001 using 0.32372164726257324 seconds
+Iteration 11 (max-roughness = 14.911200000000001): Found solution with roghness = 13.366800000000001 using 0.3213357925415039 seconds
+Iteration 12 (max-roughness = 13.366800000000001): Found solution with roghness = 9.54 using 0.3111279010772705 seconds
+Iteration 13 (max-roughness = 9.54): Found solution with roghness = 8.291699999999999 using 0.43935108184814453 seconds
+Iteration 14 (max-roughness = 8.291699999999999): Found solution with roghness = 7.2954 using 0.4333345890045166 seconds
+Iteration 15 (max-roughness = 7.2954): Found solution with roghness = 6.543 using 0.3608698844909668 seconds
+Iteration 16 (max-roughness = 6.543): Found solution with roghness = 5.305499999999999 using 0.3614954948425293 seconds
+Iteration 17 (max-roughness = 5.305499999999999): Found solution with roghness = 4.4577 using 0.937183141708374 seconds
+Iteration 18 (max-roughness = 4.4577): No solution found
+
+Solving domain_6_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 158.47289999999998 using 0.3420097827911377 seconds
+Iteration 1 (max-roughness = 158.47289999999998): Found solution with roghness = 41.5071 using 0.33954596519470215 seconds
+Iteration 2 (max-roughness = 41.5071): Found solution with roghness = 37.168200000000006 using 0.31062889099121094 seconds
+Iteration 3 (max-roughness = 37.168200000000006): Found solution with roghness = 27.666 using 0.28908872604370117 seconds
+Iteration 4 (max-roughness = 27.666): Found solution with roghness = 23.8572 using 0.30777955055236816 seconds
+Iteration 5 (max-roughness = 23.8572): Found solution with roghness = 21.4137 using 0.3037230968475342 seconds
+Iteration 6 (max-roughness = 21.4137): Found solution with roghness = 18.3006 using 0.3101630210876465 seconds
+Iteration 7 (max-roughness = 18.3006): Found solution with roghness = 13.4487 using 0.28253817558288574 seconds
+Iteration 8 (max-roughness = 13.4487): Found solution with roghness = 11.8557 using 0.33101344108581543 seconds
+Iteration 9 (max-roughness = 11.8557): Found solution with roghness = 4.0545 using 0.2852020263671875 seconds
+Iteration 10 (max-roughness = 4.0545): Found solution with roghness = 3.5793 using 0.3007979393005371 seconds
+Iteration 11 (max-roughness = 3.5793): Found solution with roghness = 0.9080999999999999 using 0.2779042720794678 seconds
+Iteration 12 (max-roughness = 0.9080999999999999): Found solution with roghness = 0.7911 using 0.3148322105407715 seconds
+Iteration 13 (max-roughness = 0.7911): No solution found
+
+Solving domain_7_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 78.1875 using 0.3363926410675049 seconds
+Iteration 1 (max-roughness = 78.1875): Found solution with roghness = 23.2605 using 0.2900869846343994 seconds
+Iteration 2 (max-roughness = 23.2605): Found solution with roghness = 18.665100000000002 using 0.31984972953796387 seconds
+Iteration 3 (max-roughness = 18.665100000000002): Found solution with roghness = 2.52 using 0.3123486042022705 seconds
+Iteration 4 (max-roughness = 2.52): Found solution with roghness = 1.0944 using 0.25756239891052246 seconds
+Iteration 5 (max-roughness = 1.0944): Found solution with roghness = 0.9747 using 0.27434849739074707 seconds
+Iteration 6 (max-roughness = 0.9747): No solution found
+
+Solving domain_8_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1.0467 using 0.2986900806427002 seconds
+Iteration 1 (max-roughness = 1.0467): No solution found
+
+Solving domain_9_10.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 456.7941 using 0.27643847465515137 seconds
+Iteration 1 (max-roughness = 456.7941): Found solution with roghness = 404.8839 using 0.3065762519836426 seconds
+Iteration 2 (max-roughness = 404.8839): Found solution with roghness = 356.12460000000004 using 0.3066978454589844 seconds
+Iteration 3 (max-roughness = 356.12460000000004): Found solution with roghness = 299.034 using 0.2956118583679199 seconds
+Iteration 4 (max-roughness = 299.034): Found solution with roghness = 265.38030000000003 using 0.30732202529907227 seconds
+Iteration 5 (max-roughness = 265.38030000000003): Found solution with roghness = 234.27089999999998 using 0.3402748107910156 seconds
+Iteration 6 (max-roughness = 234.27089999999998): Found solution with roghness = 208.8675 using 0.34356093406677246 seconds
+Iteration 7 (max-roughness = 208.8675): Found solution with roghness = 182.66490000000002 using 0.3616344928741455 seconds
+Iteration 8 (max-roughness = 182.66490000000002): Found solution with roghness = 161.1108 using 0.341677188873291 seconds
+Iteration 9 (max-roughness = 161.1108): Found solution with roghness = 144.83339999999998 using 0.3292503356933594 seconds
+Iteration 10 (max-roughness = 144.83339999999998): Found solution with roghness = 111.8052 using 0.4243912696838379 seconds
+Iteration 11 (max-roughness = 111.8052): Found solution with roghness = 100.5903 using 0.3210411071777344 seconds
+Iteration 12 (max-roughness = 100.5903): Found solution with roghness = 87.12180000000001 using 0.33825087547302246 seconds
+Iteration 13 (max-roughness = 87.12180000000001): Found solution with roghness = 78.2424 using 0.31148362159729004 seconds
+Iteration 14 (max-roughness = 78.2424): Found solution with roghness = 70.0974 using 0.31699657440185547 seconds
+Iteration 15 (max-roughness = 70.0974): Found solution with roghness = 61.7922 using 0.2789926528930664 seconds
+Iteration 16 (max-roughness = 61.7922): Found solution with roghness = 54.9765 using 0.4326796531677246 seconds
+Iteration 17 (max-roughness = 54.9765): Found solution with roghness = 49.1166 using 0.31119489669799805 seconds
+Iteration 18 (max-roughness = 49.1166): Found solution with roghness = 43.7265 using 0.33106303215026855 seconds
+Iteration 19 (max-roughness = 43.7265): Found solution with roghness = 38.9691 using 0.6251537799835205 seconds
+Iteration 20 (max-roughness = 38.9691): Found solution with roghness = 33.6708 using 0.31273841857910156 seconds
+Iteration 21 (max-roughness = 33.6708): Found solution with roghness = 29.853 using 0.2969644069671631 seconds
+Iteration 22 (max-roughness = 29.853): Found solution with roghness = 26.604 using 0.35924458503723145 seconds
+Iteration 23 (max-roughness = 26.604): Found solution with roghness = 22.3767 using 0.32816195487976074 seconds
+Iteration 24 (max-roughness = 22.3767): Found solution with roghness = 19.5201 using 0.28684115409851074 seconds
+Iteration 25 (max-roughness = 19.5201): Found solution with roghness = 16.755300000000002 using 0.33878564834594727 seconds
+Iteration 26 (max-roughness = 16.755300000000002): Found solution with roghness = 15.067800000000002 using 0.3260078430175781 seconds
+Iteration 27 (max-roughness = 15.067800000000002): Found solution with roghness = 12.905100000000001 using 0.3703629970550537 seconds
+Iteration 28 (max-roughness = 12.905100000000001): Found solution with roghness = 10.700099999999999 using 0.38828158378601074 seconds
+Iteration 29 (max-roughness = 10.700099999999999): Found solution with roghness = 9.310500000000001 using 0.3992428779602051 seconds
+Iteration 30 (max-roughness = 9.310500000000001): Found solution with roghness = 7.7976 using 0.34746241569519043 seconds
+Iteration 31 (max-roughness = 7.7976): Found solution with roghness = 6.8607000000000005 using 0.35616540908813477 seconds
+Iteration 32 (max-roughness = 6.8607000000000005): Found solution with roghness = 6.1605 using 0.3936126232147217 seconds
+Iteration 33 (max-roughness = 6.1605): Found solution with roghness = 5.4468 using 0.3658735752105713 seconds
+Iteration 34 (max-roughness = 5.4468): Found solution with roghness = 3.8789999999999996 using 0.32998204231262207 seconds
+Iteration 35 (max-roughness = 3.8789999999999996): Found solution with roghness = 3.1536 using 0.3575100898742676 seconds
+Iteration 36 (max-roughness = 3.1536): Found solution with roghness = 2.4552 using 0.33890867233276367 seconds
+Iteration 37 (max-roughness = 2.4552): Found solution with roghness = 1.8197999999999999 using 0.3197042942047119 seconds
+Iteration 38 (max-roughness = 1.8197999999999999): Found solution with roghness = 1.6371 using 0.3224315643310547 seconds
+Iteration 39 (max-roughness = 1.6371): Found solution with roghness = 1.3653 using 0.3482320308685303 seconds
+Iteration 40 (max-roughness = 1.3653): Found solution with roghness = 1.0593000000000001 using 0.3471646308898926 seconds
+Iteration 41 (max-roughness = 1.0593000000000001): Found solution with roghness = 0.9080999999999999 using 0.34081602096557617 seconds
+Iteration 42 (max-roughness = 0.9080999999999999): Found solution with roghness = 0.7893 using 0.3573026657104492 seconds
+Iteration 43 (max-roughness = 0.7893): Found solution with roghness = 0.7047 using 0.3785130977630615 seconds
+Iteration 44 (max-roughness = 0.7047): Found solution with roghness = 0.6326999999999999 using 0.3780040740966797 seconds
+Iteration 45 (max-roughness = 0.6326999999999999): Found solution with roghness = 0.468 using 0.43648648262023926 seconds
+Iteration 46 (max-roughness = 0.468): Found solution with roghness = 0.3951 using 0.5001788139343262 seconds
+Iteration 47 (max-roughness = 0.3951): Found solution with roghness = 0.3204 using 0.5633385181427002 seconds
+Iteration 48 (max-roughness = 0.3204): Found solution with roghness = 0.279 using 0.4738955497741699 seconds
+Iteration 49 (max-roughness = 0.279): Found solution with roghness = 0.2421 using 0.44824671745300293 seconds
+Iteration 50 (max-roughness = 0.2421): No solution found
+
+Starting evaluation on size 20 problems:
+
+Solving domain_0_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 367.16220000000004 using 0.44574522972106934 seconds
+Iteration 1 (max-roughness = 367.16220000000004): Found solution with roghness = 308.4561 using 0.434053897857666 seconds
+Iteration 2 (max-roughness = 308.4561): Found solution with roghness = 226.8693 using 0.40453267097473145 seconds
+Iteration 3 (max-roughness = 226.8693): Found solution with roghness = 203.82840000000002 using 0.39590024948120117 seconds
+Iteration 4 (max-roughness = 203.82840000000002): Found solution with roghness = 169.8795 using 0.4047739505767822 seconds
+Iteration 5 (max-roughness = 169.8795): Found solution with roghness = 151.4052 using 0.45132875442504883 seconds
+Iteration 6 (max-roughness = 151.4052): Found solution with roghness = 135.675 using 0.4666309356689453 seconds
+Iteration 7 (max-roughness = 135.675): Found solution with roghness = 121.0743 using 0.4337136745452881 seconds
+Iteration 8 (max-roughness = 121.0743): Found solution with roghness = 103.7016 using 0.5015597343444824 seconds
+Iteration 9 (max-roughness = 103.7016): Found solution with roghness = 89.7075 using 0.4353458881378174 seconds
+Iteration 10 (max-roughness = 89.7075): Found solution with roghness = 55.1034 using 0.4603428840637207 seconds
+Iteration 11 (max-roughness = 55.1034): Found solution with roghness = 49.365 using 0.43525099754333496 seconds
+Iteration 12 (max-roughness = 49.365): Found solution with roghness = 43.83540000000001 using 0.42240190505981445 seconds
+Iteration 13 (max-roughness = 43.83540000000001): Found solution with roghness = 38.4651 using 0.4169785976409912 seconds
+Iteration 14 (max-roughness = 38.4651): Found solution with roghness = 34.4646 using 0.38573575019836426 seconds
+Iteration 15 (max-roughness = 34.4646): Found solution with roghness = 30.376800000000003 using 0.37112951278686523 seconds
+Iteration 16 (max-roughness = 30.376800000000003): Found solution with roghness = 23.733 using 0.41683411598205566 seconds
+Iteration 17 (max-roughness = 23.733): Found solution with roghness = 20.6316 using 0.42659926414489746 seconds
+Iteration 18 (max-roughness = 20.6316): Found solution with roghness = 18.432000000000002 using 0.39438652992248535 seconds
+Iteration 19 (max-roughness = 18.432000000000002): Found solution with roghness = 16.11 using 0.4182403087615967 seconds
+Iteration 20 (max-roughness = 16.11): Found solution with roghness = 14.3721 using 0.410966157913208 seconds
+Iteration 21 (max-roughness = 14.3721): Found solution with roghness = 12.482999999999999 using 0.4169461727142334 seconds
+Iteration 22 (max-roughness = 12.482999999999999): Found solution with roghness = 11.173499999999999 using 0.39045047760009766 seconds
+Iteration 23 (max-roughness = 11.173499999999999): Found solution with roghness = 9.9981 using 0.44309115409851074 seconds
+Iteration 24 (max-roughness = 9.9981): Found solution with roghness = 8.6211 using 0.4005734920501709 seconds
+Iteration 25 (max-roughness = 8.6211): Found solution with roghness = 6.8148 using 0.40161705017089844 seconds
+Iteration 26 (max-roughness = 6.8148): Found solution with roghness = 5.4459 using 0.389862060546875 seconds
+Iteration 27 (max-roughness = 5.4459): Found solution with roghness = 4.5027 using 0.3801894187927246 seconds
+Iteration 28 (max-roughness = 4.5027): Found solution with roghness = 3.9969 using 0.5477817058563232 seconds
+Iteration 29 (max-roughness = 3.9969): Found solution with roghness = 3.1302000000000003 using 0.611746072769165 seconds
+Iteration 30 (max-roughness = 3.1302000000000003): Found solution with roghness = 2.6784 using 0.7894942760467529 seconds
+Iteration 31 (max-roughness = 2.6784): Found solution with roghness = 2.2473 using 0.7618460655212402 seconds
+Iteration 32 (max-roughness = 2.2473): Found solution with roghness = 1.9638 using 0.6589663028717041 seconds
+Iteration 33 (max-roughness = 1.9638): No solution found
+
+Solving domain_1_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 307.9143 using 0.45728540420532227 seconds
+Iteration 1 (max-roughness = 307.9143): Found solution with roghness = 271.5462 using 0.44614648818969727 seconds
+Iteration 2 (max-roughness = 271.5462): Found solution with roghness = 229.54049999999998 using 0.4505741596221924 seconds
+Iteration 3 (max-roughness = 229.54049999999998): Found solution with roghness = 189.80460000000002 using 0.459094762802124 seconds
+Iteration 4 (max-roughness = 189.80460000000002): Found solution with roghness = 168.8787 using 0.45421767234802246 seconds
+Iteration 5 (max-roughness = 168.8787): Found solution with roghness = 151.48080000000002 using 0.4120509624481201 seconds
+Iteration 6 (max-roughness = 151.48080000000002): Found solution with roghness = 127.4886 using 0.47844648361206055 seconds
+Iteration 7 (max-roughness = 127.4886): Found solution with roghness = 109.61280000000001 using 0.4581458568572998 seconds
+Iteration 8 (max-roughness = 109.61280000000001): Found solution with roghness = 89.2989 using 0.4571502208709717 seconds
+Iteration 9 (max-roughness = 89.2989): Found solution with roghness = 65.952 using 0.42385149002075195 seconds
+Iteration 10 (max-roughness = 65.952): Found solution with roghness = 59.076 using 0.45483827590942383 seconds
+Iteration 11 (max-roughness = 59.076): Found solution with roghness = 53.1369 using 0.38935256004333496 seconds
+Iteration 12 (max-roughness = 53.1369): Found solution with roghness = 28.2474 using 0.4509880542755127 seconds
+Iteration 13 (max-roughness = 28.2474): Found solution with roghness = 24.322499999999998 using 0.4058077335357666 seconds
+Iteration 14 (max-roughness = 24.322499999999998): Found solution with roghness = 19.811700000000002 using 0.42003488540649414 seconds
+Iteration 15 (max-roughness = 19.811700000000002): Found solution with roghness = 17.5734 using 0.3888239860534668 seconds
+Iteration 16 (max-roughness = 17.5734): Found solution with roghness = 14.8131 using 0.5031733512878418 seconds
+Iteration 17 (max-roughness = 14.8131): Found solution with roghness = 12.8556 using 0.42728614807128906 seconds
+Iteration 18 (max-roughness = 12.8556): Found solution with roghness = 11.104199999999999 using 0.41522216796875 seconds
+Iteration 19 (max-roughness = 11.104199999999999): Found solution with roghness = 9.801 using 0.4367074966430664 seconds
+Iteration 20 (max-roughness = 9.801): Found solution with roghness = 8.1729 using 0.42983174324035645 seconds
+Iteration 21 (max-roughness = 8.1729): Found solution with roghness = 7.3044 using 0.47871923446655273 seconds
+Iteration 22 (max-roughness = 7.3044): Found solution with roghness = 6.4332 using 0.4819169044494629 seconds
+Iteration 23 (max-roughness = 6.4332): Found solution with roghness = 5.0832 using 0.528139591217041 seconds
+Iteration 24 (max-roughness = 5.0832): Found solution with roghness = 4.2435 using 0.549349308013916 seconds
+Iteration 25 (max-roughness = 4.2435): Found solution with roghness = 3.7664999999999997 using 0.8187277317047119 seconds
+Iteration 26 (max-roughness = 3.7664999999999997): Found solution with roghness = 3.2553 using 0.7421643733978271 seconds
+Iteration 27 (max-roughness = 3.2553): No solution found
+
+Solving domain_2_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 450.756 using 0.48849987983703613 seconds
+Iteration 1 (max-roughness = 450.756): Found solution with roghness = 266.92740000000003 using 0.9691445827484131 seconds
+Iteration 2 (max-roughness = 266.92740000000003): Found solution with roghness = 237.8493 using 1.748979091644287 seconds
+Iteration 3 (max-roughness = 237.8493): Found solution with roghness = 187.56 using 2.7477407455444336 seconds
+Iteration 4 (max-roughness = 187.56): Found solution with roghness = 114.2154 using 0.7940452098846436 seconds
+Iteration 5 (max-roughness = 114.2154): Found solution with roghness = 102.55319999999999 using 2.9798154830932617 seconds
+Iteration 6 (max-roughness = 102.55319999999999): Found solution with roghness = 81.74069999999999 using 1.6605637073516846 seconds
+Iteration 7 (max-roughness = 81.74069999999999): Found solution with roghness = 73.0206 using 0.5805113315582275 seconds
+Iteration 8 (max-roughness = 73.0206): Found solution with roghness = 47.177099999999996 using 1.5783753395080566 seconds
+Iteration 9 (max-roughness = 47.177099999999996): Found solution with roghness = 37.980000000000004 using 0.5285875797271729 seconds
+Iteration 10 (max-roughness = 37.980000000000004): Found solution with roghness = 32.6007 using 0.5090847015380859 seconds
+Iteration 11 (max-roughness = 32.6007): Found solution with roghness = 27.3933 using 0.8651444911956787 seconds
+Iteration 12 (max-roughness = 27.3933): Found solution with roghness = 23.481 using 0.6144945621490479 seconds
+Iteration 13 (max-roughness = 23.481): Found solution with roghness = 20.8224 using 0.5721194744110107 seconds
+Iteration 14 (max-roughness = 20.8224): Found solution with roghness = 18.0279 using 0.8541152477264404 seconds
+Iteration 15 (max-roughness = 18.0279): Found solution with roghness = 15.886800000000001 using 1.8069493770599365 seconds
+Iteration 16 (max-roughness = 15.886800000000001): Found solution with roghness = 14.0724 using 5.034930229187012 seconds
+Iteration 17 (max-roughness = 14.0724): No solution found
+
+Solving domain_3_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 234.6516 using 1.0570034980773926 seconds
+Iteration 1 (max-roughness = 234.6516): Found solution with roghness = 205.34130000000002 using 0.5110456943511963 seconds
+Iteration 2 (max-roughness = 205.34130000000002): Found solution with roghness = 84.0753 using 0.4390401840209961 seconds
+Iteration 3 (max-roughness = 84.0753): Found solution with roghness = 74.31750000000001 using 0.4181499481201172 seconds
+Iteration 4 (max-roughness = 74.31750000000001): Found solution with roghness = 62.0946 using 0.440807580947876 seconds
+Iteration 5 (max-roughness = 62.0946): Found solution with roghness = 55.518299999999996 using 0.40535521507263184 seconds
+Iteration 6 (max-roughness = 55.518299999999996): Found solution with roghness = 45.7209 using 0.45058512687683105 seconds
+Iteration 7 (max-roughness = 45.7209): Found solution with roghness = 31.905000000000005 using 0.3876767158508301 seconds
+Iteration 8 (max-roughness = 31.905000000000005): Found solution with roghness = 27.829800000000002 using 0.4043247699737549 seconds
+Iteration 9 (max-roughness = 27.829800000000002): Found solution with roghness = 24.9408 using 0.4311046600341797 seconds
+Iteration 10 (max-roughness = 24.9408): Found solution with roghness = 19.0566 using 0.43882274627685547 seconds
+Iteration 11 (max-roughness = 19.0566): Found solution with roghness = 16.909200000000002 using 0.4108116626739502 seconds
+Iteration 12 (max-roughness = 16.909200000000002): Found solution with roghness = 13.3767 using 0.44066619873046875 seconds
+Iteration 13 (max-roughness = 13.3767): Found solution with roghness = 11.142900000000001 using 0.4103853702545166 seconds
+Iteration 14 (max-roughness = 11.142900000000001): Found solution with roghness = 9.8073 using 0.4003427028656006 seconds
+Iteration 15 (max-roughness = 9.8073): Found solution with roghness = 8.7885 using 0.43741345405578613 seconds
+Iteration 16 (max-roughness = 8.7885): Found solution with roghness = 7.530300000000001 using 0.49742937088012695 seconds
+Iteration 17 (max-roughness = 7.530300000000001): Found solution with roghness = 6.5997 using 0.44976043701171875 seconds
+Iteration 18 (max-roughness = 6.5997): Found solution with roghness = 5.829300000000001 using 0.4376966953277588 seconds
+Iteration 19 (max-roughness = 5.829300000000001): Found solution with roghness = 5.1084000000000005 using 0.5016942024230957 seconds
+Iteration 20 (max-roughness = 5.1084000000000005): Found solution with roghness = 4.4046 using 0.48950743675231934 seconds
+Iteration 21 (max-roughness = 4.4046): Found solution with roghness = 3.8160000000000003 using 0.5224695205688477 seconds
+Iteration 22 (max-roughness = 3.8160000000000003): Found solution with roghness = 3.3867 using 0.7448129653930664 seconds
+Iteration 23 (max-roughness = 3.3867): Found solution with roghness = 2.9187 using 0.7902693748474121 seconds
+Iteration 24 (max-roughness = 2.9187): Found solution with roghness = 2.5902000000000003 using 0.8285915851593018 seconds
+Iteration 25 (max-roughness = 2.5902000000000003): Found solution with roghness = 2.2077 using 0.6704998016357422 seconds
+Iteration 26 (max-roughness = 2.2077): No solution found
+
+Solving domain_4_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1251.7299 using 0.40793752670288086 seconds
+Iteration 1 (max-roughness = 1251.7299): Found solution with roghness = 1125.558 using 7.600109577178955 seconds
+Iteration 2 (max-roughness = 1125.558): Found solution with roghness = 1011.7989 using 78.80589604377747 seconds
+Iteration 3 (max-roughness = 1011.7989): No solution found
+
+Solving domain_5_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 863.613 using 0.9911172389984131 seconds
+Iteration 1 (max-roughness = 863.613): Found solution with roghness = 767.4687 using 0.6030561923980713 seconds
+Iteration 2 (max-roughness = 767.4687): Found solution with roghness = 688.0725 using 0.6707887649536133 seconds
+Iteration 3 (max-roughness = 688.0725): Found solution with roghness = 462.4983 using 1.7750945091247559 seconds
+Iteration 4 (max-roughness = 462.4983): Found solution with roghness = 413.7678 using 1.4885969161987305 seconds
+Iteration 5 (max-roughness = 413.7678): Found solution with roghness = 359.71380000000005 using 1.219116449356079 seconds
+Iteration 6 (max-roughness = 359.71380000000005): Found solution with roghness = 323.14500000000004 using 1.176750659942627 seconds
+Iteration 7 (max-roughness = 323.14500000000004): Found solution with roghness = 269.4708 using 3.9343299865722656 seconds
+Iteration 8 (max-roughness = 269.4708): Found solution with roghness = 225.76590000000002 using 2.2813024520874023 seconds
+Iteration 9 (max-roughness = 225.76590000000002): Found solution with roghness = 201.3795 using 2.3091845512390137 seconds
+Iteration 10 (max-roughness = 201.3795): Found solution with roghness = 178.2288 using 9.949544906616211 seconds
+Iteration 11 (max-roughness = 178.2288): Found solution with roghness = 159.63840000000002 using 29.298595428466797 seconds
+Iteration 12 (max-roughness = 159.63840000000002): Found solution with roghness = 143.1945 using 26.52361035346985 seconds
+Iteration 13 (max-roughness = 143.1945): Found solution with roghness = 127.5462 using 6.750586032867432 seconds
+Iteration 14 (max-roughness = 127.5462): Found solution with roghness = 113.058 using 2.5725090503692627 seconds
+Iteration 15 (max-roughness = 113.058): Found solution with roghness = 99.72 using 1.7487728595733643 seconds
+Iteration 16 (max-roughness = 99.72): Found solution with roghness = 86.4396 using 5.308422088623047 seconds
+Iteration 17 (max-roughness = 86.4396): Found solution with roghness = 69.9453 using 2.6595675945281982 seconds
+Iteration 18 (max-roughness = 69.9453): Found solution with roghness = 62.8713 using 2.948495864868164 seconds
+Iteration 19 (max-roughness = 62.8713): Found solution with roghness = 55.5138 using 1.6571755409240723 seconds
+Iteration 20 (max-roughness = 55.5138): Found solution with roghness = 49.6314 using 27.263148307800293 seconds
+Iteration 21 (max-roughness = 49.6314): Found solution with roghness = 44.2584 using 22.420809030532837 seconds
+Iteration 22 (max-roughness = 44.2584): No solution found
+
+Solving domain_6_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 531.8352 using 0.8142337799072266 seconds
+Iteration 1 (max-roughness = 531.8352): Found solution with roghness = 477.1863 using 0.7504105567932129 seconds
+Iteration 2 (max-roughness = 477.1863): Found solution with roghness = 429.1164 using 1.9088950157165527 seconds
+Iteration 3 (max-roughness = 429.1164): Found solution with roghness = 386.01270000000005 using 1.547001600265503 seconds
+Iteration 4 (max-roughness = 386.01270000000005): Found solution with roghness = 339.8976 using 1.3204734325408936 seconds
+Iteration 5 (max-roughness = 339.8976): Found solution with roghness = 295.9029 using 3.9799857139587402 seconds
+Iteration 6 (max-roughness = 295.9029): Found solution with roghness = 77.4882 using 1.8884565830230713 seconds
+Iteration 7 (max-roughness = 77.4882): Found solution with roghness = 60.769800000000004 using 0.42916297912597656 seconds
+Iteration 8 (max-roughness = 60.769800000000004): Found solution with roghness = 48.9933 using 0.4943578243255615 seconds
+Iteration 9 (max-roughness = 48.9933): Found solution with roghness = 43.369200000000006 using 0.49225521087646484 seconds
+Iteration 10 (max-roughness = 43.369200000000006): Found solution with roghness = 38.7279 using 0.5881927013397217 seconds
+Iteration 11 (max-roughness = 38.7279): Found solution with roghness = 29.9178 using 0.40697789192199707 seconds
+Iteration 12 (max-roughness = 29.9178): Found solution with roghness = 22.5396 using 0.6024019718170166 seconds
+Iteration 13 (max-roughness = 22.5396): Found solution with roghness = 19.296000000000003 using 0.9770293235778809 seconds
+Iteration 14 (max-roughness = 19.296000000000003): Found solution with roghness = 13.178700000000001 using 1.222226858139038 seconds
+Iteration 15 (max-roughness = 13.178700000000001): No solution found
+
+Solving domain_7_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 335.6496 using 0.48981451988220215 seconds
+Iteration 1 (max-roughness = 335.6496): Found solution with roghness = 300.7422 using 0.49300599098205566 seconds
+Iteration 2 (max-roughness = 300.7422): Found solution with roghness = 260.34119999999996 using 0.5026557445526123 seconds
+Iteration 3 (max-roughness = 260.34119999999996): Found solution with roghness = 234.2106 using 0.7603368759155273 seconds
+Iteration 4 (max-roughness = 234.2106): Found solution with roghness = 206.6382 using 0.7282886505126953 seconds
+Iteration 5 (max-roughness = 206.6382): Found solution with roghness = 182.601 using 0.5434470176696777 seconds
+Iteration 6 (max-roughness = 182.601): Found solution with roghness = 164.03220000000002 using 0.5151329040527344 seconds
+Iteration 7 (max-roughness = 164.03220000000002): Found solution with roghness = 139.7394 using 0.5669925212860107 seconds
+Iteration 8 (max-roughness = 139.7394): Found solution with roghness = 115.94610000000002 using 0.5429739952087402 seconds
+Iteration 9 (max-roughness = 115.94610000000002): Found solution with roghness = 82.32390000000001 using 0.5203347206115723 seconds
+Iteration 10 (max-roughness = 82.32390000000001): Found solution with roghness = 68.4477 using 0.6639626026153564 seconds
+Iteration 11 (max-roughness = 68.4477): Found solution with roghness = 48.632400000000004 using 1.091196060180664 seconds
+Iteration 12 (max-roughness = 48.632400000000004): Found solution with roghness = 42.642 using 0.8602957725524902 seconds
+Iteration 13 (max-roughness = 42.642): Found solution with roghness = 36.2682 using 0.49411511421203613 seconds
+Iteration 14 (max-roughness = 36.2682): Found solution with roghness = 32.283 using 0.5166604518890381 seconds
+Iteration 15 (max-roughness = 32.283): Found solution with roghness = 28.6866 using 0.5551614761352539 seconds
+Iteration 16 (max-roughness = 28.6866): Found solution with roghness = 25.704900000000002 using 0.6633632183074951 seconds
+Iteration 17 (max-roughness = 25.704900000000002): Found solution with roghness = 23.057100000000002 using 0.5958774089813232 seconds
+Iteration 18 (max-roughness = 23.057100000000002): Found solution with roghness = 20.5317 using 0.5641186237335205 seconds
+Iteration 19 (max-roughness = 20.5317): Found solution with roghness = 16.983 using 0.5413122177124023 seconds
+Iteration 20 (max-roughness = 16.983): Found solution with roghness = 14.408100000000001 using 0.4860684871673584 seconds
+Iteration 21 (max-roughness = 14.408100000000001): Found solution with roghness = 12.7728 using 0.43974757194519043 seconds
+Iteration 22 (max-roughness = 12.7728): Found solution with roghness = 11.2698 using 0.5062747001647949 seconds
+Iteration 23 (max-roughness = 11.2698): Found solution with roghness = 9.8307 using 0.46315741539001465 seconds
+Iteration 24 (max-roughness = 9.8307): Found solution with roghness = 8.8362 using 0.6000466346740723 seconds
+Iteration 25 (max-roughness = 8.8362): Found solution with roghness = 7.914600000000001 using 0.7086565494537354 seconds
+Iteration 26 (max-roughness = 7.914600000000001): Found solution with roghness = 7.0893 using 0.6705019474029541 seconds
+Iteration 27 (max-roughness = 7.0893): Found solution with roghness = 5.9643 using 0.6872951984405518 seconds
+Iteration 28 (max-roughness = 5.9643): Found solution with roghness = 5.1192 using 0.7434923648834229 seconds
+Iteration 29 (max-roughness = 5.1192): Found solution with roghness = 4.446000000000001 using 1.2191989421844482 seconds
+Iteration 30 (max-roughness = 4.446000000000001): No solution found
+
+Solving domain_8_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 337.653 using 0.4280271530151367 seconds
+Iteration 1 (max-roughness = 337.653): Found solution with roghness = 298.9098 using 0.4281477928161621 seconds
+Iteration 2 (max-roughness = 298.9098): Found solution with roghness = 228.8403 using 0.4408135414123535 seconds
+Iteration 3 (max-roughness = 228.8403): Found solution with roghness = 183.46320000000003 using 0.43016958236694336 seconds
+Iteration 4 (max-roughness = 183.46320000000003): Found solution with roghness = 164.8197 using 0.448575496673584 seconds
+Iteration 5 (max-roughness = 164.8197): Found solution with roghness = 111.91680000000001 using 0.4468390941619873 seconds
+Iteration 6 (max-roughness = 111.91680000000001): Found solution with roghness = 95.319 using 0.4260063171386719 seconds
+Iteration 7 (max-roughness = 95.319): Found solution with roghness = 72.59490000000001 using 0.49586009979248047 seconds
+Iteration 8 (max-roughness = 72.59490000000001): Found solution with roghness = 61.7238 using 0.4577016830444336 seconds
+Iteration 9 (max-roughness = 61.7238): Found solution with roghness = 46.448100000000004 using 0.4282362461090088 seconds
+Iteration 10 (max-roughness = 46.448100000000004): Found solution with roghness = 37.97730000000001 using 0.43009328842163086 seconds
+Iteration 11 (max-roughness = 37.97730000000001): Found solution with roghness = 30.999600000000004 using 0.4220590591430664 seconds
+Iteration 12 (max-roughness = 30.999600000000004): Found solution with roghness = 27.6039 using 0.40003013610839844 seconds
+Iteration 13 (max-roughness = 27.6039): Found solution with roghness = 23.806800000000003 using 0.4012303352355957 seconds
+Iteration 14 (max-roughness = 23.806800000000003): Found solution with roghness = 20.9925 using 0.38767385482788086 seconds
+Iteration 15 (max-roughness = 20.9925): Found solution with roghness = 17.831699999999998 using 0.39982056617736816 seconds
+Iteration 16 (max-roughness = 17.831699999999998): Found solution with roghness = 15.9381 using 0.4101419448852539 seconds
+Iteration 17 (max-roughness = 15.9381): Found solution with roghness = 13.874400000000001 using 0.3779110908508301 seconds
+Iteration 18 (max-roughness = 13.874400000000001): Found solution with roghness = 11.061900000000001 using 0.4356381893157959 seconds
+Iteration 19 (max-roughness = 11.061900000000001): Found solution with roghness = 9.288 using 0.37470221519470215 seconds
+Iteration 20 (max-roughness = 9.288): Found solution with roghness = 7.8498 using 0.4252033233642578 seconds
+Iteration 21 (max-roughness = 7.8498): Found solution with roghness = 6.9678 using 0.4007289409637451 seconds
+Iteration 22 (max-roughness = 6.9678): Found solution with roghness = 6.2154 using 0.3962559700012207 seconds
+Iteration 23 (max-roughness = 6.2154): Found solution with roghness = 5.5296 using 0.38460326194763184 seconds
+Iteration 24 (max-roughness = 5.5296): Found solution with roghness = 4.9302 using 0.5781650543212891 seconds
+Iteration 25 (max-roughness = 4.9302): Found solution with roghness = 4.2876 using 0.5258665084838867 seconds
+Iteration 26 (max-roughness = 4.2876): Found solution with roghness = 3.6927 using 0.6696474552154541 seconds
+Iteration 27 (max-roughness = 3.6927): Found solution with roghness = 3.2526 using 0.6870884895324707 seconds
+Iteration 28 (max-roughness = 3.2526): Found solution with roghness = 2.9088000000000003 using 1.1012773513793945 seconds
+Iteration 29 (max-roughness = 2.9088000000000003): Found solution with roghness = 2.6127000000000002 using 1.2697839736938477 seconds
+Iteration 30 (max-roughness = 2.6127000000000002): No solution found
+
+Solving domain_9_20.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1156.6692 using 0.41359901428222656 seconds
+Iteration 1 (max-roughness = 1156.6692): Found solution with roghness = 1040.6115 using 0.615015983581543 seconds
+Iteration 2 (max-roughness = 1040.6115): Found solution with roghness = 927.3960000000001 using 4.269979000091553 seconds
+Iteration 3 (max-roughness = 927.3960000000001): Found solution with roghness = 833.9283 using 1.6004996299743652 seconds
+Iteration 4 (max-roughness = 833.9283): Found solution with roghness = 746.2341 using 1.5124928951263428 seconds
+Iteration 5 (max-roughness = 746.2341): Found solution with roghness = 669.762 using 32.72760057449341 seconds
+Iteration 6 (max-roughness = 669.762): Found solution with roghness = 601.7283 using 48.22135543823242 seconds
+Iteration 7 (max-roughness = 601.7283): Found solution with roghness = 497.41020000000003 using 22.773253202438354 seconds
+Iteration 8 (max-roughness = 497.41020000000003): Found solution with roghness = 445.0356 using 3.320385694503784 seconds
+Iteration 9 (max-roughness = 445.0356): Found solution with roghness = 400.45410000000004 using 135.28464245796204 seconds
+Iteration 10 (max-roughness = 400.45410000000004): Found solution with roghness = 360.26550000000003 using 44.2817759513855 seconds
+Iteration 11 (max-roughness = 360.26550000000003): Found solution with roghness = 323.5806 using 19.958057641983032 seconds
+Iteration 12 (max-roughness = 323.5806): Found solution with roghness = 291.15990000000005 using 42.61917781829834 seconds
+Iteration 13 (max-roughness = 291.15990000000005): Found solution with roghness = 255.8727 using 102.88819360733032 seconds
+Iteration 14 (max-roughness = 255.8727): Found solution with roghness = 229.5468 using 17.183472871780396 seconds
+Iteration 15 (max-roughness = 229.5468): Found solution with roghness = 205.9218 using 3.063605308532715 seconds
+Iteration 16 (max-roughness = 205.9218): Found solution with roghness = 185.26680000000002 using 77.46282362937927 seconds
+Iteration 17 (max-roughness = 185.26680000000002): Found solution with roghness = 166.7187 using 88.93917870521545 seconds
+Iteration 18 (max-roughness = 166.7187): Found solution with roghness = 149.0463 using 21.464150190353394 seconds
+Iteration 19 (max-roughness = 149.0463): Found solution with roghness = 134.1135 using 15.088520288467407 seconds
+Iteration 20 (max-roughness = 134.1135): Found solution with roghness = 120.23010000000001 using 48.361454248428345 seconds
+Iteration 21 (max-roughness = 120.23010000000001): Found solution with roghness = 107.8344 using 5.073009252548218 seconds
+Iteration 22 (max-roughness = 107.8344): Found solution with roghness = 96.1443 using 43.45848298072815 seconds
+Iteration 23 (max-roughness = 96.1443): Found solution with roghness = 86.2893 using 0.7745375633239746 seconds
+Iteration 24 (max-roughness = 86.2893): Found solution with roghness = 77.571 using 2.4441215991973877 seconds
+Iteration 25 (max-roughness = 77.571): Found solution with roghness = 69.6195 using 1.1403348445892334 seconds
+Iteration 26 (max-roughness = 69.6195): Found solution with roghness = 62.6166 using 2.4278788566589355 seconds
+Iteration 27 (max-roughness = 62.6166): Found solution with roghness = 56.208600000000004 using 4.592935800552368 seconds
+Iteration 28 (max-roughness = 56.208600000000004): Found solution with roghness = 50.3577 using 81.26894307136536 seconds
+Iteration 29 (max-roughness = 50.3577): Found solution with roghness = 45.1215 using 9.807113647460938 seconds
+Iteration 30 (max-roughness = 45.1215): Found solution with roghness = 40.4082 using 2.8355865478515625 seconds
+Iteration 31 (max-roughness = 40.4082): Found solution with roghness = 36.3618 using 3.528294801712036 seconds
+Iteration 32 (max-roughness = 36.3618): Found solution with roghness = 32.6538 using 6.383808374404907 seconds
+Iteration 33 (max-roughness = 32.6538): Found solution with roghness = 29.213100000000004 using 2.0901899337768555 seconds
+Iteration 34 (max-roughness = 29.213100000000004): Found solution with roghness = 26.1675 using 2.949343204498291 seconds
+Iteration 35 (max-roughness = 26.1675): Found solution with roghness = 23.373 using 2.3936493396759033 seconds
+Iteration 36 (max-roughness = 23.373): Found solution with roghness = 20.965500000000002 using 1.949554443359375 seconds
+Iteration 37 (max-roughness = 20.965500000000002): Found solution with roghness = 18.7128 using 2.2830986976623535 seconds
+Iteration 38 (max-roughness = 18.7128): Found solution with roghness = 16.784100000000002 using 3.221337080001831 seconds
+Iteration 39 (max-roughness = 16.784100000000002): Found solution with roghness = 15.0354 using 1.0880546569824219 seconds
+Iteration 40 (max-roughness = 15.0354): Found solution with roghness = 13.446900000000001 using 3.6203463077545166 seconds
+Iteration 41 (max-roughness = 13.446900000000001): Found solution with roghness = 12.014100000000001 using 7.012733697891235 seconds
+Iteration 42 (max-roughness = 12.014100000000001): Found solution with roghness = 10.7028 using 3.6374990940093994 seconds
+Iteration 43 (max-roughness = 10.7028): Found solution with roghness = 9.4761 using 4.364130973815918 seconds
+Iteration 44 (max-roughness = 9.4761): Found solution with roghness = 8.3574 using 6.561288833618164 seconds
+Iteration 45 (max-roughness = 8.3574): Found solution with roghness = 7.504199999999999 using 1.1271862983703613 seconds
+Iteration 46 (max-roughness = 7.504199999999999): Found solution with roghness = 6.7374 using 1.7526051998138428 seconds
+Iteration 47 (max-roughness = 6.7374): Found solution with roghness = 6.0219 using 0.708885908126831 seconds
+Iteration 48 (max-roughness = 6.0219): Found solution with roghness = 5.4153 using 1.1652629375457764 seconds
+Iteration 49 (max-roughness = 5.4153): Found solution with roghness = 4.8438 using 1.1304762363433838 seconds
+Iteration 50 (max-roughness = 4.8438): Found solution with roghness = 4.326300000000001 using 1.1751172542572021 seconds
+Iteration 51 (max-roughness = 4.326300000000001): Found solution with roghness = 3.8646 using 2.0039596557617188 seconds
+Iteration 52 (max-roughness = 3.8646): Found solution with roghness = 3.4452 using 3.2700273990631104 seconds
+Iteration 53 (max-roughness = 3.4452): Found solution with roghness = 3.051 using 17.549906015396118 seconds
+Iteration 54 (max-roughness = 3.051): Found solution with roghness = 2.6676 using 13.58776068687439 seconds
+Iteration 55 (max-roughness = 2.6676): Found solution with roghness = 2.3598 using 20.434061527252197 seconds
+Iteration 56 (max-roughness = 2.3598): Found solution with roghness = 2.1114 using 11.233870267868042 seconds
+Iteration 57 (max-roughness = 2.1114): Found solution with roghness = 1.7658 using 98.48661780357361 seconds
+Iteration 58 (max-roughness = 1.7658): Found solution with roghness = 1.5795 using 45.810539960861206 seconds
+Iteration 59 (max-roughness = 1.5795): Found solution with roghness = 1.3689 using 68.15141534805298 seconds
+Iteration 60 (max-roughness = 1.3689): Found solution with roghness = 1.2213 using 102.05613040924072 seconds
+Iteration 61 (max-roughness = 1.2213): Found solution with roghness = 1.0899 using 103.34220218658447 seconds
+Iteration 62 (max-roughness = 1.0899): Found solution with roghness = 0.9720000000000001 using 84.67429566383362 seconds
+Iteration 63 (max-roughness = 0.9720000000000001): Found solution with roghness = 0.8622 using 130.6084327697754 seconds
+Iteration 64 (max-roughness = 0.8622): Found solution with roghness = 0.7587 using 96.73009037971497 seconds
+Iteration 65 (max-roughness = 0.7587): No solution found
+
+Starting evaluation on size 30 problems:
+
+Solving domain_0_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 593.8002 using 0.9546494483947754 seconds
+Iteration 1 (max-roughness = 593.8002): Found solution with roghness = 468.0621 using 1.432539463043213 seconds
+Iteration 2 (max-roughness = 468.0621): Found solution with roghness = 412.0515 using 2.435577869415283 seconds
+Iteration 3 (max-roughness = 412.0515): Found solution with roghness = 351.7236 using 0.6311395168304443 seconds
+Iteration 4 (max-roughness = 351.7236): Found solution with roghness = 308.77470000000005 using 3.304547071456909 seconds
+Iteration 5 (max-roughness = 308.77470000000005): Found solution with roghness = 275.4603 using 1.8566031455993652 seconds
+Iteration 6 (max-roughness = 275.4603): Found solution with roghness = 235.16459999999998 using 48.549798250198364 seconds
+Iteration 7 (max-roughness = 235.16459999999998): Found solution with roghness = 210.4857 using 205.52960896492004 seconds
+Iteration 8 (max-roughness = 210.4857): Found solution with roghness = 186.22799999999998 using 121.26871609687805 seconds
+Iteration 9 (max-roughness = 186.22799999999998): Found solution with roghness = 151.77689999999998 using 208.769775390625 seconds
+Iteration 10 (max-roughness = 151.77689999999998): Found solution with roghness = 132.52859999999998 using 21.873103618621826 seconds
+Iteration 11 (max-roughness = 132.52859999999998): Found solution with roghness = 109.4166 using 8.511963844299316 seconds
+Iteration 12 (max-roughness = 109.4166): Found solution with roghness = 94.6755 using 865.4760036468506 seconds
+Iteration 13 (max-roughness = 94.6755): No solution found
+
+Solving domain_1_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 621.6507 using 1.4650304317474365 seconds
+Iteration 1 (max-roughness = 621.6507): Found solution with roghness = 557.7111 using 3.556274652481079 seconds
+Iteration 2 (max-roughness = 557.7111): Found solution with roghness = 493.50690000000003 using 8.163826942443848 seconds
+Iteration 3 (max-roughness = 493.50690000000003): Found solution with roghness = 440.8281 using 6.536426782608032 seconds
+Iteration 4 (max-roughness = 440.8281): Found solution with roghness = 382.2453 using 14.53623104095459 seconds
+Iteration 5 (max-roughness = 382.2453): Found solution with roghness = 332.5482 using 34.325438261032104 seconds
+Iteration 6 (max-roughness = 332.5482): Found solution with roghness = 291.7602 using 17.93105459213257 seconds
+Iteration 7 (max-roughness = 291.7602): Found solution with roghness = 261.2115 using 9.560363531112671 seconds
+Iteration 8 (max-roughness = 261.2115): Found solution with roghness = 230.58360000000002 using 41.61531615257263 seconds
+Iteration 9 (max-roughness = 230.58360000000002): Found solution with roghness = 206.07659999999998 using 107.1517174243927 seconds
+Iteration 10 (max-roughness = 206.07659999999998): Found solution with roghness = 185.40269999999998 using 41.05050539970398 seconds
+Iteration 11 (max-roughness = 185.40269999999998): Found solution with roghness = 162.38070000000002 using 29.488215923309326 seconds
+Iteration 12 (max-roughness = 162.38070000000002): Found solution with roghness = 145.3482 using 95.25240421295166 seconds
+Iteration 13 (max-roughness = 145.3482): Found solution with roghness = 130.6944 using 85.95736384391785 seconds
+Iteration 14 (max-roughness = 130.6944): Found solution with roghness = 113.1417 using 92.59596681594849 seconds
+Iteration 15 (max-roughness = 113.1417): Found solution with roghness = 97.6392 using 73.96872591972351 seconds
+Iteration 16 (max-roughness = 97.6392): No solution found
+
+Solving domain_2_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1121.3235 using 1.2402584552764893 seconds
+Iteration 1 (max-roughness = 1121.3235): Found solution with roghness = 1007.8497000000001 using 3.735011339187622 seconds
+Iteration 2 (max-roughness = 1007.8497000000001): Found solution with roghness = 728.9379 using 3.042799472808838 seconds
+Iteration 3 (max-roughness = 728.9379): Found solution with roghness = 643.2597 using 3.0297064781188965 seconds
+Iteration 4 (max-roughness = 643.2597): Found solution with roghness = 575.5464 using 2.3532538414001465 seconds
+Iteration 5 (max-roughness = 575.5464): Found solution with roghness = 503.6994000000001 using 2.2232818603515625 seconds
+Iteration 6 (max-roughness = 503.6994000000001): Found solution with roghness = 453.28770000000003 using 14.208157300949097 seconds
+Iteration 7 (max-roughness = 453.28770000000003): Found solution with roghness = 406.4175 using 14.780781030654907 seconds
+Iteration 8 (max-roughness = 406.4175): Found solution with roghness = 265.23810000000003 using 55.75908637046814 seconds
+Iteration 9 (max-roughness = 265.23810000000003): Found solution with roghness = 236.23200000000003 using 32.270164251327515 seconds
+Iteration 10 (max-roughness = 236.23200000000003): Found solution with roghness = 209.75400000000002 using 12.61606764793396 seconds
+Iteration 11 (max-roughness = 209.75400000000002): Found solution with roghness = 173.691 using 11.395278692245483 seconds
+Iteration 12 (max-roughness = 173.691): Found solution with roghness = 153.9405 using 22.010186433792114 seconds
+Iteration 13 (max-roughness = 153.9405): Found solution with roghness = 137.7783 using 8.459639072418213 seconds
+Iteration 14 (max-roughness = 137.7783): Found solution with roghness = 121.40910000000001 using 9.551757335662842 seconds
+Iteration 15 (max-roughness = 121.40910000000001): Found solution with roghness = 102.6711 using 14.672229051589966 seconds
+Iteration 16 (max-roughness = 102.6711): Found solution with roghness = 88.51950000000001 using 4.840037822723389 seconds
+Iteration 17 (max-roughness = 88.51950000000001): Found solution with roghness = 76.167 using 7.178818464279175 seconds
+Iteration 18 (max-roughness = 76.167): Found solution with roghness = 67.4379 using 16.93253207206726 seconds
+Iteration 19 (max-roughness = 67.4379): Found solution with roghness = 60.57450000000001 using 781.0031905174255 seconds
+Iteration 20 (max-roughness = 60.57450000000001): No solution found
+
+Solving domain_3_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 554.2749 using 0.5783171653747559 seconds
+Iteration 1 (max-roughness = 554.2749): Found solution with roghness = 477.91079999999994 using 1.8209209442138672 seconds
+Iteration 2 (max-roughness = 477.91079999999994): Found solution with roghness = 288.0711 using 0.8109197616577148 seconds
+Iteration 3 (max-roughness = 288.0711): Found solution with roghness = 246.7089 using 4.036314487457275 seconds
+Iteration 4 (max-roughness = 246.7089): Found solution with roghness = 207.27270000000001 using 1.694267988204956 seconds
+Iteration 5 (max-roughness = 207.27270000000001): Found solution with roghness = 146.9556 using 15.360910654067993 seconds
+Iteration 6 (max-roughness = 146.9556): Found solution with roghness = 131.93640000000002 using 21.243775367736816 seconds
+Iteration 7 (max-roughness = 131.93640000000002): Found solution with roghness = 108.10260000000001 using 344.40576243400574 seconds
+Iteration 8 (max-roughness = 108.10260000000001): Found solution with roghness = 95.09490000000001 using 249.04173064231873 seconds
+Iteration 9 (max-roughness = 95.09490000000001): No solution found
+
+Solving domain_4_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2070.9801 using 0.5524353981018066 seconds
+Iteration 1 (max-roughness = 2070.9801): Found solution with roghness = 1863.7632 using 514.0791866779327 seconds
+Iteration 2 (max-roughness = 1863.7632): No solution found
+
+Solving domain_5_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1260.9162000000001 using 0.7954206466674805 seconds
+Iteration 1 (max-roughness = 1260.9162000000001): Found solution with roghness = 1132.1847 using 0.7427239418029785 seconds
+Iteration 2 (max-roughness = 1132.1847): Found solution with roghness = 972.7298999999999 using 0.7747213840484619 seconds
+Iteration 3 (max-roughness = 972.7298999999999): Found solution with roghness = 870.1866 using 0.7704389095306396 seconds
+Iteration 4 (max-roughness = 870.1866): Found solution with roghness = 774.9126 using 0.8762111663818359 seconds
+Iteration 5 (max-roughness = 774.9126): Found solution with roghness = 697.3794 using 0.8306047916412354 seconds
+Iteration 6 (max-roughness = 697.3794): Found solution with roghness = 616.7268 using 3.0215210914611816 seconds
+Iteration 7 (max-roughness = 616.7268): Found solution with roghness = 553.4298 using 2.8983187675476074 seconds
+Iteration 8 (max-roughness = 553.4298): Found solution with roghness = 483.36300000000006 using 2.767127275466919 seconds
+Iteration 9 (max-roughness = 483.36300000000006): Found solution with roghness = 428.5953 using 2.638388156890869 seconds
+Iteration 10 (max-roughness = 428.5953): Found solution with roghness = 385.6527 using 4.831187725067139 seconds
+Iteration 11 (max-roughness = 385.6527): Found solution with roghness = 347.0004 using 596.1276843547821 seconds
+Iteration 12 (max-roughness = 347.0004): Found solution with roghness = 311.0355 using 12.575306177139282 seconds
+Iteration 13 (max-roughness = 311.0355): Found solution with roghness = 276.5484 using 6.22741174697876 seconds
+Iteration 14 (max-roughness = 276.5484): Found solution with roghness = 248.77800000000002 using 3.427640676498413 seconds
+Iteration 15 (max-roughness = 248.77800000000002): Found solution with roghness = 223.84980000000002 using 3.681094169616699 seconds
+Iteration 16 (max-roughness = 223.84980000000002): Found solution with roghness = 201.4515 using 1.8399085998535156 seconds
+Iteration 17 (max-roughness = 201.4515): Found solution with roghness = 181.2537 using 12.15087628364563 seconds
+Iteration 18 (max-roughness = 181.2537): Found solution with roghness = 162.9225 using 81.22635173797607 seconds
+Iteration 19 (max-roughness = 162.9225): Found solution with roghness = 146.367 using 79.00813341140747 seconds
+Iteration 20 (max-roughness = 146.367): Found solution with roghness = 131.5206 using 16.356891632080078 seconds
+Iteration 21 (max-roughness = 131.5206): Found solution with roghness = 117.5355 using 7.792992115020752 seconds
+Iteration 22 (max-roughness = 117.5355): Found solution with roghness = 105.5151 using 3.264482021331787 seconds
+Iteration 23 (max-roughness = 105.5151): Found solution with roghness = 94.9608 using 8.927603960037231 seconds
+Iteration 24 (max-roughness = 94.9608): Found solution with roghness = 85.3974 using 5.060320615768433 seconds
+Iteration 25 (max-roughness = 85.3974): Found solution with roghness = 76.63680000000001 using 4.409044027328491 seconds
+Iteration 26 (max-roughness = 76.63680000000001): Found solution with roghness = 68.7978 using 5.073977947235107 seconds
+Iteration 27 (max-roughness = 68.7978): Found solution with roghness = 61.9074 using 4.188898086547852 seconds
+Iteration 28 (max-roughness = 61.9074): Found solution with roghness = 55.7163 using 7.677975177764893 seconds
+Iteration 29 (max-roughness = 55.7163): Found solution with roghness = 49.9725 using 60.33807635307312 seconds
+Iteration 30 (max-roughness = 49.9725): Found solution with roghness = 44.8524 using 48.066412687301636 seconds
+Iteration 31 (max-roughness = 44.8524): No solution found
+
+Solving domain_6_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1109.5947 using 7.853747844696045 seconds
+Iteration 1 (max-roughness = 1109.5947): Found solution with roghness = 914.5971000000001 using 16.342210292816162 seconds
+Iteration 2 (max-roughness = 914.5971000000001): Found solution with roghness = 748.3014000000001 using 23.707456588745117 seconds
+Iteration 3 (max-roughness = 748.3014000000001): Found solution with roghness = 662.202 using 5.579898834228516 seconds
+Iteration 4 (max-roughness = 662.202): Found solution with roghness = 590.5871999999999 using 20.300158739089966 seconds
+Iteration 5 (max-roughness = 590.5871999999999): Found solution with roghness = 526.9671000000001 using 20.308366537094116 seconds
+Iteration 6 (max-roughness = 526.9671000000001): Found solution with roghness = 473.2821 using 2.0351662635803223 seconds
+Iteration 7 (max-roughness = 473.2821): Found solution with roghness = 409.2903 using 10.396684169769287 seconds
+Iteration 8 (max-roughness = 409.2903): Found solution with roghness = 364.41270000000003 using 2.62954044342041 seconds
+Iteration 9 (max-roughness = 364.41270000000003): Found solution with roghness = 322.497 using 32.17494225502014 seconds
+Iteration 10 (max-roughness = 322.497): Found solution with roghness = 288.96930000000003 using 5.864660263061523 seconds
+Iteration 11 (max-roughness = 288.96930000000003): Found solution with roghness = 253.37070000000003 using 2.3153645992279053 seconds
+Iteration 12 (max-roughness = 253.37070000000003): Found solution with roghness = 226.1826 using 110.87899994850159 seconds
+Iteration 13 (max-roughness = 226.1826): Found solution with roghness = 191.4327 using 65.96886706352234 seconds
+Iteration 14 (max-roughness = 191.4327): Found solution with roghness = 165.8538 using 68.12609195709229 seconds
+Iteration 15 (max-roughness = 165.8538): Found solution with roghness = 149.1795 using 5.645918607711792 seconds
+Iteration 16 (max-roughness = 149.1795): Found solution with roghness = 130.347 using 29.7593412399292 seconds
+Iteration 17 (max-roughness = 130.347): Found solution with roghness = 110.3112 using 42.591339349746704 seconds
+Iteration 18 (max-roughness = 110.3112): Found solution with roghness = 98.8533 using 17.41884684562683 seconds
+Iteration 19 (max-roughness = 98.8533): Found solution with roghness = 88.75710000000001 using 470.9930512905121 seconds
+Iteration 20 (max-roughness = 88.75710000000001): Found solution with roghness = 77.1894 using 326.8612685203552 seconds
+Iteration 21 (max-roughness = 77.1894): No solution found
+
+Solving domain_7_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 693.7244999999999 using 2.6363983154296875 seconds
+Iteration 1 (max-roughness = 693.7244999999999): Found solution with roghness = 607.2435 using 20.051655054092407 seconds
+Iteration 2 (max-roughness = 607.2435): Found solution with roghness = 528.9255 using 6.092426538467407 seconds
+Iteration 3 (max-roughness = 528.9255): Found solution with roghness = 443.4336 using 7.151726722717285 seconds
+Iteration 4 (max-roughness = 443.4336): Found solution with roghness = 397.9215 using 7.3913960456848145 seconds
+Iteration 5 (max-roughness = 397.9215): Found solution with roghness = 352.0935 using 6.037510871887207 seconds
+Iteration 6 (max-roughness = 352.0935): Found solution with roghness = 315.41670000000005 using 8.729909420013428 seconds
+Iteration 7 (max-roughness = 315.41670000000005): Found solution with roghness = 282.3435 using 1074.4679446220398 seconds
+Iteration 8 (max-roughness = 282.3435): Found solution with roghness = 246.91320000000002 using 85.80559873580933 seconds
+Iteration 9 (max-roughness = 246.91320000000002): Found solution with roghness = 216.6039 using 71.5805253982544 seconds
+Iteration 10 (max-roughness = 216.6039): Found solution with roghness = 188.5815 using 17.160707473754883 seconds
+Iteration 11 (max-roughness = 188.5815): Found solution with roghness = 168.1542 using 22.263511180877686 seconds
+Iteration 12 (max-roughness = 168.1542): No solution found
+
+Solving domain_8_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 814.6134 using 0.597834587097168 seconds
+Iteration 1 (max-roughness = 814.6134): Found solution with roghness = 716.3703 using 0.561671257019043 seconds
+Iteration 2 (max-roughness = 716.3703): Found solution with roghness = 642.672 using 0.6927351951599121 seconds
+Iteration 3 (max-roughness = 642.672): Found solution with roghness = 578.3886 using 3.4716203212738037 seconds
+Iteration 4 (max-roughness = 578.3886): Found solution with roghness = 519.4215 using 2.9581785202026367 seconds
+Iteration 5 (max-roughness = 519.4215): Found solution with roghness = 467.21160000000003 using 3.501018524169922 seconds
+Iteration 6 (max-roughness = 467.21160000000003): Found solution with roghness = 417.4362 using 0.9337906837463379 seconds
+Iteration 7 (max-roughness = 417.4362): Found solution with roghness = 375.5412 using 4.31210470199585 seconds
+Iteration 8 (max-roughness = 375.5412): Found solution with roghness = 337.41540000000003 using 1.2423241138458252 seconds
+Iteration 9 (max-roughness = 337.41540000000003): Found solution with roghness = 303.5097 using 5.322990655899048 seconds
+Iteration 10 (max-roughness = 303.5097): Found solution with roghness = 273.0717 using 0.6031582355499268 seconds
+Iteration 11 (max-roughness = 273.0717): Found solution with roghness = 245.34359999999998 using 0.6104526519775391 seconds
+Iteration 12 (max-roughness = 245.34359999999998): Found solution with roghness = 220.1769 using 2.1765193939208984 seconds
+Iteration 13 (max-roughness = 220.1769): Found solution with roghness = 196.8201 using 0.5776786804199219 seconds
+Iteration 14 (max-roughness = 196.8201): Found solution with roghness = 175.6431 using 4.4890217781066895 seconds
+Iteration 15 (max-roughness = 175.6431): Found solution with roghness = 155.5029 using 1.8440461158752441 seconds
+Iteration 16 (max-roughness = 155.5029): Found solution with roghness = 138.6738 using 2.5677027702331543 seconds
+Iteration 17 (max-roughness = 138.6738): Found solution with roghness = 124.14150000000001 using 0.589655876159668 seconds
+Iteration 18 (max-roughness = 124.14150000000001): Found solution with roghness = 111.6459 using 0.6229798793792725 seconds
+Iteration 19 (max-roughness = 111.6459): Found solution with roghness = 100.44720000000001 using 0.7511081695556641 seconds
+Iteration 20 (max-roughness = 100.44720000000001): Found solution with roghness = 89.69850000000001 using 2.1815152168273926 seconds
+Iteration 21 (max-roughness = 89.69850000000001): Found solution with roghness = 78.8085 using 0.6230714321136475 seconds
+Iteration 22 (max-roughness = 78.8085): Found solution with roghness = 70.8993 using 1.1196908950805664 seconds
+Iteration 23 (max-roughness = 70.8993): Found solution with roghness = 63.72 using 1.022491455078125 seconds
+Iteration 24 (max-roughness = 63.72): Found solution with roghness = 56.89620000000001 using 0.7773227691650391 seconds
+Iteration 25 (max-roughness = 56.89620000000001): Found solution with roghness = 50.634 using 1.2479023933410645 seconds
+Iteration 26 (max-roughness = 50.634): Found solution with roghness = 45.5463 using 0.7546963691711426 seconds
+Iteration 27 (max-roughness = 45.5463): Found solution with roghness = 40.9446 using 0.7790191173553467 seconds
+Iteration 28 (max-roughness = 40.9446): Found solution with roghness = 36.6102 using 0.609943151473999 seconds
+Iteration 29 (max-roughness = 36.6102): Found solution with roghness = 32.4765 using 1.4393105506896973 seconds
+Iteration 30 (max-roughness = 32.4765): Found solution with roghness = 28.682100000000002 using 0.8825428485870361 seconds
+Iteration 31 (max-roughness = 28.682100000000002): Found solution with roghness = 25.7265 using 0.6862881183624268 seconds
+Iteration 32 (max-roughness = 25.7265): Found solution with roghness = 21.378600000000002 using 0.7791821956634521 seconds
+Iteration 33 (max-roughness = 21.378600000000002): Found solution with roghness = 19.238400000000002 using 0.7108440399169922 seconds
+Iteration 34 (max-roughness = 19.238400000000002): Found solution with roghness = 17.2737 using 0.7643253803253174 seconds
+Iteration 35 (max-roughness = 17.2737): Found solution with roghness = 15.170400000000003 using 0.989037275314331 seconds
+Iteration 36 (max-roughness = 15.170400000000003): Found solution with roghness = 12.852 using 0.6912200450897217 seconds
+Iteration 37 (max-roughness = 12.852): Found solution with roghness = 11.3436 using 0.7103960514068604 seconds
+Iteration 38 (max-roughness = 11.3436): Found solution with roghness = 10.137599999999999 using 0.759758710861206 seconds
+Iteration 39 (max-roughness = 10.137599999999999): Found solution with roghness = 9.0234 using 1.093566656112671 seconds
+Iteration 40 (max-roughness = 9.0234): Found solution with roghness = 8.0793 using 1.111931324005127 seconds
+Iteration 41 (max-roughness = 8.0793): Found solution with roghness = 7.265700000000001 using 4.0761168003082275 seconds
+Iteration 42 (max-roughness = 7.265700000000001): Found solution with roghness = 6.5268 using 3.183046817779541 seconds
+Iteration 43 (max-roughness = 6.5268): Found solution with roghness = 5.8419 using 2.623650550842285 seconds
+Iteration 44 (max-roughness = 5.8419): Found solution with roghness = 5.177700000000001 using 7.229788780212402 seconds
+Iteration 45 (max-roughness = 5.177700000000001): Found solution with roghness = 4.6206000000000005 using 38.65761113166809 seconds
+Iteration 46 (max-roughness = 4.6206000000000005): Found solution with roghness = 4.124700000000001 using 110.14041304588318 seconds
+Iteration 47 (max-roughness = 4.124700000000001): Found solution with roghness = 3.7089000000000003 using 80.88027167320251 seconds
+Iteration 48 (max-roughness = 3.7089000000000003): Found solution with roghness = 3.3354 using 23.856396675109863 seconds
+Iteration 49 (max-roughness = 3.3354): No solution found
+
+Solving domain_9_30.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1919.3904 using 0.5727360248565674 seconds
+Iteration 1 (max-roughness = 1919.3904): Found solution with roghness = 1725.0561 using 3.739692449569702 seconds
+Iteration 2 (max-roughness = 1725.0561): Found solution with roghness = 1543.905 using 677.6951599121094 seconds
+Iteration 3 (max-roughness = 1543.905): Found solution with roghness = 1376.6859000000002 using 944.4271059036255 seconds
+Iteration 4 (max-roughness = 1376.6859000000002): No solution found
+
+Starting evaluation on size 40 problems:
+
+Solving domain_0_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 805.0346999999999 using 1.2845571041107178 seconds
+Iteration 1 (max-roughness = 805.0346999999999): Found solution with roghness = 707.6601 using 20.675298929214478 seconds
+Iteration 2 (max-roughness = 707.6601): Found solution with roghness = 611.3979 using 3.2498323917388916 seconds
+Iteration 3 (max-roughness = 611.3979): Found solution with roghness = 547.2702 using 117.91591501235962 seconds
+Iteration 4 (max-roughness = 547.2702): Found solution with roghness = 490.30920000000003 using 157.1243281364441 seconds
+Iteration 5 (max-roughness = 490.30920000000003): Found solution with roghness = 434.4228 using 204.08354687690735 seconds
+Iteration 6 (max-roughness = 434.4228): Found solution with roghness = 389.6046 using 137.99102973937988 seconds
+Iteration 7 (max-roughness = 389.6046): No solution found
+
+Solving domain_1_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1027.5111000000002 using 1.9553725719451904 seconds
+Iteration 1 (max-roughness = 1027.5111000000002): Found solution with roghness = 918.4752000000001 using 1352.237802028656 seconds
+Iteration 2 (max-roughness = 918.4752000000001): Found solution with roghness = 711.7695 using 88.98972153663635 seconds
+Iteration 3 (max-roughness = 711.7695): No solution found
+
+Solving domain_2_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1587.2319 using 1.5742533206939697 seconds
+Iteration 1 (max-roughness = 1587.2319): Found solution with roghness = 1424.88 using 8.169882535934448 seconds
+Iteration 2 (max-roughness = 1424.88): Found solution with roghness = 1281.7160999999999 using 2.1230075359344482 seconds
+Iteration 3 (max-roughness = 1281.7160999999999): Found solution with roghness = 1151.4519 using 3.5507850646972656 seconds
+Iteration 4 (max-roughness = 1151.4519): Found solution with roghness = 1032.2253 using 3.9312899112701416 seconds
+Iteration 5 (max-roughness = 1032.2253): Found solution with roghness = 928.0844999999999 using 5.370145797729492 seconds
+Iteration 6 (max-roughness = 928.0844999999999): Found solution with roghness = 833.4423 using 3.839747190475464 seconds
+Iteration 7 (max-roughness = 833.4423): Found solution with roghness = 608.922 using 4.563540697097778 seconds
+Iteration 8 (max-roughness = 608.922): Found solution with roghness = 538.5465 using 14.643357038497925 seconds
+Iteration 9 (max-roughness = 538.5465): Found solution with roghness = 484.0614 using 11.00777292251587 seconds
+Iteration 10 (max-roughness = 484.0614): Found solution with roghness = 435.32460000000003 using 25.91417169570923 seconds
+Iteration 11 (max-roughness = 435.32460000000003): Found solution with roghness = 391.329 using 12.49864912033081 seconds
+Iteration 12 (max-roughness = 391.329): Found solution with roghness = 347.37120000000004 using 88.90261721611023 seconds
+Iteration 13 (max-roughness = 347.37120000000004): Found solution with roghness = 311.7987 using 106.04639410972595 seconds
+Iteration 14 (max-roughness = 311.7987): Found solution with roghness = 279.3744 using 38.88387393951416 seconds
+Iteration 15 (max-roughness = 279.3744): Found solution with roghness = 251.39249999999998 using 47.655725955963135 seconds
+Iteration 16 (max-roughness = 251.39249999999998): Found solution with roghness = 226.2321 using 5.43210244178772 seconds
+Iteration 17 (max-roughness = 226.2321): Found solution with roghness = 197.8128 using 2.2484428882598877 seconds
+Iteration 18 (max-roughness = 197.8128): Found solution with roghness = 177.4701 using 32.16658592224121 seconds
+Iteration 19 (max-roughness = 177.4701): Found solution with roghness = 159.63930000000002 using 24.124478578567505 seconds
+Iteration 20 (max-roughness = 159.63930000000002): Found solution with roghness = 142.69320000000002 using 40.17581081390381 seconds
+Iteration 21 (max-roughness = 142.69320000000002): Found solution with roghness = 127.18530000000001 using 52.99498963356018 seconds
+Iteration 22 (max-roughness = 127.18530000000001): Found solution with roghness = 113.7861 using 12.515897512435913 seconds
+Iteration 23 (max-roughness = 113.7861): Found solution with roghness = 102.06450000000001 using 49.40765357017517 seconds
+Iteration 24 (max-roughness = 102.06450000000001): Found solution with roghness = 90.6885 using 11.548065423965454 seconds
+Iteration 25 (max-roughness = 90.6885): Found solution with roghness = 81.5103 using 2.52013897895813 seconds
+Iteration 26 (max-roughness = 81.5103): Found solution with roghness = 73.1268 using 40.0428249835968 seconds
+Iteration 27 (max-roughness = 73.1268): No solution found
+
+Solving domain_3_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 908.7993 using 0.6888754367828369 seconds
+Iteration 1 (max-roughness = 908.7993): Found solution with roghness = 800.361 using 0.7971456050872803 seconds
+Iteration 2 (max-roughness = 800.361): Found solution with roghness = 709.2495 using 0.6832325458526611 seconds
+Iteration 3 (max-roughness = 709.2495): Found solution with roghness = 635.85 using 0.7299199104309082 seconds
+Iteration 4 (max-roughness = 635.85): Found solution with roghness = 567.4338 using 45.833688497543335 seconds
+Iteration 5 (max-roughness = 567.4338): Found solution with roghness = 509.32980000000003 using 8.576443433761597 seconds
+Iteration 6 (max-roughness = 509.32980000000003): Found solution with roghness = 429.63660000000004 using 4.532400608062744 seconds
+Iteration 7 (max-roughness = 429.63660000000004): Found solution with roghness = 385.2306 using 4.477575778961182 seconds
+Iteration 8 (max-roughness = 385.2306): Found solution with roghness = 345.4173 using 618.3956270217896 seconds
+Iteration 9 (max-roughness = 345.4173): Found solution with roghness = 310.73760000000004 using 222.9890992641449 seconds
+Iteration 10 (max-roughness = 310.73760000000004): Found solution with roghness = 279.0396 using 30.13895535469055 seconds
+Iteration 11 (max-roughness = 279.0396): Found solution with roghness = 250.52400000000003 using 46.5918231010437 seconds
+Iteration 12 (max-roughness = 250.52400000000003): Found solution with roghness = 224.6904 using 37.073333978652954 seconds
+Iteration 13 (max-roughness = 224.6904): Found solution with roghness = 202.221 using 34.71061325073242 seconds
+Iteration 14 (max-roughness = 202.221): No solution found
+
+Solving domain_4_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2240.1450000000004 using 0.6867713928222656 seconds
+Iteration 1 (max-roughness = 2240.1450000000004): No solution found
+
+Solving domain_5_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1634.0184000000002 using 0.9698312282562256 seconds
+Iteration 1 (max-roughness = 1634.0184000000002): Found solution with roghness = 1466.9118 using 1.0493531227111816 seconds
+Iteration 2 (max-roughness = 1466.9118): Found solution with roghness = 1319.2596 using 1.1733648777008057 seconds
+Iteration 3 (max-roughness = 1319.2596): Found solution with roghness = 1181.1969000000001 using 1.2068414688110352 seconds
+Iteration 4 (max-roughness = 1181.1969000000001): Found solution with roghness = 1061.2323 using 1.2729089260101318 seconds
+Iteration 5 (max-roughness = 1061.2323): Found solution with roghness = 954.1836 using 0.9983499050140381 seconds
+Iteration 6 (max-roughness = 954.1836): Found solution with roghness = 858.6576 using 4.515118598937988 seconds
+Iteration 7 (max-roughness = 858.6576): Found solution with roghness = 772.7814 using 9.663573503494263 seconds
+Iteration 8 (max-roughness = 772.7814): Found solution with roghness = 695.2266000000001 using 3.3747990131378174 seconds
+Iteration 9 (max-roughness = 695.2266000000001): Found solution with roghness = 625.2957 using 9.416059255599976 seconds
+Iteration 10 (max-roughness = 625.2957): Found solution with roghness = 562.3578 using 25.834973573684692 seconds
+Iteration 11 (max-roughness = 562.3578): Found solution with roghness = 505.82789999999994 using 6.669508457183838 seconds
+Iteration 12 (max-roughness = 505.82789999999994): Found solution with roghness = 455.14979999999997 using 15.303295850753784 seconds
+Iteration 13 (max-roughness = 455.14979999999997): Found solution with roghness = 409.2606 using 18.633031368255615 seconds
+Iteration 14 (max-roughness = 409.2606): Found solution with roghness = 368.2881 using 179.23325943946838 seconds
+Iteration 15 (max-roughness = 368.2881): Found solution with roghness = 331.1433 using 21.420176029205322 seconds
+Iteration 16 (max-roughness = 331.1433): Found solution with roghness = 297.819 using 6.907233476638794 seconds
+Iteration 17 (max-roughness = 297.819): Found solution with roghness = 267.9579 using 6.002232551574707 seconds
+Iteration 18 (max-roughness = 267.9579): Found solution with roghness = 241.1568 using 12.417186975479126 seconds
+Iteration 19 (max-roughness = 241.1568): Found solution with roghness = 216.9711 using 5.223634481430054 seconds
+Iteration 20 (max-roughness = 216.9711): Found solution with roghness = 195.273 using 451.36213850975037 seconds
+Iteration 21 (max-roughness = 195.273): No solution found
+
+Solving domain_6_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1662.6924 using 10.884889602661133 seconds
+Iteration 1 (max-roughness = 1662.6924): Found solution with roghness = 1436.8824000000002 using 11.17870020866394 seconds
+Iteration 2 (max-roughness = 1436.8824000000002): Found solution with roghness = 1257.4440000000002 using 10.64389681816101 seconds
+Iteration 3 (max-roughness = 1257.4440000000002): Found solution with roghness = 1129.041 using 10.749712467193604 seconds
+Iteration 4 (max-roughness = 1129.041): Found solution with roghness = 1011.0105000000001 using 22.750078916549683 seconds
+Iteration 5 (max-roughness = 1011.0105000000001): Found solution with roghness = 905.589 using 9.578835487365723 seconds
+Iteration 6 (max-roughness = 905.589): Found solution with roghness = 799.866 using 22.90536880493164 seconds
+Iteration 7 (max-roughness = 799.866): Found solution with roghness = 719.0235 using 17.057467699050903 seconds
+Iteration 8 (max-roughness = 719.0235): Found solution with roghness = 634.3641 using 114.73886704444885 seconds
+Iteration 9 (max-roughness = 634.3641): Found solution with roghness = 569.6811 using 12.512075662612915 seconds
+Iteration 10 (max-roughness = 569.6811): Found solution with roghness = 496.0125 using 18.8696129322052 seconds
+Iteration 11 (max-roughness = 496.0125): Found solution with roghness = 428.8032 using 23.295700073242188 seconds
+Iteration 12 (max-roughness = 428.8032): Found solution with roghness = 385.89119999999997 using 6.240382194519043 seconds
+Iteration 13 (max-roughness = 385.89119999999997): Found solution with roghness = 335.4363 using 92.39943408966064 seconds
+Iteration 14 (max-roughness = 335.4363): Found solution with roghness = 291.3237 using 8.811241865158081 seconds
+Iteration 15 (max-roughness = 291.3237): Found solution with roghness = 261.7011 using 184.2195167541504 seconds
+Iteration 16 (max-roughness = 261.7011): Found solution with roghness = 223.4232 using 168.729798078537 seconds
+Iteration 17 (max-roughness = 223.4232): Found solution with roghness = 200.3787 using 89.02089381217957 seconds
+Iteration 18 (max-roughness = 200.3787): Found solution with roghness = 179.9784 using 69.81306219100952 seconds
+Iteration 19 (max-roughness = 179.9784): Found solution with roghness = 161.8209 using 199.7946355342865 seconds
+Iteration 20 (max-roughness = 161.8209): Found solution with roghness = 144.3933 using 21.314666509628296 seconds
+Iteration 21 (max-roughness = 144.3933): Found solution with roghness = 128.82059999999998 using 14.383131742477417 seconds
+Iteration 22 (max-roughness = 128.82059999999998): Found solution with roghness = 101.2815 using 22.967172145843506 seconds
+Iteration 23 (max-roughness = 101.2815): No solution found
+
+Solving domain_7_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1216.2834 using 3.301823854446411 seconds
+Iteration 1 (max-roughness = 1216.2834): Found solution with roghness = 1080.5670000000002 using 3.7344913482666016 seconds
+Iteration 2 (max-roughness = 1080.5670000000002): Found solution with roghness = 970.9353 using 4.3788886070251465 seconds
+Iteration 3 (max-roughness = 970.9353): Found solution with roghness = 858.069 using 4.3268492221832275 seconds
+Iteration 4 (max-roughness = 858.069): Found solution with roghness = 772.2108 using 9.73480486869812 seconds
+Iteration 5 (max-roughness = 772.2108): Found solution with roghness = 694.8612 using 12.162924528121948 seconds
+Iteration 6 (max-roughness = 694.8612): Found solution with roghness = 625.0545 using 22.937607765197754 seconds
+Iteration 7 (max-roughness = 625.0545): Found solution with roghness = 562.3551000000001 using 8.176362752914429 seconds
+Iteration 8 (max-roughness = 562.3551000000001): Found solution with roghness = 505.68660000000006 using 25.43279719352722 seconds
+Iteration 9 (max-roughness = 505.68660000000006): Found solution with roghness = 454.7403 using 34.1537766456604 seconds
+Iteration 10 (max-roughness = 454.7403): Found solution with roghness = 407.90340000000003 using 13.155332326889038 seconds
+Iteration 11 (max-roughness = 407.90340000000003): Found solution with roghness = 367.05690000000004 using 6.975705146789551 seconds
+Iteration 12 (max-roughness = 367.05690000000004): Found solution with roghness = 330.2469 using 14.08011531829834 seconds
+Iteration 13 (max-roughness = 330.2469): No solution found
+
+Solving domain_8_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1438.5780000000002 using 0.6599788665771484 seconds
+Iteration 1 (max-roughness = 1438.5780000000002): Found solution with roghness = 1288.6686 using 1.593073844909668 seconds
+Iteration 2 (max-roughness = 1288.6686): Found solution with roghness = 1129.1598000000001 using 2.6009600162506104 seconds
+Iteration 3 (max-roughness = 1129.1598000000001): Found solution with roghness = 1014.9011999999999 using 4.49406099319458 seconds
+Iteration 4 (max-roughness = 1014.9011999999999): Found solution with roghness = 890.0046 using 4.738971471786499 seconds
+Iteration 5 (max-roughness = 890.0046): Found solution with roghness = 797.1444 using 42.02651572227478 seconds
+Iteration 6 (max-roughness = 797.1444): Found solution with roghness = 717.0192 using 201.38113522529602 seconds
+Iteration 7 (max-roughness = 717.0192): Found solution with roghness = 644.4198 using 186.6191165447235 seconds
+Iteration 8 (max-roughness = 644.4198): No solution found
+
+Solving domain_9_40.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2737.3446000000004 using 0.640843391418457 seconds
+Iteration 1 (max-roughness = 2737.3446000000004): Found solution with roghness = 2463.0678000000003 using 13.330544471740723 seconds
+Iteration 2 (max-roughness = 2463.0678000000003): No solution found
+
+Starting evaluation on size 50 problems:
+
+Solving domain_0_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1096.6707 using 2.4163272380828857 seconds
+Iteration 1 (max-roughness = 1096.6707): No solution found
+
+Solving domain_1_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1893.8268 using 5.708019018173218 seconds
+Iteration 1 (max-roughness = 1893.8268): No solution found
+
+Solving domain_2_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2110.1094 using 2.2706522941589355 seconds
+Iteration 1 (max-roughness = 2110.1094): Found solution with roghness = 1898.9037 using 3.000110626220703 seconds
+Iteration 2 (max-roughness = 1898.9037): Found solution with roghness = 1702.7658000000001 using 2.775433301925659 seconds
+Iteration 3 (max-roughness = 1702.7658000000001): Found solution with roghness = 1531.5669 using 7.217068910598755 seconds
+Iteration 4 (max-roughness = 1531.5669): Found solution with roghness = 1377.594 using 2.998743772506714 seconds
+Iteration 5 (max-roughness = 1377.594): Found solution with roghness = 1236.9726 using 15.764391899108887 seconds
+Iteration 6 (max-roughness = 1236.9726): Found solution with roghness = 1108.8486 using 7.038360118865967 seconds
+Iteration 7 (max-roughness = 1108.8486): Found solution with roghness = 997.2647999999999 using 6.949660062789917 seconds
+Iteration 8 (max-roughness = 997.2647999999999): Found solution with roghness = 896.9094 using 5.95461368560791 seconds
+Iteration 9 (max-roughness = 896.9094): Found solution with roghness = 805.554 using 43.374516248703 seconds
+Iteration 10 (max-roughness = 805.554): Found solution with roghness = 718.5204 using 6.4904234409332275 seconds
+Iteration 11 (max-roughness = 718.5204): Found solution with roghness = 645.2622 using 8.84330940246582 seconds
+Iteration 12 (max-roughness = 645.2622): Found solution with roghness = 580.6791 using 637.6935245990753 seconds
+Iteration 13 (max-roughness = 580.6791): Found solution with roghness = 522.2835000000001 using 81.72458004951477 seconds
+Iteration 14 (max-roughness = 522.2835000000001): Found solution with roghness = 469.5147 using 38.28256034851074 seconds
+Iteration 15 (max-roughness = 469.5147): Found solution with roghness = 418.608 using 36.257222175598145 seconds
+Iteration 16 (max-roughness = 418.608): No solution found
+
+Solving domain_3_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1198.6812 using 0.8802435398101807 seconds
+Iteration 1 (max-roughness = 1198.6812): Found solution with roghness = 976.6899000000001 using 1.206782341003418 seconds
+Iteration 2 (max-roughness = 976.6899000000001): Found solution with roghness = 878.067 using 1.2213149070739746 seconds
+Iteration 3 (max-roughness = 878.067): Found solution with roghness = 789.9255 using 1.8020203113555908 seconds
+Iteration 4 (max-roughness = 789.9255): Found solution with roghness = 706.0851 using 28.892496347427368 seconds
+Iteration 5 (max-roughness = 706.0851): Found solution with roghness = 632.9331000000001 using 7.372109889984131 seconds
+Iteration 6 (max-roughness = 632.9331000000001): Found solution with roghness = 568.8603 using 133.88284254074097 seconds
+Iteration 7 (max-roughness = 568.8603): No solution found
+
+Solving domain_4_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2958.4035 using 0.8400764465332031 seconds
+Iteration 1 (max-roughness = 2958.4035): Found solution with roghness = 2629.5543 using 6.420828104019165 seconds
+Iteration 2 (max-roughness = 2629.5543): Found solution with roghness = 2340.0773999999997 using 1.09732985496521 seconds
+Iteration 3 (max-roughness = 2340.0773999999997): No solution found
+
+Solving domain_5_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2176.1478 using 1.304194688796997 seconds
+Iteration 1 (max-roughness = 2176.1478): Found solution with roghness = 1955.8647 using 2.258350133895874 seconds
+Iteration 2 (max-roughness = 1955.8647): Found solution with roghness = 1759.6782 using 7.730132579803467 seconds
+Iteration 3 (max-roughness = 1759.6782): Found solution with roghness = 1583.2512 using 6.961431503295898 seconds
+Iteration 4 (max-roughness = 1583.2512): Found solution with roghness = 1424.5029 using 2.130891799926758 seconds
+Iteration 5 (max-roughness = 1424.5029): Found solution with roghness = 1281.4065 using 4.360833168029785 seconds
+Iteration 6 (max-roughness = 1281.4065): Found solution with roghness = 1152.7434 using 4.5034730434417725 seconds
+Iteration 7 (max-roughness = 1152.7434): Found solution with roghness = 1037.4615 using 6.4493935108184814 seconds
+Iteration 8 (max-roughness = 1037.4615): Found solution with roghness = 933.6519000000001 using 6.170430898666382 seconds
+Iteration 9 (max-roughness = 933.6519000000001): Found solution with roghness = 840.1949999999999 using 34.637664794921875 seconds
+Iteration 10 (max-roughness = 840.1949999999999): Found solution with roghness = 756.0963 using 33.391231536865234 seconds
+Iteration 11 (max-roughness = 756.0963): Found solution with roghness = 680.4846000000001 using 143.34663081169128 seconds
+Iteration 12 (max-roughness = 680.4846000000001): Found solution with roghness = 612.3519 using 52.935986280441284 seconds
+Iteration 13 (max-roughness = 612.3519): Found solution with roghness = 551.0547 using 460.8829460144043 seconds
+Iteration 14 (max-roughness = 551.0547): Found solution with roghness = 493.83809999999994 using 5.7238569259643555 seconds
+Iteration 15 (max-roughness = 493.83809999999994): Found solution with roghness = 444.2751 using 21.852935552597046 seconds
+Iteration 16 (max-roughness = 444.2751): Found solution with roghness = 399.75930000000005 using 526.7100222110748 seconds
+Iteration 17 (max-roughness = 399.75930000000005): No solution found
+
+Solving domain_6_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2242.3446000000004 using 16.22454833984375 seconds
+Iteration 1 (max-roughness = 2242.3446000000004): Found solution with roghness = 1970.8371 using 16.558506965637207 seconds
+Iteration 2 (max-roughness = 1970.8371): Found solution with roghness = 1771.7949 using 20.05244255065918 seconds
+Iteration 3 (max-roughness = 1771.7949): Found solution with roghness = 1592.9406 using 40.114848613739014 seconds
+Iteration 4 (max-roughness = 1592.9406): Found solution with roghness = 1424.3499000000002 using 45.3794322013855 seconds
+Iteration 5 (max-roughness = 1424.3499000000002): Found solution with roghness = 1280.9862 using 19.380685329437256 seconds
+Iteration 6 (max-roughness = 1280.9862): Found solution with roghness = 1149.1641 using 27.880594730377197 seconds
+Iteration 7 (max-roughness = 1149.1641): Found solution with roghness = 1019.2581 using 36.031653881073 seconds
+Iteration 8 (max-roughness = 1019.2581): Found solution with roghness = 915.2846999999999 using 14.823378324508667 seconds
+Iteration 9 (max-roughness = 915.2846999999999): Found solution with roghness = 816.6177 using 45.13636255264282 seconds
+Iteration 10 (max-roughness = 816.6177): Found solution with roghness = 727.0866000000001 using 62.10738754272461 seconds
+Iteration 11 (max-roughness = 727.0866000000001): Found solution with roghness = 607.6197000000001 using 132.0065348148346 seconds
+Iteration 12 (max-roughness = 607.6197000000001): Found solution with roghness = 545.337 using 15.113539457321167 seconds
+Iteration 13 (max-roughness = 545.337): Found solution with roghness = 487.21500000000003 using 15.347984075546265 seconds
+Iteration 14 (max-roughness = 487.21500000000003): Found solution with roghness = 432.9603 using 26.408685207366943 seconds
+Iteration 15 (max-roughness = 432.9603): Found solution with roghness = 389.65590000000003 using 233.69510865211487 seconds
+Iteration 16 (max-roughness = 389.65590000000003): Found solution with roghness = 340.3917 using 254.7340521812439 seconds
+Iteration 17 (max-roughness = 340.3917): Found solution with roghness = 298.8225 using 737.1145172119141 seconds
+Iteration 18 (max-roughness = 298.8225): No solution found
+
+Solving domain_7_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1415.3175 using 5.06704044342041 seconds
+Iteration 1 (max-roughness = 1415.3175): Found solution with roghness = 1267.9605000000001 using 4.891753435134888 seconds
+Iteration 2 (max-roughness = 1267.9605000000001): Found solution with roghness = 1140.6636 using 5.1673829555511475 seconds
+Iteration 3 (max-roughness = 1140.6636): Found solution with roghness = 1026.0198 using 25.234097242355347 seconds
+Iteration 4 (max-roughness = 1026.0198): Found solution with roghness = 923.1588 using 7.542104482650757 seconds
+Iteration 5 (max-roughness = 923.1588): Found solution with roghness = 830.6271 using 5.234997749328613 seconds
+Iteration 6 (max-roughness = 830.6271): Found solution with roghness = 747.5382 using 39.76863694190979 seconds
+Iteration 7 (max-roughness = 747.5382): Found solution with roghness = 672.4872 using 7.130104303359985 seconds
+Iteration 8 (max-roughness = 672.4872): Found solution with roghness = 605.0844000000001 using 24.249250650405884 seconds
+Iteration 9 (max-roughness = 605.0844000000001): Found solution with roghness = 544.5 using 15.700950145721436 seconds
+Iteration 10 (max-roughness = 544.5): Found solution with roghness = 490.03920000000005 using 18.258580684661865 seconds
+Iteration 11 (max-roughness = 490.03920000000005): Found solution with roghness = 439.51500000000004 using 41.48061203956604 seconds
+Iteration 12 (max-roughness = 439.51500000000004): Found solution with roghness = 395.3961 using 16.644530057907104 seconds
+Iteration 13 (max-roughness = 395.3961): Found solution with roghness = 352.458 using 29.14124608039856 seconds
+Iteration 14 (max-roughness = 352.458): Found solution with roghness = 317.0853 using 287.2941720485687 seconds
+Iteration 15 (max-roughness = 317.0853): No solution found
+
+Solving domain_8_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1607.0643 using 0.861088752746582 seconds
+Iteration 1 (max-roughness = 1607.0643): Found solution with roghness = 1435.7286 using 0.9648089408874512 seconds
+Iteration 2 (max-roughness = 1435.7286): Found solution with roghness = 1285.7121 using 3.49450945854187 seconds
+Iteration 3 (max-roughness = 1285.7121): Found solution with roghness = 1156.7727000000002 using 3.2157130241394043 seconds
+Iteration 4 (max-roughness = 1156.7727000000002): Found solution with roghness = 1041.0741 using 57.674006938934326 seconds
+Iteration 5 (max-roughness = 1041.0741): Found solution with roghness = 936.2466 using 274.9636857509613 seconds
+Iteration 6 (max-roughness = 936.2466): No solution found
+
+Solving domain_9_50.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3405.4335 using 0.7615087032318115 seconds
+Iteration 1 (max-roughness = 3405.4335): Found solution with roghness = 3021.5979 using 434.12593245506287 seconds
+Iteration 2 (max-roughness = 3021.5979): Found solution with roghness = 2719.4373 using 24.44779133796692 seconds
+Iteration 3 (max-roughness = 2719.4373): Found solution with roghness = 2447.4312 using 431.70182967185974 seconds
+Iteration 4 (max-roughness = 2447.4312): No solution found
+
+Starting evaluation on size 60 problems:
+
+Solving domain_0_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1383.3864 using 1.7942759990692139 seconds
+Iteration 1 (max-roughness = 1383.3864): Found solution with roghness = 1244.1357 using 1.8811540603637695 seconds
+Iteration 2 (max-roughness = 1244.1357): Found solution with roghness = 1117.3923 using 1.8836796283721924 seconds
+Iteration 3 (max-roughness = 1117.3923): No solution found
+
+Solving domain_1_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2715.5582999999997 using 6.658698558807373 seconds
+Iteration 1 (max-roughness = 2715.5582999999997): Found solution with roghness = 2442.8997 using 12.306308507919312 seconds
+Iteration 2 (max-roughness = 2442.8997): No solution found
+
+Solving domain_2_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2606.6952 using 2.4014627933502197 seconds
+Iteration 1 (max-roughness = 2606.6952): Found solution with roghness = 2345.9517 using 2.48691463470459 seconds
+Iteration 2 (max-roughness = 2345.9517): Found solution with roghness = 2098.404 using 33.37842392921448 seconds
+Iteration 3 (max-roughness = 2098.404): Found solution with roghness = 1888.1514 using 1282.3010997772217 seconds
+Iteration 4 (max-roughness = 1888.1514): Found solution with roghness = 1699.2666000000002 using 9.992602586746216 seconds
+Iteration 5 (max-roughness = 1699.2666000000002): Found solution with roghness = 1528.4331 using 418.0925438404083 seconds
+Iteration 6 (max-roughness = 1528.4331): No solution found
+
+Solving domain_3_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1465.5285000000001 using 0.9364771842956543 seconds
+Iteration 1 (max-roughness = 1465.5285000000001): Found solution with roghness = 1316.4111 using 9.480208158493042 seconds
+Iteration 2 (max-roughness = 1316.4111): Found solution with roghness = 1183.6233 using 3.6961522102355957 seconds
+Iteration 3 (max-roughness = 1183.6233): Found solution with roghness = 1053.9315000000001 using 1.9309263229370117 seconds
+Iteration 4 (max-roughness = 1053.9315000000001): Found solution with roghness = 944.8578000000001 using 1.6226422786712646 seconds
+Iteration 5 (max-roughness = 944.8578000000001): Found solution with roghness = 849.8934 using 7.827287912368774 seconds
+Iteration 6 (max-roughness = 849.8934): Found solution with roghness = 764.4357000000001 using 256.1137025356293 seconds
+Iteration 7 (max-roughness = 764.4357000000001): Found solution with roghness = 687.8772 using 31.723100185394287 seconds
+Iteration 8 (max-roughness = 687.8772): No solution found
+
+Solving domain_4_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3455.1423 using 0.9852356910705566 seconds
+Iteration 1 (max-roughness = 3455.1423): Found solution with roghness = 3106.7343 using 2.434370517730713 seconds
+Iteration 2 (max-roughness = 3106.7343): Found solution with roghness = 2793.8988 using 3.720427989959717 seconds
+Iteration 3 (max-roughness = 2793.8988): Found solution with roghness = 2511.6435 using 12.299314975738525 seconds
+Iteration 4 (max-roughness = 2511.6435): Found solution with roghness = 2260.4535 using 62.73412823677063 seconds
+Iteration 5 (max-roughness = 2260.4535): No solution found
+
+Solving domain_5_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2554.5357 using 1.6480016708374023 seconds
+Iteration 1 (max-roughness = 2554.5357): Found solution with roghness = 2248.8498000000004 using 20.081794023513794 seconds
+Iteration 2 (max-roughness = 2248.8498000000004): Found solution with roghness = 2023.1145000000001 using 1229.1385338306427 seconds
+Iteration 3 (max-roughness = 2023.1145000000001): No solution found
+
+Solving domain_6_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2626.1928000000003 using 18.468260526657104 seconds
+Iteration 1 (max-roughness = 2626.1928000000003): Found solution with roghness = 2362.7979 using 18.19196105003357 seconds
+Iteration 2 (max-roughness = 2362.7979): Found solution with roghness = 2117.2653 using 20.021390676498413 seconds
+Iteration 3 (max-roughness = 2117.2653): Found solution with roghness = 1905.0075000000002 using 60.25455927848816 seconds
+Iteration 4 (max-roughness = 1905.0075000000002): Found solution with roghness = 1699.0011 using 915.3352808952332 seconds
+Iteration 5 (max-roughness = 1699.0011): Found solution with roghness = 1525.9014 using 25.267316818237305 seconds
+Iteration 6 (max-roughness = 1525.9014): Found solution with roghness = 1373.0733 using 67.55202722549438 seconds
+Iteration 7 (max-roughness = 1373.0733): No solution found
+
+Solving domain_7_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1741.9356 using 6.518460035324097 seconds
+Iteration 1 (max-roughness = 1741.9356): Found solution with roghness = 1391.1263999999999 using 9.247934103012085 seconds
+Iteration 2 (max-roughness = 1391.1263999999999): Found solution with roghness = 1248.9524999999999 using 9.765682220458984 seconds
+Iteration 3 (max-roughness = 1248.9524999999999): Found solution with roghness = 1123.3134 using 61.355743408203125 seconds
+Iteration 4 (max-roughness = 1123.3134): Found solution with roghness = 1005.6392999999999 using 49.3378210067749 seconds
+Iteration 5 (max-roughness = 1005.6392999999999): Found solution with roghness = 904.6656 using 12.406157732009888 seconds
+Iteration 6 (max-roughness = 904.6656): No solution found
+
+Solving domain_8_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2058.7032 using 1.087702989578247 seconds
+Iteration 1 (max-roughness = 2058.7032): Found solution with roghness = 1830.9879 using 1.1339621543884277 seconds
+Iteration 2 (max-roughness = 1830.9879): Found solution with roghness = 1647.0657 using 1.6452531814575195 seconds
+Iteration 3 (max-roughness = 1647.0657): Found solution with roghness = 1468.5651 using 1.2272212505340576 seconds
+Iteration 4 (max-roughness = 1468.5651): Found solution with roghness = 1311.6564 using 11.176784038543701 seconds
+Iteration 5 (max-roughness = 1311.6564): Found solution with roghness = 1179.8721 using 7.978081941604614 seconds
+Iteration 6 (max-roughness = 1179.8721): Found solution with roghness = 1060.4718 using 126.6664297580719 seconds
+Iteration 7 (max-roughness = 1060.4718): Found solution with roghness = 954.2124000000001 using 48.53115701675415 seconds
+Iteration 8 (max-roughness = 954.2124000000001): No solution found
+
+Solving domain_9_60.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4255.756200000001 using 0.9077484607696533 seconds
+Iteration 1 (max-roughness = 4255.756200000001): No solution found
+
+Starting evaluation on size 70 problems:
+
+Solving domain_0_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 1874.3526000000002 using 2.6518304347991943 seconds
+Iteration 1 (max-roughness = 1874.3526000000002): Found solution with roghness = 1684.4292 using 5.628136157989502 seconds
+Iteration 2 (max-roughness = 1684.4292): Found solution with roghness = 1515.5055 using 2.6722159385681152 seconds
+Iteration 3 (max-roughness = 1515.5055): Found solution with roghness = 1363.1139 using 87.0887610912323 seconds
+Iteration 4 (max-roughness = 1363.1139): Found solution with roghness = 1224.3555000000001 using 8.163031578063965 seconds
+Iteration 5 (max-roughness = 1224.3555000000001): Found solution with roghness = 1101.8979 using 75.70188784599304 seconds
+Iteration 6 (max-roughness = 1101.8979): No solution found
+
+Solving domain_1_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3335.49 using 8.614531993865967 seconds
+Iteration 1 (max-roughness = 3335.49): Found solution with roghness = 3000.0429 using 9.889126777648926 seconds
+Iteration 2 (max-roughness = 3000.0429): Found solution with roghness = 2699.6634000000004 using 36.68424916267395 seconds
+Iteration 3 (max-roughness = 2699.6634000000004): No solution found
+
+Solving domain_2_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2878.29 using 3.217334270477295 seconds
+Iteration 1 (max-roughness = 2878.29): Found solution with roghness = 2589.4836 using 3.503420829772949 seconds
+Iteration 2 (max-roughness = 2589.4836): Found solution with roghness = 2329.9596 using 4.195712089538574 seconds
+Iteration 3 (max-roughness = 2329.9596): Found solution with roghness = 2096.7291 using 30.28570556640625 seconds
+Iteration 4 (max-roughness = 2096.7291): No solution found
+
+Solving domain_3_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2250.7254000000003 using 1.2599225044250488 seconds
+Iteration 1 (max-roughness = 2250.7254000000003): Found solution with roghness = 1904.8662000000002 using 1.5975995063781738 seconds
+Iteration 2 (max-roughness = 1904.8662000000002): Found solution with roghness = 1696.3848 using 2.0857980251312256 seconds
+Iteration 3 (max-roughness = 1696.3848): Found solution with roghness = 1525.311 using 1.7097208499908447 seconds
+Iteration 4 (max-roughness = 1525.311): Found solution with roghness = 1372.7736000000002 using 5.310341119766235 seconds
+Iteration 5 (max-roughness = 1372.7736000000002): Found solution with roghness = 1235.0366999999999 using 21.015932083129883 seconds
+Iteration 6 (max-roughness = 1235.0366999999999): Found solution with roghness = 1110.9834 using 4.333617925643921 seconds
+Iteration 7 (max-roughness = 1110.9834): Found solution with roghness = 999.7659000000001 using 8.71547245979309 seconds
+Iteration 8 (max-roughness = 999.7659000000001): Found solution with roghness = 899.4897 using 97.73780608177185 seconds
+Iteration 9 (max-roughness = 899.4897): No solution found
+
+Solving domain_4_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3880.2429 using 1.2509245872497559 seconds
+Iteration 1 (max-roughness = 3880.2429): Found solution with roghness = 3487.5171 using 136.81559443473816 seconds
+Iteration 2 (max-roughness = 3487.5171): Found solution with roghness = 3138.4287 using 6.226861953735352 seconds
+Iteration 3 (max-roughness = 3138.4287): Found solution with roghness = 2824.4592000000002 using 10.81603455543518 seconds
+Iteration 4 (max-roughness = 2824.4592000000002): Found solution with roghness = 2541.5406000000003 using 161.15130615234375 seconds
+Iteration 5 (max-roughness = 2541.5406000000003): Found solution with roghness = 2286.18 using 47.68981099128723 seconds
+Iteration 6 (max-roughness = 2286.18): No solution found
+
+Solving domain_5_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2932.7652000000003 using 2.072356700897217 seconds
+Iteration 1 (max-roughness = 2932.7652000000003): Found solution with roghness = 2636.1450000000004 using 31.85084056854248 seconds
+Iteration 2 (max-roughness = 2636.1450000000004): Found solution with roghness = 2372.3793 using 21.315490007400513 seconds
+Iteration 3 (max-roughness = 2372.3793): Found solution with roghness = 2132.4861 using 1525.937489271164 seconds
+Iteration 4 (max-roughness = 2132.4861): No solution found
+
+Solving domain_6_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2883.9411 using 24.331220626831055 seconds
+Iteration 1 (max-roughness = 2883.9411): Found solution with roghness = 2581.092 using 24.55060863494873 seconds
+Iteration 2 (max-roughness = 2581.092): Found solution with roghness = 2320.8138 using 24.49927544593811 seconds
+Iteration 3 (max-roughness = 2320.8138): Found solution with roghness = 2083.8545999999997 using 26.125595331192017 seconds
+Iteration 4 (max-roughness = 2083.8545999999997): Found solution with roghness = 1874.6972999999998 using 48.04161477088928 seconds
+Iteration 5 (max-roughness = 1874.6972999999998): Found solution with roghness = 1686.0456000000001 using 654.5896227359772 seconds
+Iteration 6 (max-roughness = 1686.0456000000001): Found solution with roghness = 1516.7745 using 132.42561030387878 seconds
+Iteration 7 (max-roughness = 1516.7745): Found solution with roghness = 1364.9814 using 526.6990740299225 seconds
+Iteration 8 (max-roughness = 1364.9814): No solution found
+
+Solving domain_7_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2287.2321 using 8.820687294006348 seconds
+Iteration 1 (max-roughness = 2287.2321): Found solution with roghness = 1977.3144000000002 using 9.129143476486206 seconds
+Iteration 2 (max-roughness = 1977.3144000000002): Found solution with roghness = 1775.1159000000002 using 10.021737575531006 seconds
+Iteration 3 (max-roughness = 1775.1159000000002): Found solution with roghness = 1597.3623 using 14.38812518119812 seconds
+Iteration 4 (max-roughness = 1597.3623): Found solution with roghness = 1436.5377 using 16.920299768447876 seconds
+Iteration 5 (max-roughness = 1436.5377): Found solution with roghness = 1292.3451 using 42.88069462776184 seconds
+Iteration 6 (max-roughness = 1292.3451): Found solution with roghness = 1161.7272 using 895.4258832931519 seconds
+Iteration 7 (max-roughness = 1161.7272): No solution found
+
+Solving domain_8_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2592.0198 using 1.2680447101593018 seconds
+Iteration 1 (max-roughness = 2592.0198): Found solution with roghness = 2186.865 using 4.508617877960205 seconds
+Iteration 2 (max-roughness = 2186.865): Found solution with roghness = 1956.4749 using 22.930713891983032 seconds
+Iteration 3 (max-roughness = 1956.4749): Found solution with roghness = 1760.3811 using 31.218947172164917 seconds
+Iteration 4 (max-roughness = 1760.3811): Found solution with roghness = 1584.1260000000002 using 14.406049966812134 seconds
+Iteration 5 (max-roughness = 1584.1260000000002): Found solution with roghness = 1425.672 using 782.5963628292084 seconds
+Iteration 6 (max-roughness = 1425.672): Found solution with roghness = 1280.2671 using 43.9681670665741 seconds
+Iteration 7 (max-roughness = 1280.2671): No solution found
+
+Solving domain_9_70.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4865.962500000001 using 1.1236798763275146 seconds
+Iteration 1 (max-roughness = 4865.962500000001): No solution found
+
+Starting evaluation on size 80 problems:
+
+Solving domain_0_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2399.3847 using 2.6036226749420166 seconds
+Iteration 1 (max-roughness = 2399.3847): Found solution with roghness = 2156.0517 using 23.3048152923584 seconds
+Iteration 2 (max-roughness = 2156.0517): No solution found
+
+Solving domain_1_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4073.4315 using 9.61669921875 seconds
+Iteration 1 (max-roughness = 4073.4315): Found solution with roghness = 3648.6387 using 77.6887137889862 seconds
+Iteration 2 (max-roughness = 3648.6387): Found solution with roghness = 3276.225 using 153.20089983940125 seconds
+Iteration 3 (max-roughness = 3276.225): Found solution with roghness = 2946.1473 using 11.521077394485474 seconds
+Iteration 4 (max-roughness = 2946.1473): No solution found
+
+Solving domain_2_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3046.3586999999998 using 3.543020725250244 seconds
+Iteration 1 (max-roughness = 3046.3586999999998): No solution found
+
+Solving domain_3_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2609.8785 using 1.3205735683441162 seconds
+Iteration 1 (max-roughness = 2609.8785): Found solution with roghness = 2346.5079 using 94.91602349281311 seconds
+Iteration 2 (max-roughness = 2346.5079): Found solution with roghness = 2000.6604000000002 using 4.982414960861206 seconds
+Iteration 3 (max-roughness = 2000.6604000000002): Found solution with roghness = 1781.2755 using 138.08273649215698 seconds
+Iteration 4 (max-roughness = 1781.2755): Found solution with roghness = 1600.6707 using 2.7236807346343994 seconds
+Iteration 5 (max-roughness = 1600.6707): No solution found
+
+Solving domain_4_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4287.4902 using 1.7965903282165527 seconds
+Iteration 1 (max-roughness = 4287.4902): Found solution with roghness = 3789.6578999999997 using 2.515704393386841 seconds
+Iteration 2 (max-roughness = 3789.6578999999997): Found solution with roghness = 3409.8642 using 13.399330377578735 seconds
+Iteration 3 (max-roughness = 3409.8642): No solution found
+
+Solving domain_5_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3514.5935999999997 using 2.836223840713501 seconds
+Iteration 1 (max-roughness = 3514.5935999999997): Found solution with roghness = 3103.3368 using 8.113768100738525 seconds
+Iteration 2 (max-roughness = 3103.3368): Found solution with roghness = 2720.9574000000002 using 7.6933534145355225 seconds
+Iteration 3 (max-roughness = 2720.9574000000002): Found solution with roghness = 2448.0702 using 7.946663856506348 seconds
+Iteration 4 (max-roughness = 2448.0702): No solution found
+
+Solving domain_6_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3020.5692000000004 using 25.391011714935303 seconds
+Iteration 1 (max-roughness = 3020.5692000000004): Found solution with roghness = 2713.0968000000003 using 25.720461130142212 seconds
+Iteration 2 (max-roughness = 2713.0968000000003): Found solution with roghness = 2440.4661 using 28.383345127105713 seconds
+Iteration 3 (max-roughness = 2440.4661): Found solution with roghness = 2196.0468 using 31.378018617630005 seconds
+Iteration 4 (max-roughness = 2196.0468): Found solution with roghness = 1976.1552000000001 using 249.34145879745483 seconds
+Iteration 5 (max-roughness = 1976.1552000000001): No solution found
+
+Solving domain_7_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2532.6711 using 9.627482652664185 seconds
+Iteration 1 (max-roughness = 2532.6711): Found solution with roghness = 2279.1285 using 715.3563344478607 seconds
+Iteration 2 (max-roughness = 2279.1285): Found solution with roghness = 2046.717 using 10.2376127243042 seconds
+Iteration 3 (max-roughness = 2046.717): Found solution with roghness = 1841.8113 using 35.87694549560547 seconds
+Iteration 4 (max-roughness = 1841.8113): Found solution with roghness = 1655.2079999999999 using 48.918500900268555 seconds
+Iteration 5 (max-roughness = 1655.2079999999999): No solution found
+
+Solving domain_8_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2902.1643 using 1.3555512428283691 seconds
+Iteration 1 (max-roughness = 2902.1643): Found solution with roghness = 2611.2915 using 1.50063157081604 seconds
+Iteration 2 (max-roughness = 2611.2915): Found solution with roghness = 2344.9545000000003 using 3.4545297622680664 seconds
+Iteration 3 (max-roughness = 2344.9545000000003): Found solution with roghness = 2110.3839000000003 using 1.5138258934020996 seconds
+Iteration 4 (max-roughness = 2110.3839000000003): Found solution with roghness = 1899.2097 using 37.76783990859985 seconds
+Iteration 5 (max-roughness = 1899.2097): Found solution with roghness = 1708.7715 using 16.16242241859436 seconds
+Iteration 6 (max-roughness = 1708.7715): Found solution with roghness = 1537.6779 using 465.4802746772766 seconds
+Iteration 7 (max-roughness = 1537.6779): No solution found
+
+Solving domain_9_80.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 5365.3536 using 1.4396674633026123 seconds
+Iteration 1 (max-roughness = 5365.3536): Found solution with roghness = 4828.453200000001 using 3.7198920249938965 seconds
+Iteration 2 (max-roughness = 4828.453200000001): No solution found
+
+Starting evaluation on size 90 problems:
+
+Solving domain_0_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2946.8583 using 3.19340443611145 seconds
+Iteration 1 (max-roughness = 2946.8583): Found solution with roghness = 2644.254 using 8.41762924194336 seconds
+Iteration 2 (max-roughness = 2644.254): Found solution with roghness = 2379.2805 using 59.861924171447754 seconds
+Iteration 3 (max-roughness = 2379.2805): No solution found
+
+Solving domain_1_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4252.0149 using 12.233468770980835 seconds
+Iteration 1 (max-roughness = 4252.0149): Found solution with roghness = 3806.0361000000003 using 1616.8344032764435 seconds
+Iteration 2 (max-roughness = 3806.0361000000003): No solution found
+
+Solving domain_2_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3394.3311 using 4.57327675819397 seconds
+Iteration 1 (max-roughness = 3394.3311): Found solution with roghness = 3045.6288000000004 using 415.4792945384979 seconds
+Iteration 2 (max-roughness = 3045.6288000000004): No solution found
+
+Solving domain_3_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2913.5196 using 1.822662115097046 seconds
+Iteration 1 (max-roughness = 2913.5196): Found solution with roghness = 2607.0453 using 2.0651488304138184 seconds
+Iteration 2 (max-roughness = 2607.0453): Found solution with roghness = 2346.2496 using 125.88778185844421 seconds
+Iteration 3 (max-roughness = 2346.2496): Found solution with roghness = 2101.5153 using 10.851425170898438 seconds
+Iteration 4 (max-roughness = 2101.5153): Found solution with roghness = 1891.2852 using 47.9479238986969 seconds
+Iteration 5 (max-roughness = 1891.2852): Found solution with roghness = 1700.9640000000002 using 49.2762131690979 seconds
+Iteration 6 (max-roughness = 1700.9640000000002): No solution found
+
+Solving domain_4_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4778.5626 using 2.0972278118133545 seconds
+Iteration 1 (max-roughness = 4778.5626): Found solution with roghness = 4077.117 using 3.669560670852661 seconds
+Iteration 2 (max-roughness = 4077.117): Found solution with roghness = 3668.9715 using 2.6440041065216064 seconds
+Iteration 3 (max-roughness = 3668.9715): Found solution with roghness = 3302.0631 using 30.33382511138916 seconds
+Iteration 4 (max-roughness = 3302.0631): Found solution with roghness = 2971.8134999999997 using 392.4241111278534 seconds
+Iteration 5 (max-roughness = 2971.8134999999997): No solution found
+
+Solving domain_5_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3960.7542 using 3.5217888355255127 seconds
+Iteration 1 (max-roughness = 3960.7542): Found solution with roghness = 3434.6169 using 9.390906810760498 seconds
+Iteration 2 (max-roughness = 3434.6169): Found solution with roghness = 3074.3271 using 5.709359884262085 seconds
+Iteration 3 (max-roughness = 3074.3271): Found solution with roghness = 2766.6441 using 1375.7008442878723 seconds
+Iteration 4 (max-roughness = 2766.6441): No solution found
+
+Solving domain_6_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3529.4346 using 34.54024910926819 seconds
+Iteration 1 (max-roughness = 3529.4346): Found solution with roghness = 3173.4170999999997 using 36.47457218170166 seconds
+Iteration 2 (max-roughness = 3173.4170999999997): Found solution with roghness = 2855.9961000000003 using 47.8463933467865 seconds
+Iteration 3 (max-roughness = 2855.9961000000003): Found solution with roghness = 2570.2965000000004 using 1248.8364849090576 seconds
+Iteration 4 (max-roughness = 2570.2965000000004): Found solution with roghness = 2313.2241 using 365.2991464138031 seconds
+Iteration 5 (max-roughness = 2313.2241): No solution found
+
+Solving domain_7_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 2863.5957000000003 using 13.147162199020386 seconds
+Iteration 1 (max-roughness = 2863.5957000000003): Found solution with roghness = 2550.5631 using 32.57173013687134 seconds
+Iteration 2 (max-roughness = 2550.5631): No solution found
+
+Solving domain_8_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3413.3652 using 1.933795690536499 seconds
+Iteration 1 (max-roughness = 3413.3652): Found solution with roghness = 2961.8469 using 7.216625690460205 seconds
+Iteration 2 (max-roughness = 2961.8469): Found solution with roghness = 2664.7659000000003 using 374.16322350502014 seconds
+Iteration 3 (max-roughness = 2664.7659000000003): Found solution with roghness = 2386.5939000000003 using 24.334402561187744 seconds
+Iteration 4 (max-roughness = 2386.5939000000003): No solution found
+
+Solving domain_9_90.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 5945.5008 using 2.230539560317993 seconds
+Iteration 1 (max-roughness = 5945.5008): Found solution with roghness = 5346.2438999999995 using 14.021186351776123 seconds
+Iteration 2 (max-roughness = 5346.2438999999995): Found solution with roghness = 4811.6169 using 19.150285482406616 seconds
+Iteration 3 (max-roughness = 4811.6169): No solution found
+
+Starting evaluation on size 100 problems:
+
+Solving domain_0_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3502.026 using 33.304651498794556 seconds
+Iteration 1 (max-roughness = 3502.026): Found solution with roghness = 3015.3609 using 30.356712341308594 seconds
+Iteration 2 (max-roughness = 3015.3609): Found solution with roghness = 2710.5777000000003 using 30.794270515441895 seconds
+Iteration 3 (max-roughness = 2710.5777000000003): No solution found
+
+Solving domain_1_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4552.764300000001 using 13.638039350509644 seconds
+Iteration 1 (max-roughness = 4552.764300000001): Found solution with roghness = 4088.9700000000003 using 137.58755469322205 seconds
+Iteration 2 (max-roughness = 4088.9700000000003): No solution found
+
+Solving domain_2_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3876.4628999999995 using 4.971670627593994 seconds
+Iteration 1 (max-roughness = 3876.4628999999995): Found solution with roghness = 3483.9818999999998 using 5.251963138580322 seconds
+Iteration 2 (max-roughness = 3483.9818999999998): Found solution with roghness = 3134.7108000000003 using 5.154957056045532 seconds
+Iteration 3 (max-roughness = 3134.7108000000003): No solution found
+
+Solving domain_3_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3247.254 using 2.0859642028808594 seconds
+Iteration 1 (max-roughness = 3247.254): Found solution with roghness = 2921.6637 using 7.929393768310547 seconds
+Iteration 2 (max-roughness = 2921.6637): Found solution with roghness = 2629.0521 using 8.633891105651855 seconds
+Iteration 3 (max-roughness = 2629.0521): No solution found
+
+Solving domain_4_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 5263.7373 using 2.4038479328155518 seconds
+Iteration 1 (max-roughness = 5263.7373): Found solution with roghness = 4722.8049 using 3.52628231048584 seconds
+Iteration 2 (max-roughness = 4722.8049): Found solution with roghness = 4233.295800000001 using 4.3879554271698 seconds
+Iteration 3 (max-roughness = 4233.295800000001): Found solution with roghness = 3799.2537 using 6.569939851760864 seconds
+Iteration 4 (max-roughness = 3799.2537): No solution found
+
+Solving domain_5_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4572.8289 using 3.78017258644104 seconds
+Iteration 1 (max-roughness = 4572.8289): Found solution with roghness = 4105.2465 using 45.181182622909546 seconds
+Iteration 2 (max-roughness = 4105.2465): Found solution with roghness = 3694.203 using 235.75412225723267 seconds
+Iteration 3 (max-roughness = 3694.203): Found solution with roghness = 3216.0798 using 15.632737159729004 seconds
+Iteration 4 (max-roughness = 3216.0798): Found solution with roghness = 2893.3487999999998 using 158.84783625602722 seconds
+Iteration 5 (max-roughness = 2893.3487999999998): No solution found
+
+Solving domain_6_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 4299.7941 using 36.10064935684204 seconds
+Iteration 1 (max-roughness = 4299.7941): No solution found
+
+Solving domain_7_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3032.0991 using 13.912400722503662 seconds
+Iteration 1 (max-roughness = 3032.0991): Found solution with roghness = 2727.3825 using 41.28497767448425 seconds
+Iteration 2 (max-roughness = 2727.3825): No solution found
+
+Solving domain_8_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 3873.7971000000002 using 2.106902599334717 seconds
+Iteration 1 (max-roughness = 3873.7971000000002): Found solution with roghness = 3333.6702 using 11.285716772079468 seconds
+Iteration 2 (max-roughness = 3333.6702): Found solution with roghness = 2995.8129 using 412.69767022132874 seconds
+Iteration 3 (max-roughness = 2995.8129): No solution found
+
+Solving domain_9_100.pddl ...
+Iteration 0 (max-roughness = 100000000): Found solution with roghness = 6094.0845 using 3.076625347137451 seconds
+Iteration 1 (max-roughness = 6094.0845): Found solution with roghness = 5483.5794000000005 using 740.1554398536682 seconds
+Iteration 2 (max-roughness = 5483.5794000000005): No solution found
+

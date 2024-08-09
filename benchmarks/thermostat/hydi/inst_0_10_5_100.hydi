@@ -1,0 +1,74 @@
+MODULE main
+VAR thermo : thermostat;
+VAR observation : observation(thermo.x, 0.05, 0.1);
+
+INVARSPEC !(observation.location = obs10);
+
+MODULE thermostat
+VAR
+	location : {on, off};
+	x : continuous;
+
+EVENT turn_on, turn_off;
+
+INIT
+	location = on & x = 21.7;
+
+TRANS
+	EVENT = turn_on ->
+		(location = off & next(location) =  on & x < 19 & next(x) = x)
+
+TRANS
+	EVENT = turn_off ->
+		(location = on & next(location) =  off & x > 21 & next(x) = x)
+
+INVAR
+	(location = off -> x >= 18) &
+	 (location = on -> x <= 22)
+
+FLOW
+	(location = off -> der(x) = -0.2) &
+	(location = on -> der(x) = 0.8)
+
+MODULE observation(x, x_error, t_precision)
+VAR
+	location : {obs0, obs1, obs2, obs3, obs4, obs5, obs6, obs7, obs8, obs9, obs10};
+	t : continuous;
+
+EVENT observe1, observe2, observe3, observe4, observe5, observe6, observe7, observe8, observe9, observe10;
+INIT
+	location = obs0 & t = 0;
+
+TRANS
+	EVENT = observe1 ->
+		(location = obs0 & next(location) =  obs1 & x > 21.63 - x_error & x < 21.63 + x_error & t >= 1.0 - t_precision/2 & t < 1.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe2 ->
+		(location = obs1 & next(location) =  obs2 & x > 21.43 - x_error & x < 21.43 + x_error & t >= 2.0 - t_precision/2 & t < 2.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe3 ->
+		(location = obs2 & next(location) =  obs3 & x > 21.23 - x_error & x < 21.23 + x_error & t >= 3.0 - t_precision/2 & t < 3.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe4 ->
+		(location = obs3 & next(location) =  obs4 & x > 21.03 - x_error & x < 21.03 + x_error & t >= 4.0 - t_precision/2 & t < 4.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe5 ->
+		(location = obs4 & next(location) =  obs5 & x > 20.83 - x_error & x < 20.83 + x_error & t >= 5.0 - t_precision/2 & t < 5.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe6 ->
+		(location = obs5 & next(location) =  obs6 & x > 20.63 - x_error & x < 20.63 + x_error & t >= 6.0 - t_precision/2 & t < 6.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe7 ->
+		(location = obs6 & next(location) =  obs7 & x > 20.43 - x_error & x < 20.43 + x_error & t >= 7.0 - t_precision/2 & t < 7.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe8 ->
+		(location = obs7 & next(location) =  obs8 & x > 20.23 - x_error & x < 20.23 + x_error & t >= 8.0 - t_precision/2 & t < 8.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe9 ->
+		(location = obs8 & next(location) =  obs9 & x > 20.03 - x_error & x < 20.03 + x_error & t >= 9.0 - t_precision/2 & t < 9.0 + t_precision/2 & next(t) = t)
+TRANS
+	EVENT = observe10 ->
+		(location = obs9 & next(location) =  obs10 & x > 19.83 - x_error & x < 19.83 + x_error & t >= 10.0 - t_precision/2 & t < 10.0 + t_precision/2 & next(t) = t)
+
+FLOW
+	der(t) = 1;

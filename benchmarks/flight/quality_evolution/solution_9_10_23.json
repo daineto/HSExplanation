@@ -1,0 +1,1 @@
+{"solved": true, "unsolvable": false, "grounding_time": 12.0, "Boolean": 14.0, "numeric": 5.0, "actions": 5.0, "processes": 14.0, "events": 10.0, "dh": 0.4, "dp": 0.4, "de": 0.01, "dv": 0.01, "plan_length": 1017.0, "elapsed_time": 10.0, "planning_time": 212.0, "heuristic_time": 18.0, "search_time": 61.0, "expanded": 198.0, "evaluated": 295.0, "user_time": 0.32816195487976074}

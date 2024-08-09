@@ -1,0 +1,13 @@
+0.08: (turn-on)
+1.04: (validate_1)
+2.04: (validate_2)
+3.04: (validate_3)
+3.65: (turn-off)
+3.95: (validate_4)
+4.95: (validate_5)
+5.95: (validate_6)
+6.95: (validate_7)
+7.95: (validate_8)
+8.95: (validate_9)
+9.95: (validate_10)
+9.95: @PlanEND 

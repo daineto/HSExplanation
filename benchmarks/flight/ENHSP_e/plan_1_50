@@ -1,0 +1,12 @@
+0: (adjust-left)
+12.40: (stop-adjust-left)
+14.00: (adjust-right)
+15.20: (stop-adjust-right)
+17.20: (adjust-left)
+28.40: (toggle-adjust-LR)
+30.00: (stop-adjust-right)
+32.40: (adjust-right)
+45.20: (stop-adjust-right)
+46.00: (adjust-left)
+47.20: (toggle-adjust-LR)
+49.95: @PlanEND 

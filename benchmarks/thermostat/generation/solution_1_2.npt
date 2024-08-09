@@ -1,0 +1,400 @@
+(x)=18.899999618530273 (running_time)=0.0 (time)=0 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=false 
+(x)=18.899999618530273 (running_time)=0.0 (time)=0 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.89799961843528 (running_time)=0.009999999776482582 (time)=0.01 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.895999618340284 (running_time)=0.019999999552965164 (time)=0.02 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.89399961824529 (running_time)=0.029999999329447746 (time)=0.03 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.891999618150294 (running_time)=0.03999999910593033 (time)=0.04 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.8899996180553 (running_time)=0.04999999888241291 (time)=0.05 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.887999617960304 (running_time)=0.05999999865889549 (time)=0.06 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.88599961786531 (running_time)=0.06999999843537807 (time)=0.07 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.883999617770314 (running_time)=0.07999999821186066 (time)=0.08 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.88199961767532 (running_time)=0.08999999798834324 (time)=0.09 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.879999617580324 (running_time)=0.09999999776482582 (time)=0.10 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.87799961748533 (running_time)=0.1099999975413084 (time)=0.11 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.875999617390335 (running_time)=0.11999999731779099 (time)=0.12 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.87399961729534 (running_time)=0.12999999709427357 (time)=0.13 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.871999617200345 (running_time)=0.13999999687075615 (time)=0.14 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.86999961710535 (running_time)=0.14999999664723873 (time)=0.15 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.867999617010355 (running_time)=0.1599999964237213 (time)=0.16 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.86599961691536 (running_time)=0.1699999962002039 (time)=0.17 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.863999616820365 (running_time)=0.17999999597668648 (time)=0.18 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.86199961672537 (running_time)=0.18999999575316906 (time)=0.19 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.859999616630375 (running_time)=0.19999999552965164 (time)=0.20 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.85799961653538 (running_time)=0.20999999530613422 (time)=0.21 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.855999616440386 (running_time)=0.2199999950826168 (time)=0.22 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.85399961634539 (running_time)=0.2299999948590994 (time)=0.23 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.851999616250396 (running_time)=0.23999999463558197 (time)=0.24 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.8499996161554 (running_time)=0.24999999441206455 (time)=0.25 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.847999616060406 (running_time)=0.25999999418854713 (time)=0.26 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.84599961596541 (running_time)=0.2699999939650297 (time)=0.27 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.843999615870416 (running_time)=0.2799999937415123 (time)=0.28 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.84199961577542 (running_time)=0.2899999935179949 (time)=0.29 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.839999615680426 (running_time)=0.29999999329447746 (time)=0.30 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.83799961558543 (running_time)=0.30999999307096004 (time)=0.31 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.835999615490437 (running_time)=0.3199999928474426 (time)=0.32 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.83399961539544 (running_time)=0.3299999926239252 (time)=0.33 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.831999615300447 (running_time)=0.3399999924004078 (time)=0.34 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.829999615205452 (running_time)=0.3499999921768904 (time)=0.35 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.827999615110457 (running_time)=0.35999999195337296 (time)=0.36 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.825999615015462 (running_time)=0.36999999172985554 (time)=0.37 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.823999614920467 (running_time)=0.3799999915063381 (time)=0.38 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.821999614825472 (running_time)=0.3899999912828207 (time)=0.39 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.819999614730477 (running_time)=0.3999999910593033 (time)=0.40 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.817999614635482 (running_time)=0.40999999083578587 (time)=0.41 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.815999614540488 (running_time)=0.41999999061226845 (time)=0.42 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.813999614445493 (running_time)=0.42999999038875103 (time)=0.43 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.811999614350498 (running_time)=0.4399999901652336 (time)=0.44 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.809999614255503 (running_time)=0.4499999899417162 (time)=0.45 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.807999614160508 (running_time)=0.4599999897181988 (time)=0.46 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.805999614065513 (running_time)=0.46999998949468136 (time)=0.47 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.803999613970518 (running_time)=0.47999998927116394 (time)=0.48 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.801999613875523 (running_time)=0.4899999890476465 (time)=0.49 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.79999961378053 (running_time)=0.4999999888241291 (time)=0.50 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.797999613685533 (running_time)=0.5099999886006117 (time)=0.51 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.79599961359054 (running_time)=0.5199999883770943 (time)=0.52 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.793999613495544 (running_time)=0.5299999881535769 (time)=0.53 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.79199961340055 (running_time)=0.5399999879300594 (time)=0.54 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.789999613305554 (running_time)=0.549999987706542 (time)=0.55 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.78799961321056 (running_time)=0.5599999874830246 (time)=0.56 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.785999613115564 (running_time)=0.5699999872595072 (time)=0.57 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.78399961302057 (running_time)=0.5799999870359898 (time)=0.58 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.781999612925574 (running_time)=0.5899999868124723 (time)=0.59 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.77999961283058 (running_time)=0.5999999865889549 (time)=0.60 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.777999612735584 (running_time)=0.6099999863654375 (time)=0.61 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.77599961264059 (running_time)=0.6199999861419201 (time)=0.62 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.773999612545595 (running_time)=0.6299999859184027 (time)=0.63 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.7719996124506 (running_time)=0.6399999856948853 (time)=0.64 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.769999612355605 (running_time)=0.6499999854713678 (time)=0.65 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.76799961226061 (running_time)=0.6599999852478504 (time)=0.66 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.765999612165615 (running_time)=0.669999985024333 (time)=0.67 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.76399961207062 (running_time)=0.6799999848008156 (time)=0.68 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.761999611975625 (running_time)=0.6899999845772982 (time)=0.69 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.75999961188063 (running_time)=0.6999999843537807 (time)=0.70 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.757999611785635 (running_time)=0.7099999841302633 (time)=0.71 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.75599961169064 (running_time)=0.7199999839067459 (time)=0.72 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.753999611595646 (running_time)=0.7299999836832285 (time)=0.73 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.75199961150065 (running_time)=0.7399999834597111 (time)=0.74 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.749999611405656 (running_time)=0.7499999832361937 (time)=0.75 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.74799961131066 (running_time)=0.7599999830126762 (time)=0.76 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.745999611215666 (running_time)=0.7699999827891588 (time)=0.77 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.74399961112067 (running_time)=0.7799999825656414 (time)=0.78 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.741999611025676 (running_time)=0.789999982342124 (time)=0.79 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.73999961093068 (running_time)=0.7999999821186066 (time)=0.80 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.737999610835686 (running_time)=0.8099999818950891 (time)=0.81 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.73599961074069 (running_time)=0.8199999816715717 (time)=0.82 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.733999610645697 (running_time)=0.8299999814480543 (time)=0.83 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.7319996105507 (running_time)=0.8399999812245369 (time)=0.84 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.729999610455707 (running_time)=0.8499999810010195 (time)=0.85 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.727999610360712 (running_time)=0.8599999807775021 (time)=0.86 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.725999610265717 (running_time)=0.8699999805539846 (time)=0.87 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.723999610170722 (running_time)=0.8799999803304672 (time)=0.88 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.721999610075727 (running_time)=0.8899999801069498 (time)=0.89 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.719999609980732 (running_time)=0.8999999798834324 (time)=0.90 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.717999609885737 (running_time)=0.909999979659915 (time)=0.91 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.715999609790742 (running_time)=0.9199999794363976 (time)=0.92 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.713999609695747 (running_time)=0.9299999792128801 (time)=0.93 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.711999609600753 (running_time)=0.9399999789893627 (time)=0.94 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.709999609505758 (running_time)=0.9499999787658453 (time)=0.95 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.707999609410763 (running_time)=0.9599999785423279 (time)=0.96 
+(on)=false (off)=true (observed o1)=false (observed o2)=false (observed o0)=true 
+(x)=18.707999609410763 (running_time)=0.9599999785423279 (time)=0.96 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.705999609315768 (running_time)=0.9699999783188105 (time)=0.97 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.703999609220773 (running_time)=0.979999978095293 (time)=0.98 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.701999609125778 (running_time)=0.9899999778717756 (time)=0.99 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.699999609030783 (running_time)=0.9999999776482582 (time)=1.00 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.69799960893579 (running_time)=1.0099999774247408 (time)=1.01 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.695999608840793 (running_time)=1.0199999772012234 (time)=1.02 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.6939996087458 (running_time)=1.029999976977706 (time)=1.03 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.691999608650804 (running_time)=1.0399999767541885 (time)=1.04 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.68999960855581 (running_time)=1.0499999765306711 (time)=1.05 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.687999608460814 (running_time)=1.0599999763071537 (time)=1.06 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.68599960836582 (running_time)=1.0699999760836363 (time)=1.07 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.683999608270824 (running_time)=1.0799999758601189 (time)=1.08 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.68199960817583 (running_time)=1.0899999756366014 (time)=1.09 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.679999608080834 (running_time)=1.099999975413084 (time)=1.10 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.67799960798584 (running_time)=1.1099999751895666 (time)=1.11 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.675999607890844 (running_time)=1.1199999749660492 (time)=1.12 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.67399960779585 (running_time)=1.1299999747425318 (time)=1.13 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.671999607700855 (running_time)=1.1399999745190144 (time)=1.14 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.66999960760586 (running_time)=1.149999974295497 (time)=1.15 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.667999607510865 (running_time)=1.1599999740719795 (time)=1.16 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.66599960741587 (running_time)=1.169999973848462 (time)=1.17 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.663999607320875 (running_time)=1.1799999736249447 (time)=1.18 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.66199960722588 (running_time)=1.1899999734014273 (time)=1.19 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.659999607130885 (running_time)=1.1999999731779099 (time)=1.20 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.65799960703589 (running_time)=1.2099999729543924 (time)=1.21 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.655999606940895 (running_time)=1.219999972730875 (time)=1.22 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.6539996068459 (running_time)=1.2299999725073576 (time)=1.23 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.651999606750906 (running_time)=1.2399999722838402 (time)=1.24 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.64999960665591 (running_time)=1.2499999720603228 (time)=1.25 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.647999606560916 (running_time)=1.2599999718368053 (time)=1.26 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.64599960646592 (running_time)=1.269999971613288 (time)=1.27 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.643999606370926 (running_time)=1.2799999713897705 (time)=1.28 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.64199960627593 (running_time)=1.289999971166253 (time)=1.29 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.639999606180936 (running_time)=1.2999999709427357 (time)=1.30 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.63799960608594 (running_time)=1.3099999707192183 (time)=1.31 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.635999605990946 (running_time)=1.3199999704957008 (time)=1.32 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.63399960589595 (running_time)=1.3299999702721834 (time)=1.33 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.631999605800956 (running_time)=1.339999970048666 (time)=1.34 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.62999960570596 (running_time)=1.3499999698251486 (time)=1.35 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.627999605610967 (running_time)=1.3599999696016312 (time)=1.36 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.625999605515972 (running_time)=1.3699999693781137 (time)=1.37 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.623999605420977 (running_time)=1.3799999691545963 (time)=1.38 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.621999605325982 (running_time)=1.389999968931079 (time)=1.39 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.619999605230987 (running_time)=1.3999999687075615 (time)=1.40 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.617999605135992 (running_time)=1.409999968484044 (time)=1.41 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.615999605040997 (running_time)=1.4199999682605267 (time)=1.42 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.613999604946002 (running_time)=1.4299999680370092 (time)=1.43 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.611999604851007 (running_time)=1.4399999678134918 (time)=1.44 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.609999604756013 (running_time)=1.4499999675899744 (time)=1.45 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.607999604661018 (running_time)=1.459999967366457 (time)=1.46 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.605999604566023 (running_time)=1.4699999671429396 (time)=1.47 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.603999604471028 (running_time)=1.4799999669194221 (time)=1.48 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.601999604376033 (running_time)=1.4899999666959047 (time)=1.49 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.599999604281038 (running_time)=1.4999999664723873 (time)=1.50 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.597999604186043 (running_time)=1.50999996624887 (time)=1.51 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.59599960409105 (running_time)=1.5199999660253525 (time)=1.52 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.593999603996053 (running_time)=1.529999965801835 (time)=1.53 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.59199960390106 (running_time)=1.5399999655783176 (time)=1.54 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.589999603806064 (running_time)=1.5499999653548002 (time)=1.55 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.58799960371107 (running_time)=1.5599999651312828 (time)=1.56 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.585999603616074 (running_time)=1.5699999649077654 (time)=1.57 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.58399960352108 (running_time)=1.579999964684248 (time)=1.58 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.581999603426084 (running_time)=1.5899999644607306 (time)=1.59 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.57999960333109 (running_time)=1.5999999642372131 (time)=1.60 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.577999603236094 (running_time)=1.6099999640136957 (time)=1.61 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.5759996031411 (running_time)=1.6199999637901783 (time)=1.62 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.573999603046104 (running_time)=1.6299999635666609 (time)=1.63 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.57199960295111 (running_time)=1.6399999633431435 (time)=1.64 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.569999602856115 (running_time)=1.649999963119626 (time)=1.65 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.56799960276112 (running_time)=1.6599999628961086 (time)=1.66 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.565999602666125 (running_time)=1.6699999626725912 (time)=1.67 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.56399960257113 (running_time)=1.6799999624490738 (time)=1.68 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.561999602476135 (running_time)=1.6899999622255564 (time)=1.69 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.55999960238114 (running_time)=1.699999962002039 (time)=1.70 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.557999602286145 (running_time)=1.7099999617785215 (time)=1.71 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.55599960219115 (running_time)=1.7199999615550041 (time)=1.72 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.553999602096155 (running_time)=1.7299999613314867 (time)=1.73 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.55199960200116 (running_time)=1.7399999611079693 (time)=1.74 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.549999601906165 (running_time)=1.7499999608844519 (time)=1.75 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.54799960181117 (running_time)=1.7599999606609344 (time)=1.76 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.545999601716176 (running_time)=1.769999960437417 (time)=1.77 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.54399960162118 (running_time)=1.7799999602138996 (time)=1.78 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.541999601526186 (running_time)=1.7899999599903822 (time)=1.79 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.53999960143119 (running_time)=1.7999999597668648 (time)=1.80 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.537999601336196 (running_time)=1.8099999595433474 (time)=1.81 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.5359996012412 (running_time)=1.81999995931983 (time)=1.82 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.533999601146206 (running_time)=1.8299999590963125 (time)=1.83 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.53199960105121 (running_time)=1.839999958872795 (time)=1.84 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.529999600956216 (running_time)=1.8499999586492777 (time)=1.85 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.52799960086122 (running_time)=1.8599999584257603 (time)=1.86 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.525999600766227 (running_time)=1.8699999582022429 (time)=1.87 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.52399960067123 (running_time)=1.8799999579787254 (time)=1.88 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.521999600576237 (running_time)=1.889999957755208 (time)=1.89 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.519999600481242 (running_time)=1.8999999575316906 (time)=1.90 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.517999600386247 (running_time)=1.9099999573081732 (time)=1.91 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.515999600291252 (running_time)=1.9199999570846558 (time)=1.92 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.513999600196257 (running_time)=1.9299999568611383 (time)=1.93 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.511999600101262 (running_time)=1.939999956637621 (time)=1.94 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.509999600006267 (running_time)=1.9499999564141035 (time)=1.95 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.507999599911273 (running_time)=1.959999956190586 (time)=1.96 
+(on)=false (off)=true (observed o1)=true (observed o2)=false (observed o0)=true 
+(x)=18.507999599911273 (running_time)=1.959999956190586 (time)=1.96 
+(on)=false (off)=true (observed o1)=true (observed o2)=true (observed o0)=true 

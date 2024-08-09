@@ -1,0 +1,1495 @@
+[0,30.05] time;
+[-57.248,306.658] x1;
+[-50.0,361.369] x2;
+[-5.921,7.292] theta;
+[0,30.05] clock;
+
+// flying_straight_obs0
+{
+	 mode 1;
+	 invt:
+		 (clock < 1.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @32(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @63(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 1.0 - 0.05) (clock < 1.0 + 0.05) ((x1 - 21.129)^2 + (x2 - 5.795)^2 < 400)) ==> @2(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs1
+{
+	 mode 2;
+	 invt:
+		 (clock < 2.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @33(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @64(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 2.0 - 0.05) (clock < 2.0 + 0.05) ((x1 - 39.434)^2 + (x2 - 17.836)^2 < 400)) ==> @3(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs2
+{
+	 mode 3;
+	 invt:
+		 (clock < 3.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @34(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @65(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 3.0 - 0.05) (clock < 3.0 + 0.05) ((x1 - 53.122)^2 + (x2 - 34.943)^2 < 400)) ==> @4(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs3
+{
+	 mode 4;
+	 invt:
+		 (clock < 4.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @35(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @66(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 4.0 - 0.05) (clock < 4.0 + 0.05) ((x1 - 60.853)^2 + (x2 - 55.443)^2 < 400)) ==> @5(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs4
+{
+	 mode 5;
+	 invt:
+		 (clock < 5.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @36(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @67(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 5.0 - 0.05) (clock < 5.0 + 0.05) ((x1 - 61.871)^2 + (x2 - 77.329)^2 < 400)) ==> @6(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs5
+{
+	 mode 6;
+	 invt:
+		 (clock < 6.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @37(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @68(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 6.0 - 0.05) (clock < 6.0 + 0.05) ((x1 - 56.076)^2 + (x2 - 98.459)^2 < 400)) ==> @7(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs6
+{
+	 mode 7;
+	 invt:
+		 (clock < 7.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @38(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @69(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 7.0 - 0.05) (clock < 7.0 + 0.05) ((x1 - 44.168)^2 + (x2 - 116.873)^2 < 400)) ==> @8(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs7
+{
+	 mode 8;
+	 invt:
+		 (clock < 8.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @39(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @70(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 8.0 - 0.05) (clock < 8.0 + 0.05) ((x1 - 30.353)^2 + (x2 - 133.994)^2 < 400)) ==> @9(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs8
+{
+	 mode 9;
+	 invt:
+		 (clock < 9.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @40(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @71(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 9.0 - 0.05) (clock < 9.0 + 0.05) ((x1 - 16.201)^2 + (x2 - 150.837)^2 < 400)) ==> @10(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs9
+{
+	 mode 10;
+	 invt:
+		 (clock < 10.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @41(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @72(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 10.0 - 0.05) (clock < 10.0 + 0.05) ((x1 - 2.639)^2 + (x2 - 168.112)^2 < 400)) ==> @11(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs10
+{
+	 mode 11;
+	 invt:
+		 (clock < 11.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @42(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @73(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 11.0 - 0.05) (clock < 11.0 + 0.05) ((x1 - -5.504)^2 + (x2 - 188.452)^2 < 400)) ==> @12(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs11
+{
+	 mode 12;
+	 invt:
+		 (clock < 12.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @43(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @74(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 12.0 - 0.05) (clock < 12.0 + 0.05) ((x1 - -6.962)^2 + (x2 - 210.313)^2 < 400)) ==> @13(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs12
+{
+	 mode 13;
+	 invt:
+		 (clock < 13.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @44(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @75(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 13.0 - 0.05) (clock < 13.0 + 0.05) ((x1 - -1.594)^2 + (x2 - 231.555)^2 < 400)) ==> @14(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs13
+{
+	 mode 14;
+	 invt:
+		 (clock < 14.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @45(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @76(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 14.0 - 0.05) (clock < 14.0 + 0.05) ((x1 - 10.076)^2 + (x2 - 250.098)^2 < 400)) ==> @15(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs14
+{
+	 mode 15;
+	 invt:
+		 (clock < 15.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @46(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @77(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 15.0 - 0.05) (clock < 15.0 + 0.05) ((x1 - 26.905)^2 + (x2 - 264.128)^2 < 400)) ==> @16(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs15
+{
+	 mode 16;
+	 invt:
+		 (clock < 16.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @47(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @78(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 16.0 - 0.05) (clock < 16.0 + 0.05) ((x1 - 47.245)^2 + (x2 - 272.27)^2 < 400)) ==> @17(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs16
+{
+	 mode 17;
+	 invt:
+		 (clock < 17.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @48(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @79(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 17.0 - 0.05) (clock < 17.0 + 0.05) ((x1 - 69.106)^2 + (x2 - 273.729)^2 < 400)) ==> @18(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs17
+{
+	 mode 18;
+	 invt:
+		 (clock < 18.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @49(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @80(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 18.0 - 0.05) (clock < 18.0 + 0.05) ((x1 - 90.348)^2 + (x2 - 268.36)^2 < 400)) ==> @19(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs18
+{
+	 mode 19;
+	 invt:
+		 (clock < 19.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @50(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @81(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 19.0 - 0.05) (clock < 19.0 + 0.05) ((x1 - 108.891)^2 + (x2 - 256.69)^2 < 400)) ==> @20(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs19
+{
+	 mode 20;
+	 invt:
+		 (clock < 20.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @51(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @82(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 20.0 - 0.05) (clock < 20.0 + 0.05) ((x1 - 123.389)^2 + (x2 - 240.198)^2 < 400)) ==> @21(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs20
+{
+	 mode 21;
+	 invt:
+		 (clock < 21.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @52(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @83(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 21.0 - 0.05) (clock < 21.0 + 0.05) ((x1 - 137.631)^2 + (x2 - 223.48)^2 < 400)) ==> @22(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs21
+{
+	 mode 22;
+	 invt:
+		 (clock < 22.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @53(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @84(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 22.0 - 0.05) (clock < 22.0 + 0.05) ((x1 - 155.951)^2 + (x2 - 211.463)^2 < 400)) ==> @23(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs22
+{
+	 mode 23;
+	 invt:
+		 (clock < 23.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @54(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @85(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 23.0 - 0.05) (clock < 23.0 + 0.05) ((x1 - 177.087)^2 + (x2 - 205.695)^2 < 400)) ==> @24(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs23
+{
+	 mode 24;
+	 invt:
+		 (clock < 24.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @55(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @86(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 24.0 - 0.05) (clock < 24.0 + 0.05) ((x1 - 198.972)^2 + (x2 - 206.741)^2 < 400)) ==> @25(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs24
+{
+	 mode 25;
+	 invt:
+		 (clock < 25.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @56(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @87(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 25.0 - 0.05) (clock < 25.0 + 0.05) ((x1 - 219.462)^2 + (x2 - 214.499)^2 < 400)) ==> @26(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs25
+{
+	 mode 26;
+	 invt:
+		 (clock < 26.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @57(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @88(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 26.0 - 0.05) (clock < 26.0 + 0.05) ((x1 - 236.553)^2 + (x2 - 228.208)^2 < 400)) ==> @27(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs26
+{
+	 mode 27;
+	 invt:
+		 (clock < 27.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @58(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @89(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 27.0 - 0.05) (clock < 27.0 + 0.05) ((x1 - 248.57)^2 + (x2 - 246.528)^2 < 400)) ==> @28(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs27
+{
+	 mode 28;
+	 invt:
+		 (clock < 28.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @59(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @90(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 28.0 - 0.05) (clock < 28.0 + 0.05) ((x1 - 254.372)^2 + (x2 - 267.661)^2 < 400)) ==> @29(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs28
+{
+	 mode 29;
+	 invt:
+		 (clock < 29.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @60(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @91(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 29.0 - 0.05) (clock < 29.0 + 0.05) ((x1 - 256.658)^2 + (x2 - 289.523)^2 < 400)) ==> @30(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs29
+{
+	 mode 30;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @61(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @92(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 30.0 - 0.05) (clock < 30.0 + 0.05) ((x1 - 253.217)^2 + (x2 - 311.16)^2 < 400)) ==> @31(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// flying_straight_obs30
+{
+	 mode 31;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @62(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @93(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs0
+{
+	 mode 32;
+	 invt:
+		 (clock < 1.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @1(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @63(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 1.0 - 0.05) (clock < 1.0 + 0.05) ((x1 - 21.129)^2 + (x2 - 5.795)^2 < 400)) ==> @33(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs1
+{
+	 mode 33;
+	 invt:
+		 (clock < 2.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @2(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @64(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 2.0 - 0.05) (clock < 2.0 + 0.05) ((x1 - 39.434)^2 + (x2 - 17.836)^2 < 400)) ==> @34(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs2
+{
+	 mode 34;
+	 invt:
+		 (clock < 3.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @3(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @65(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 3.0 - 0.05) (clock < 3.0 + 0.05) ((x1 - 53.122)^2 + (x2 - 34.943)^2 < 400)) ==> @35(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs3
+{
+	 mode 35;
+	 invt:
+		 (clock < 4.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @4(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @66(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 4.0 - 0.05) (clock < 4.0 + 0.05) ((x1 - 60.853)^2 + (x2 - 55.443)^2 < 400)) ==> @36(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs4
+{
+	 mode 36;
+	 invt:
+		 (clock < 5.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @5(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @67(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 5.0 - 0.05) (clock < 5.0 + 0.05) ((x1 - 61.871)^2 + (x2 - 77.329)^2 < 400)) ==> @37(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs5
+{
+	 mode 37;
+	 invt:
+		 (clock < 6.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @6(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @68(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 6.0 - 0.05) (clock < 6.0 + 0.05) ((x1 - 56.076)^2 + (x2 - 98.459)^2 < 400)) ==> @38(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs6
+{
+	 mode 38;
+	 invt:
+		 (clock < 7.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @7(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @69(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 7.0 - 0.05) (clock < 7.0 + 0.05) ((x1 - 44.168)^2 + (x2 - 116.873)^2 < 400)) ==> @39(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs7
+{
+	 mode 39;
+	 invt:
+		 (clock < 8.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @8(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @70(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 8.0 - 0.05) (clock < 8.0 + 0.05) ((x1 - 30.353)^2 + (x2 - 133.994)^2 < 400)) ==> @40(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs8
+{
+	 mode 40;
+	 invt:
+		 (clock < 9.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @9(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @71(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 9.0 - 0.05) (clock < 9.0 + 0.05) ((x1 - 16.201)^2 + (x2 - 150.837)^2 < 400)) ==> @41(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs9
+{
+	 mode 41;
+	 invt:
+		 (clock < 10.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @10(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @72(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 10.0 - 0.05) (clock < 10.0 + 0.05) ((x1 - 2.639)^2 + (x2 - 168.112)^2 < 400)) ==> @42(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs10
+{
+	 mode 42;
+	 invt:
+		 (clock < 11.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @11(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @73(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 11.0 - 0.05) (clock < 11.0 + 0.05) ((x1 - -5.504)^2 + (x2 - 188.452)^2 < 400)) ==> @43(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs11
+{
+	 mode 43;
+	 invt:
+		 (clock < 12.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @12(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @74(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 12.0 - 0.05) (clock < 12.0 + 0.05) ((x1 - -6.962)^2 + (x2 - 210.313)^2 < 400)) ==> @44(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs12
+{
+	 mode 44;
+	 invt:
+		 (clock < 13.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @13(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @75(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 13.0 - 0.05) (clock < 13.0 + 0.05) ((x1 - -1.594)^2 + (x2 - 231.555)^2 < 400)) ==> @45(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs13
+{
+	 mode 45;
+	 invt:
+		 (clock < 14.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @14(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @76(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 14.0 - 0.05) (clock < 14.0 + 0.05) ((x1 - 10.076)^2 + (x2 - 250.098)^2 < 400)) ==> @46(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs14
+{
+	 mode 46;
+	 invt:
+		 (clock < 15.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @15(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @77(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 15.0 - 0.05) (clock < 15.0 + 0.05) ((x1 - 26.905)^2 + (x2 - 264.128)^2 < 400)) ==> @47(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs15
+{
+	 mode 47;
+	 invt:
+		 (clock < 16.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @16(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @78(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 16.0 - 0.05) (clock < 16.0 + 0.05) ((x1 - 47.245)^2 + (x2 - 272.27)^2 < 400)) ==> @48(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs16
+{
+	 mode 48;
+	 invt:
+		 (clock < 17.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @17(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @79(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 17.0 - 0.05) (clock < 17.0 + 0.05) ((x1 - 69.106)^2 + (x2 - 273.729)^2 < 400)) ==> @49(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs17
+{
+	 mode 49;
+	 invt:
+		 (clock < 18.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @18(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @80(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 18.0 - 0.05) (clock < 18.0 + 0.05) ((x1 - 90.348)^2 + (x2 - 268.36)^2 < 400)) ==> @50(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs18
+{
+	 mode 50;
+	 invt:
+		 (clock < 19.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @19(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @81(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 19.0 - 0.05) (clock < 19.0 + 0.05) ((x1 - 108.891)^2 + (x2 - 256.69)^2 < 400)) ==> @51(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs19
+{
+	 mode 51;
+	 invt:
+		 (clock < 20.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @20(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @82(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 20.0 - 0.05) (clock < 20.0 + 0.05) ((x1 - 123.389)^2 + (x2 - 240.198)^2 < 400)) ==> @52(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs20
+{
+	 mode 52;
+	 invt:
+		 (clock < 21.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @21(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @83(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 21.0 - 0.05) (clock < 21.0 + 0.05) ((x1 - 137.631)^2 + (x2 - 223.48)^2 < 400)) ==> @53(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs21
+{
+	 mode 53;
+	 invt:
+		 (clock < 22.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @22(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @84(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 22.0 - 0.05) (clock < 22.0 + 0.05) ((x1 - 155.951)^2 + (x2 - 211.463)^2 < 400)) ==> @54(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs22
+{
+	 mode 54;
+	 invt:
+		 (clock < 23.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @23(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @85(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 23.0 - 0.05) (clock < 23.0 + 0.05) ((x1 - 177.087)^2 + (x2 - 205.695)^2 < 400)) ==> @55(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs23
+{
+	 mode 55;
+	 invt:
+		 (clock < 24.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @24(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @86(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 24.0 - 0.05) (clock < 24.0 + 0.05) ((x1 - 198.972)^2 + (x2 - 206.741)^2 < 400)) ==> @56(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs24
+{
+	 mode 56;
+	 invt:
+		 (clock < 25.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @25(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @87(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 25.0 - 0.05) (clock < 25.0 + 0.05) ((x1 - 219.462)^2 + (x2 - 214.499)^2 < 400)) ==> @57(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs25
+{
+	 mode 57;
+	 invt:
+		 (clock < 26.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @26(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @88(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 26.0 - 0.05) (clock < 26.0 + 0.05) ((x1 - 236.553)^2 + (x2 - 228.208)^2 < 400)) ==> @58(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs26
+{
+	 mode 58;
+	 invt:
+		 (clock < 27.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @27(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @89(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 27.0 - 0.05) (clock < 27.0 + 0.05) ((x1 - 248.57)^2 + (x2 - 246.528)^2 < 400)) ==> @59(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs27
+{
+	 mode 59;
+	 invt:
+		 (clock < 28.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @28(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @90(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 28.0 - 0.05) (clock < 28.0 + 0.05) ((x1 - 254.372)^2 + (x2 - 267.661)^2 < 400)) ==> @60(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs28
+{
+	 mode 60;
+	 invt:
+		 (clock < 29.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @29(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @91(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 29.0 - 0.05) (clock < 29.0 + 0.05) ((x1 - 256.658)^2 + (x2 - 289.523)^2 < 400)) ==> @61(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs29
+{
+	 mode 61;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @30(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @92(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 30.0 - 0.05) (clock < 30.0 + 0.05) ((x1 - 253.217)^2 + (x2 - 311.16)^2 < 400)) ==> @62(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_left_obs30
+{
+	 mode 62;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = 0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @31(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @93(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs0
+{
+	 mode 63;
+	 invt:
+		 (clock < 1.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @32(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @1(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 1.0 - 0.05) (clock < 1.0 + 0.05) ((x1 - 21.129)^2 + (x2 - 5.795)^2 < 400)) ==> @64(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs1
+{
+	 mode 64;
+	 invt:
+		 (clock < 2.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @33(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @2(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 2.0 - 0.05) (clock < 2.0 + 0.05) ((x1 - 39.434)^2 + (x2 - 17.836)^2 < 400)) ==> @65(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs2
+{
+	 mode 65;
+	 invt:
+		 (clock < 3.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @34(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @3(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 3.0 - 0.05) (clock < 3.0 + 0.05) ((x1 - 53.122)^2 + (x2 - 34.943)^2 < 400)) ==> @66(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs3
+{
+	 mode 66;
+	 invt:
+		 (clock < 4.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @35(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @4(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 4.0 - 0.05) (clock < 4.0 + 0.05) ((x1 - 60.853)^2 + (x2 - 55.443)^2 < 400)) ==> @67(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs4
+{
+	 mode 67;
+	 invt:
+		 (clock < 5.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @36(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @5(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 5.0 - 0.05) (clock < 5.0 + 0.05) ((x1 - 61.871)^2 + (x2 - 77.329)^2 < 400)) ==> @68(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs5
+{
+	 mode 68;
+	 invt:
+		 (clock < 6.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @37(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @6(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 6.0 - 0.05) (clock < 6.0 + 0.05) ((x1 - 56.076)^2 + (x2 - 98.459)^2 < 400)) ==> @69(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs6
+{
+	 mode 69;
+	 invt:
+		 (clock < 7.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @38(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @7(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 7.0 - 0.05) (clock < 7.0 + 0.05) ((x1 - 44.168)^2 + (x2 - 116.873)^2 < 400)) ==> @70(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs7
+{
+	 mode 70;
+	 invt:
+		 (clock < 8.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @39(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @8(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 8.0 - 0.05) (clock < 8.0 + 0.05) ((x1 - 30.353)^2 + (x2 - 133.994)^2 < 400)) ==> @71(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs8
+{
+	 mode 71;
+	 invt:
+		 (clock < 9.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @40(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @9(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 9.0 - 0.05) (clock < 9.0 + 0.05) ((x1 - 16.201)^2 + (x2 - 150.837)^2 < 400)) ==> @72(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs9
+{
+	 mode 72;
+	 invt:
+		 (clock < 10.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @41(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @10(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 10.0 - 0.05) (clock < 10.0 + 0.05) ((x1 - 2.639)^2 + (x2 - 168.112)^2 < 400)) ==> @73(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs10
+{
+	 mode 73;
+	 invt:
+		 (clock < 11.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @42(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @11(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 11.0 - 0.05) (clock < 11.0 + 0.05) ((x1 - -5.504)^2 + (x2 - 188.452)^2 < 400)) ==> @74(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs11
+{
+	 mode 74;
+	 invt:
+		 (clock < 12.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @43(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @12(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 12.0 - 0.05) (clock < 12.0 + 0.05) ((x1 - -6.962)^2 + (x2 - 210.313)^2 < 400)) ==> @75(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs12
+{
+	 mode 75;
+	 invt:
+		 (clock < 13.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @44(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @13(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 13.0 - 0.05) (clock < 13.0 + 0.05) ((x1 - -1.594)^2 + (x2 - 231.555)^2 < 400)) ==> @76(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs13
+{
+	 mode 76;
+	 invt:
+		 (clock < 14.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @45(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @14(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 14.0 - 0.05) (clock < 14.0 + 0.05) ((x1 - 10.076)^2 + (x2 - 250.098)^2 < 400)) ==> @77(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs14
+{
+	 mode 77;
+	 invt:
+		 (clock < 15.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @46(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @15(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 15.0 - 0.05) (clock < 15.0 + 0.05) ((x1 - 26.905)^2 + (x2 - 264.128)^2 < 400)) ==> @78(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs15
+{
+	 mode 78;
+	 invt:
+		 (clock < 16.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @47(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @16(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 16.0 - 0.05) (clock < 16.0 + 0.05) ((x1 - 47.245)^2 + (x2 - 272.27)^2 < 400)) ==> @79(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs16
+{
+	 mode 79;
+	 invt:
+		 (clock < 17.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @48(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @17(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 17.0 - 0.05) (clock < 17.0 + 0.05) ((x1 - 69.106)^2 + (x2 - 273.729)^2 < 400)) ==> @80(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs17
+{
+	 mode 80;
+	 invt:
+		 (clock < 18.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @49(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @18(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 18.0 - 0.05) (clock < 18.0 + 0.05) ((x1 - 90.348)^2 + (x2 - 268.36)^2 < 400)) ==> @81(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs18
+{
+	 mode 81;
+	 invt:
+		 (clock < 19.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @50(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @19(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 19.0 - 0.05) (clock < 19.0 + 0.05) ((x1 - 108.891)^2 + (x2 - 256.69)^2 < 400)) ==> @82(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs19
+{
+	 mode 82;
+	 invt:
+		 (clock < 20.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @51(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @20(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 20.0 - 0.05) (clock < 20.0 + 0.05) ((x1 - 123.389)^2 + (x2 - 240.198)^2 < 400)) ==> @83(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs20
+{
+	 mode 83;
+	 invt:
+		 (clock < 21.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @52(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @21(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 21.0 - 0.05) (clock < 21.0 + 0.05) ((x1 - 137.631)^2 + (x2 - 223.48)^2 < 400)) ==> @84(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs21
+{
+	 mode 84;
+	 invt:
+		 (clock < 22.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @53(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @22(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 22.0 - 0.05) (clock < 22.0 + 0.05) ((x1 - 155.951)^2 + (x2 - 211.463)^2 < 400)) ==> @85(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs22
+{
+	 mode 85;
+	 invt:
+		 (clock < 23.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @54(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @23(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 23.0 - 0.05) (clock < 23.0 + 0.05) ((x1 - 177.087)^2 + (x2 - 205.695)^2 < 400)) ==> @86(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs23
+{
+	 mode 86;
+	 invt:
+		 (clock < 24.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @55(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @24(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 24.0 - 0.05) (clock < 24.0 + 0.05) ((x1 - 198.972)^2 + (x2 - 206.741)^2 < 400)) ==> @87(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs24
+{
+	 mode 87;
+	 invt:
+		 (clock < 25.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @56(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @25(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 25.0 - 0.05) (clock < 25.0 + 0.05) ((x1 - 219.462)^2 + (x2 - 214.499)^2 < 400)) ==> @88(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs25
+{
+	 mode 88;
+	 invt:
+		 (clock < 26.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @57(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @26(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 26.0 - 0.05) (clock < 26.0 + 0.05) ((x1 - 236.553)^2 + (x2 - 228.208)^2 < 400)) ==> @89(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs26
+{
+	 mode 89;
+	 invt:
+		 (clock < 27.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @58(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @27(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 27.0 - 0.05) (clock < 27.0 + 0.05) ((x1 - 248.57)^2 + (x2 - 246.528)^2 < 400)) ==> @90(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs27
+{
+	 mode 90;
+	 invt:
+		 (clock < 28.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @59(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @28(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 28.0 - 0.05) (clock < 28.0 + 0.05) ((x1 - 254.372)^2 + (x2 - 267.661)^2 < 400)) ==> @91(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs28
+{
+	 mode 91;
+	 invt:
+		 (clock < 29.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @60(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @29(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 29.0 - 0.05) (clock < 29.0 + 0.05) ((x1 - 256.658)^2 + (x2 - 289.523)^2 < 400)) ==> @92(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs29
+{
+	 mode 92;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @61(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @30(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+
+		 (and (clock > 30.0 - 0.05) (clock < 30.0 + 0.05) ((x1 - 253.217)^2 + (x2 - 311.16)^2 < 400)) ==> @93(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+// adjusting_right_obs30
+{
+	 mode 93;
+	 invt:
+		 (clock < 30.0 + 0.05);
+	 flow:
+		 d/dt[x1] = 22.0 * cos(theta);
+		 d/dt[x2] = 22.0 * sin(theta);
+		 d/dt[theta] = -0.31415;
+		 d/dt[clock] = 1.0;
+	 jump:
+		 (true) ==> @62(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+		 (true) ==> @31(and (x1' = x1) (x2' = x2) (theta' = theta) (clock' = clock));
+}
+init:
+@1 (and (x1 = 0.0) (x2 = 0.0) (theta = 0.11216725782608199) (clock = 0.0));
+
+goal:
+@31 true;
+@62 true;
+@93 true;
